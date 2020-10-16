@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 960,
   "height": 500,
-  "title": "A choropleth map depicting United States Unemployment Rates by county in August 2020",
+  "title": "A choropleth map depicting United States unemployment rates by county in 2019",
   "data": {
     "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework4/js/america.topojson",
     "format": {
@@ -40,8 +40,8 @@
       
      "scale": {
  "type": "threshold",
- "domain": [0,5,10,15,20],
- "range": ["#f1eef6","#d4b9da","#c994c7","#df65b0","#dd1c77","#980043"]
+ "domain": [0,5,10,15],
+ "range": ["#f1eef6","#d4b9da","#c994c7","#df65b0","#dd1c77"]
  }
     },
     
