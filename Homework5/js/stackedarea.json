@@ -1,1 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework5/data/UnemploymentByIndustries.csv"},
+  "width": 400, "height": 300,
+  "title": "Unemployment rates in different industries in USA",
+  "mark": "area",
+  "selection": {
+    "industry": {
+      "type": "multi", "fields": ["Industry"], "bind": "legend"
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "Year"
+    },
+    "y": {
+      "aggregate": "sum", "field": "Unemployment rates",
+      "axis": null,
+      "stack": "normalize"
+
+    },
+    "color": {"field":"Industry", "scale":{"scheme": "category20b"}
+    },
+    "tooltip": [
+ {"field": "Industry", "type": "nominal"},
+  {"field": "Year", "type": "nominal"},
+ {"field": "Unemployment rates", "type": "quantitative", "format": ","}
+    ],
+    "opacity": {
+      "condition": {"selection": "industry", "value": 1},
+      "value": 0.2
+    }
+  }
+}
 
