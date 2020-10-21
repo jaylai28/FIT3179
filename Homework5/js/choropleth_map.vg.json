@@ -4,7 +4,7 @@
   "height": 500,
   "title": "A choropleth map depicting United States unemployment rates by county in 2019",
   "data": {
-    "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework4/js/america.topojson",
+    "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework5/js/america.topojson",
     "format": {
       "type": "topojson",
       "feature": "counties"
@@ -14,7 +14,7 @@
     "lookup": "id",
     "from": {
       "data": {
-        "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework4/data/usa_unemployment19-20.csv"
+        "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework5/data/usa_unemployment19-20.csv"
       },
       "key": "Code",
       "fields": ["County Name/State Abbreviation", "Unemployed", "UnemploymentRate"]   
