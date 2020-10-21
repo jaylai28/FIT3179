@@ -1,6 +1,72 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework5/data/UnemploymentByIndustries.csv"},
+  "params": [
+ {
+ "name": "Industry_Selection",
+ "bind": {
+ "input": "select",
+ "options": [
+ null,
+ "Agriculture and related private wage and salary workers",
+ "Construction",
+ "Durable goods",
+ "Nondurable goods",
+ "Education and health services",
+ "Financial activities",
+ "Governmennt workers",
+ "Information",
+ "Leisure and hospitality",
+ "Manufacturing",
+ "Mining, quarrying, and oil and gas extraction",
+ "Nonagricultural private wage and salary workers",
+ "Other services",
+ "Professional and business services",
+ "Self-employed workers, unincorporated, and unpaid family workers",
+ "Transportation and utilities",
+ "Wholesale and retail trade"
+ ],
+ 
+ "labels":[
+ "Show All",
+ "Agriculture and related private wage and salary workers",
+ "Construction",
+ "Durable goods",
+ "Nondurable goods",
+ "Education and health services",
+ "Financial activities",
+ "Governmennt workers",
+ "Information",
+ "Leisure and hospitality",
+ "Manufacturing",
+ "Mining, quarrying, and oil and gas extraction",
+ "Nonagricultural private wage and salary workers",
+ "Other services",
+ "Professional and business services",
+ "Self-employed workers, unincorporated, and unpaid family workers",
+ "Transportation and utilities",
+ "Wholesale and retail trade"
+ ],
+ "name": "Industry Selection: "
+ }
+ },
+ {
+ "name": "Unemployment_above",
+ "value": 0,
+ "bind": {
+ "input": "range",
+ "min": 0,
+ "max": 8,
+ "step": 1,
+ "name": "Unemployment rates: "
+ }
+ }
+  ],
+ "transform": [
+    {"filter": "datum.UnemploymentRates > Unemployment_above"},
+    {"filter": "Industry_Selection == null || datum.Industry ==Industry_Selection"}
+
+    ],
   "width": 400, "height": 300,
   "title": "Unemployment rates in different industries in USA",
   "mark": "area",
@@ -14,7 +80,7 @@
       "field": "Year"
     },
     "y": {
-      "aggregate": "sum", "field": "Unemployment rates",
+      "aggregate": "sum", "field": "UnemploymentRates",
       "axis": null,
       "stack": "normalize"
 
@@ -24,12 +90,11 @@
     "tooltip": [
  {"field": "Industry", "type": "nominal"},
   {"field": "Year", "type": "nominal"},
- {"field": "Unemployment rates", "type": "quantitative", "format": ","}
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ","}
     ],
     "opacity": {
       "condition": {"selection": "industry", "value": 1},
-      "value": 0.2
+      "value": 0.3
     }
   }
 }
-
