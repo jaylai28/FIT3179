@@ -1,0 +1,55 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 960,
+  "height": 500,
+  "title": "A choropleth map depicting United States unemployment rates by county in 2019",
+  "data": {
+    "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework5/js/america.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "counties"
+    }
+  },
+  "transform": [{
+    "lookup": "id",
+    "from": {
+      "data": {
+        "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework5/data/usa_unemployment19-20.csv"
+      },
+      "key": "Code",
+      "fields": ["County Name/State Abbreviation", "Unemployed", "UnemploymentRate"]   
+    }
+
+  }
+],
+  
+  
+  "projection": {
+    "type": "albersUsa"
+  },
+
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "UnemploymentRate",
+      "type": "quantitative",
+      "legend": {
+        "title": "Unemployment Rate (%)"
+
+      },
+      
+     "scale": {
+ "type": "threshold",
+ "domain": [0,5,10,15],
+ "range": ["#f1eef6","#d4b9da","#c994c7","#df65b0","#dd1c77"]
+ }
+    },
+    
+    "tooltip": [
+ {"field": "County Name/State Abbreviation", "type": "nominal", "title": "Counties Name"},
+ {"field": "UnemploymentRate", "type": "quantitative", "format": ".2f"}
+
+ ]
+
+  }
+}
