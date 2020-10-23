@@ -1,0 +1,19 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+   "width": 550,
+ "height": 400,
+  "title": "Unemployment rates in US from 2000 to 2020.",
+  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment%202/data/UnemploymentRates2000-2020.csv"},
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Date", "type": "temporal"},
+    "y": {"field": "Total", "type": "quantitative"},
+    
+    "tooltip": [
+ {"field": "Month", "type": "nominal", "title": "Month"},
+  {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "Total", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
+    ]
+  }
+  }
+  
