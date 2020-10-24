@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment%202/data/UnemploymentRatesByEthnicity.csv"},
+  "selection": {
+ "Ethnicity_highlight": {
+ "type": "multi",
+ "fields": ["Ethnicity"],
+ "bind": "legend"
+ }
+  },
+   "width": 550,
+ "height": 400,
+  "mark": "bar",
+  "title": "Unemployment rates in US for different Ethnicity group in 2020.",
+
+  "encoding": {
+    "x": {
+      "timeUnit": "month",
+      "field": "Date",
+      "type": "ordinal",
+      "title": "Month of the year"
+    },
+    "y": {
+      "aggregate": "mean", "field": "UnemploymentRates",
+      "title": "Unemployment Rates",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "Ethnicity",
+      "type": "nominal",
+      "scale": {
+        "domain": ["White", "Black/AfricanAmerican", "Asian", "Hispanic/Latino"],
+        "range": ["#1f77b4", "#8ca252", "#e7ba52", "#e7969c"]
+      },
+      "title": "Ethnicity type"
+    },
+    "tooltip": [
+{"field": "Ethnicity", "type": "nominal", "title": "Ethnicity"},
+ {"field": "Month", "type": "nominal", "title": "Month"},
+ {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f"}
+    ],
+    "opacity": {
+ "condition": {"selection": "Ethnicity_highlight", "value": 1},
+ "value": 0.2
+ }
+  }
+}
