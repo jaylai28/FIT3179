@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "An unemployment rates pyramid for the US in 2019 - 2020.",
+  "data": { "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment%202/data/UnemploymentRatesByAge.csv"},
+
+  "spacing": 0,
+  "hconcat": [{
+    "transform": [{
+      "filter": {"field": "Sex", "equal": "Female"}
+    }],
+    "title": "Female",
+    "width": 450,
+ "height": 300,
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Age", "axis": null, "sort": "descending"
+      },
+      "x": {
+        "aggregate": "sum", "field": "UnemploymentRates",
+        "title": "Unemployment Rates",
+        "axis": {"format": "s"},
+        "sort": "descending"
+      },
+      "color": {
+        "field": "Sex",
+        "scale": {"range": ["#675193", "#ca8861"]},
+        "legend": null
+      },
+      "tooltip": [
+ {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f"}
+    ]
+    }
+  }, {
+    "width": 20,
+    "view": {"stroke": null},
+    "mark": {
+      "type": "text",
+      "align": "center"
+    },
+    "width":80,
+ "height": 300,
+    "encoding": {
+      "y": {"field": "Age", "type": "ordinal", "axis": null, "sort": "descending"},
+      "text": {"field": "Age", "type": "nominal"}
+    }
+  }, {
+    "transform": [{
+      "filter": {"field": "Sex", "equal": "Male"}
+    }],
+    "title": "Male",
+    "width": 450,
+ "height": 300,
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Age", "title": null,
+        "axis": null, "sort": "descending"
+      },
+      "x": {
+        "aggregate": "sum", "field": "UnemploymentRates",
+        "title": "Unemployment Rates",
+        "axis": {"format": "s"}
+      },
+      "color": {
+        "field": "Sex",
+        "legend": null
+      },
+      "tooltip": [
+ {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f"}
+    ]
+     
+    }
+  }],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {"grid": false}
+  }
+}
