@@ -1,8 +1,8 @@
 
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 400,
- "height": 300,
+  "width": 450,
+ "height": 350,
 
   "selection": {
  "Type_highlight": {
