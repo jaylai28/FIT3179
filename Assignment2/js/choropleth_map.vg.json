@@ -47,6 +47,7 @@
     
     "tooltip": [
  {"field": "County Name/State Abbreviation", "type": "nominal", "title": "Counties Name"},
+  {"field": "Unemployed", "type": "nominal"},
  {"field": "UnemploymentRate", "type": "quantitative", "format": ".2f"}
 
  ]
