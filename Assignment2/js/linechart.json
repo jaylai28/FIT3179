@@ -12,7 +12,7 @@
  }
   },
   "title": "Unemployment Rates in US from 2000 to 2020 across different ethnicity group.",
-  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment%202/data/UnemploymentRates2000-2020.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRates2000-2020.csv"},
   "transform": [
     {"filter": "datum.Type == 'White' || datum.Type == 'Black/AfricanAmerican' || datum.Type == 'Asian' || datum.Type == 'Hispanic/Latino'"}
   ],
