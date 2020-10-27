@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment%202/data/UnemploymentRatesByEthnicity.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRatesByEthnicity.csv"},
   "selection": {
  "Ethnicity_highlight": {
  "type": "multi",
