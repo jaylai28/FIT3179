@@ -14,7 +14,7 @@
     "lookup": "id",
     "from": {
       "data": {
-        "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Homework5/data/usa_unemployment19-20.csv"
+        "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/usa_unemployment19-20.csv"
       },
       "key": "Code",
       "fields": ["County Name/State Abbreviation", "Unemployed", "UnemploymentRate"]   
