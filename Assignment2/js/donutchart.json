@@ -3,8 +3,8 @@
   "description": "A simple donut chart with embedded data.",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentByIndustries.csv"
   },
- "width": 350,
- "height": 300,
+ "width": 450,
+ "height": 350,
   "params": [
  {
  "name": "Year_Selection",
