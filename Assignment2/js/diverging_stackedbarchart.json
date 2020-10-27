@@ -9,7 +9,7 @@
       "filter": {"field": "Sex", "equal": "Female"}
     }],
     "title": "Female",
-    "width": 450,
+    "width": 400,
  "height": 300,
     "mark": "bar",
     "encoding": {
@@ -50,7 +50,7 @@
       "filter": {"field": "Sex", "equal": "Male"}
     }],
     "title": "Male",
-    "width": 450,
+    "width": 400,
  "height": 300,
     "mark": "bar",
     "encoding": {
