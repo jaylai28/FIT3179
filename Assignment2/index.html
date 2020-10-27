@@ -70,6 +70,12 @@
         <div class="pure-u-2-3">
           <div id="vis1" class="vis-container"></div>
         </div>
+      </div>
+   </div>
+  </div>
+  </div>
+</div>
+
       <div class="pure-u-1-3">
           <div class="description description">
             <h2>This is the first section</h2>
@@ -125,6 +131,9 @@
   var specVis1 = "js/choropleth_map.vg.json";
   var specVis2 = "js/donutchart.json";
   var specVis3= "js/stackedbarchart.json";
+  var specVis4 = "js/diverging_stackedbarchart.json";
+  var specVis5 = "js/barchart.json";
+  var specVis6 = "js/linechart.json";
 
   vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -134,11 +143,19 @@
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  vegaEmbed('#vis3', specVis1, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis3', specVis3, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 
-  vegaEmbed('#vis4', specVis2, {"actions": false}).then(function(result) {
+  vegaEmbed('#vis4', specVis4, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+          
+ vegaEmbed('#vis5', specVis5, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  vegaEmbed('#vis6', specVis6, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
