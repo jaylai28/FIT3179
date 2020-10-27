@@ -1,8 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Unemployment Rates in US in 2020",
-  "width": 550,
- "height": 400,
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/usa_unemployment2020.csv"},
   "mark": "bar",
   "encoding": {
