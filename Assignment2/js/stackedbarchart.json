@@ -8,8 +8,8 @@
  "bind": "legend"
  }
   },
-   "width": 450,
- "height": 350,
+   "width": 500,
+ "height": 400,
   "mark": "bar",
   "title": "Unemployment rates in US for different Ethnicity group in 2020.",
 
