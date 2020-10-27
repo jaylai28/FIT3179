@@ -34,7 +34,6 @@
  "bind": "legend"
  }
  },
-  "width": 400, "height": 300,
   "title": "Unemployment rates in different industries in USA",
   "mark": {"type": "arc", "innerRadius": 50},
   "encoding": {
