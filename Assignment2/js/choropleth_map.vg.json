@@ -17,7 +17,7 @@
         "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/usa_unemployment19-20.csv"
       },
       "key": "Code",
-      "fields": ["County Name/State Abbreviation", "Unemployed", "UnemploymentRate"]   
+      "fields": ["County Name/State Abbreviation", "Code", "Unemployed", "UnemploymentRate"]   
     }
 
   }
@@ -47,6 +47,7 @@
     
     "tooltip": [
  {"field": "County Name/State Abbreviation", "type": "nominal", "title": "Counties Name"},
+   {"field": "Code", "type": "nominal", "title": "Post Code"},
   {"field": "Unemployed", "type": "nominal"},
  {"field": "UnemploymentRate", "type": "quantitative", "format": ".2f"}
 
