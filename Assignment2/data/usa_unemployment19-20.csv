@@ -1,4 +1,4 @@
-﻿Code,County Name/State Abbreviation,Period,LaborForce,Employed,Unemployed,UnemploymentRate
+Code,County Name/State Abbreviation,Period,LaborForce,Employed,Unemployed,UnemploymentRate
 1001,"Autauga County, AL",2019,"26,172","25,458",714,2.7
 1003,"Baldwin County, AL",2019,"97,328","94,675","2,653",2.7
 1005,"Barbour County, AL",2019,"8,537","8,213",324,3.8
@@ -2416,6 +2416,7 @@
 46107,"Potter County, SD",2019,"1,045","1,012",33,3.2
 46109,"Roberts County, SD",2019,"4,839","4,630",209,4.3
 46111,"Sanborn County, SD",2019,"1,153","1,117",36,3.1
+46113,"Oglala Lakota County, SD",2019,"1,627","1,575",52,3.2
 46115,"Spink County, SD",2019,"3,189","3,080",109,3.4
 46117,"Stanley County, SD",2019,"1,850","1,795",55,3
 46119,"Sully County, SD",2019,800,777,23,2.9
