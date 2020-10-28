@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "An unemployment rates pyramid for the US in 2019 - 2020.",
+  "title": "An unemployment rates pyramid for the US in 2020.",
   "data": { "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRatesByAge.csv"},
 
   "spacing": 0,
@@ -20,7 +20,8 @@
         "aggregate": "sum", "field": "UnemploymentRates",
         "title": "Unemployment Rates",
         "axis": {"format": "s"},
-        "sort": "descending"
+        "sort": "descending",
+        "scale": {"domain": [0,20]}
       },
       "color": {
         "field": "Sex",
@@ -29,7 +30,7 @@
       },
       "tooltip": [
  {"field": "Year", "type": "nominal", "title": "Year"},
- {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f"}
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
     ]
     }
   }, {
@@ -39,7 +40,8 @@
       "type": "text",
       "align": "center"
     },
-    "width":100,
+
+    "width":10,
  "height": 350,
     "encoding": {
       "y": {"field": "Age", "type": "ordinal", "axis": null, "sort": "descending"},
@@ -61,7 +63,8 @@
       "x": {
         "aggregate": "sum", "field": "UnemploymentRates",
         "title": "Unemployment Rates",
-        "axis": {"format": "s"}
+        "axis": {"format": "s"},
+        "scale": {"domain": [0,20]}
       },
       "color": {
         "field": "Sex",
@@ -69,7 +72,7 @@
       },
       "tooltip": [
  {"field": "Year", "type": "nominal", "title": "Year"},
- {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f"}
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
     ]
      
     }
