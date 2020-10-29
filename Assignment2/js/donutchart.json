@@ -1,34 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "description": "A simple donut chart with embedded data.",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentByIndustries.csv"
   },
  "width": 450,
  "height": 350,
   "params": [
- {
- "name": "Year_Selection",
- "bind": {
- "input": "select",
- "options": [
- null,
-"2019",
-"2020"
- ],
- 
- "labels":[
- "Show All",
-"2019",
-"2020"
- ],
- "name": "Year Selection: "
- }
- }
   ],
- "transform": [
-    {"filter": "Year_Selection == null || datum.Year ==Year_Selection"}
-
-    ],
     "selection": {
  "Industry_highlight": {
  "type": "multi",
@@ -36,14 +13,13 @@
  "bind": "legend"
  }
  },
-  "title": "Unemployment rates in different industries in USA",
   "mark": {"type": "arc", "innerRadius": 50},
   "encoding": {
     "theta": {"field": "UnemploymentRates", "type": "quantitative"},
     "color": {"field": "Industry", "type": "nominal"},
+
     "tooltip": [
  {"field": "Industry", "type": "nominal"},
-  {"field": "Year", "type": "nominal"},
  {"field": "UnemploymentRates", "type": "quantitative", "format": ","}
     ],
     "opacity": {
@@ -51,8 +27,7 @@
  "value": 0.2
  }
   },
+
 "view": {"stroke": null}
- 
-  
   
 }
