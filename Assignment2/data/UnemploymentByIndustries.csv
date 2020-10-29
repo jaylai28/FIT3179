@@ -1,10 +1,7 @@
 ﻿Industry,Year,Number of unemployed persons (in thousands),UnemploymentRates
-Nonagricultural private wage and salary workers,2020,"10,098",8
 "Mining, quarrying, and oil and gas extraction",2020,108,14.9
 Construction,2020,700,7.1
 Manufacturing,2020,935,6.2
-Durable goods,2020,531,5.7
-Nondurable goods,2020,404,7.1
 Wholesale and retail trade,2020,"1,545",7.8
 Transportation and utilities,2020,753,9.8
 Information,2020,202,8.6
@@ -13,6 +10,3 @@ Professional and business services,2020,"1,161",6.7
 Education and health services,2020,"1,250",5.1
 Leisure and hospitality,2020,"2,436",19
 Other services,2020,566,9.2
-Agriculture and related private wage and salary workers,2020,76,5
-Government workers,2020,884,4.1
-"Self-employed workers, unincorporated, and unpaid family workers",2020,688,6.7
