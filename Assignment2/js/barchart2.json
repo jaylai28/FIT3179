@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Bar Chart with a spacing-saving y-axis",
+  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentByIndustries.csv"},
+  "height": {"step": 50},
+  "mark": {"type": "bar", "yOffset": 5, "cornerRadiusEnd": 2},
+  "encoding": {
+    "y": {
+      "field": "Industry",
+      "scale": {"padding": 0},
+      "band": 0.3,
+      "axis": {
+        "bandPosition": 0,
+        "grid": true,
+        "domain": false,
+        "ticks": false,
+        "labelAlign": "left",
+        "labelBaseline": "middle",
+        "labelPadding": -5,
+        "labelOffset": -15,
+        "titleX": 5,
+        "titleY": -5,
+        "titleAngle": 0,
+        "titleAlign": "left"
+      }
+    },
+    "x": {
+      "aggregate": "sum", "field": "UnemploymentRates",
+      "axis": {"grid": false},
+      "title": "Unemployment Rates"
+    },
+     "color": {"value": "#810f7c"}
+
+  },
+  "layer": [{
+    "mark": "bar"
+  }, {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "top",
+      "dx": 3
+    },
+    "encoding": {
+    "text": {"field": "UnemploymentRates", "type": "quantitative"}
+    }
+  }]
+ 
+}
