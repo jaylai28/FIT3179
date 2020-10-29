@@ -1,0 +1,70 @@
+{
+ "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+ "width": 800,
+ "height": 500,
+ "title": "COVID-19 Cases per Country (13 Oct 2020)",
+ "data": {
+ "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRateByStates.csv"
+ },
+ "transform": [
+  {"filter": "datum.Year == 2019"}],
+ "params": [
+   
+ {
+ "name": "Population_Above",
+ "value": 0,
+ "bind": {
+ "input": "range",
+ "min": 0,
+ "max": 10000000,
+ "step": 100000,
+ "name": "Minimum Population: "
+ }
+ }
+ ],
+
+ "selection": {
+ "continent_highlight": {
+ "type": "multi",
+ "fields": ["State"],
+ "bind": "legend"
+ }
+ },
+ "mark": "circle",
+ "encoding": {
+ "x": {
+ "field": "State",
+ "type": "nominal",
+ "title": "State",
+ "axis": {"tickCount": 7}
+ },
+ "y": {
+ "field": "UnemploymentRates",
+ "type": "quantitative",
+ "title": "Unemployment Rates",
+ "axis": {"tickCount": 7},
+ "scale": {"type": "log", "domain": [1, 10]
+ }
+}, 
+  "opacity": {
+ "condition": {"selection": "continent_highlight", "value": 1},
+ "value": 0.2
+ },
+ "color": {
+ "field": "Population",
+ "type": "quantitative",
+ "scale": {
+ "type": "threshold",
+ "domain": [2000000, 5000000, 10000000, 15000000, 2500000],
+ "range": ["#f1eef6","#d4b9da","#c994c7","#df65b0","#dd1c77","#980043"]
+ }
+ },
+
+ "tooltip": [
+ {"field": "State", "type": "nominal"},
+  {"field": "Population", "type": "quantitative"},
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ","}
+
+ ]
+ }
+}
