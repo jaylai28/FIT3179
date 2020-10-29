@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Unemployment Rates in US in 2020.",
+  "width": 300, "height": 200,
+  "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRatesByEthnicity.csv"},
+  "mark": "area",
+  "selection": {
+ "Ethnicity_highlight": {
+ "type": "multi",
+ "fields": ["Ethnicity"],
+ "bind": "legend"
+ }
+  },
+  "encoding": {
+"x": {
+      "timeUnit": "month", "field": "Date", "title": "Month"
+    },   
+    "y": {
+      "aggregate": "sum", "field": "UnemploymentRates", "title": "Unemployment Rates"
+    },
+    "color": {
+      "field": "Ethnicity",
+      "scale": {"scheme": "set2"}
+    },
+    "tooltip": [
+{"field": "Ethnicity", "type": "nominal", "title": "Ethnicity"},
+ {"field": "Month", "type": "nominal", "title": "Month"},
+ {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ".2f"}
+    ],
+    "opacity": {
+ "condition": {"selection": "Ethnicity_highlight", "value": 1},
+ "value": 0.2
+ }
+  }
+}
