@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRates2000-2020.csv"
+  },
+ "width": 1000,
+ "height": 450,
+  
+  "transform": [
+    {
+      "filter": "datum.Type==='Total'"
+    }
+  ],
+
+  "mark": {
+    "type": "area",
+    "line": {
+      "color": "darkred"
+    },
+    "color": {
+      "x1": 1,
+      "y1": 1,
+      "x2": 1,
+      "y2": 0,
+      "gradient": "linear",
+      "stops": [
+        {
+          "offset": 0,
+          "color": "white"
+        },
+        {
+          "offset": 1,
+          "color": "darkred"
+        }
+      ]
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "Date",
+      "type": "temporal",
+      "title": "Year"
+    },
+    "y": {
+      "field": "Unemployment Rates",
+      "type": "quantitative"
+    },
+    "tooltip": [
+ {"field": "Month", "type": "nominal", "title": "Month"},
+  {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "Unemployment Rates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
+    ]
+  }
+}
