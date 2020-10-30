@@ -1,13 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Unemployment Rates in US in 2020.",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRatesByEthnicity.csv"},
 
   "hconcat": [
   {
   "title": "Unemployment Rates in US in 2020",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/usa_unemployment2020.csv"},
-  "width": 500,
+  "width": 450,
  "height": 350,
   "mark": "bar",
   "encoding": {
@@ -25,8 +24,9 @@
   }
 },
  {
-  "width": 500,
-  "height": 350,
+  "width": 450,
+  "height": 340,
+    "title": "Unemployment Rates for different Ethnicity groups in 2020",
   "mark": "area",
   "selection": {
  "Ethnicity_highlight": {
