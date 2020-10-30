@@ -7,13 +7,7 @@
   "mark": "bar",
   "encoding": {
     "x": {
-      "timeUnit": "month",
-      "field": "Date",
-     
-      "axis": {
-        "labelAlign": "left",
-        "labelExpr": "datum.label[0]"
-      }
+      "timeUnit": "month", "field": "Date", "title": "Month"
     },
     "y": {"aggregate": "mean", "field": "Total", "title": "Unemployment Rates"},
 
