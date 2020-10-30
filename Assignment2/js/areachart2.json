@@ -1,0 +1,167 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRates2000-2020.csv"
+  },
+  
+  "transform": [
+    {
+      "filter": "datum.Type=='Total'"
+    }
+  ],
+  "concat": [
+    {
+      "width": 400,
+ "height": 250,
+ "title": "The Dot-Com Bubble Burst 2000s",
+  "transform": [
+    {
+      "filter": "datum.Type=='Total'"
+    },
+    {
+      "filter": "datum.Year=='2000' || datum.Year=='2001' || datum.Year=='2002' "
+    }
+  ],
+      "mark": {
+      "type": "area",
+    "line": {
+      "color": "darkblue"
+    },
+    "color": {
+      "x1": 1,
+      "y1": 1,
+      "x2": 1,
+      "y2": 0,
+      "gradient": "linear",
+      "stops": [
+        {
+          "offset": 0,
+          "color": "white"
+        },
+        {
+          "offset": 1,
+          "color": "darkgreen"
+        }
+      ]
+    }
+    },
+  "encoding": {
+    "x": {
+     "timeUnit": "monthyear", "field": "Date", "title": "Date"
+    },
+    "y": {
+      "field": "Unemployment Rates",
+      "type": "quantitative"
+    },
+     "tooltip": [
+ {"field": "Month", "type": "nominal", "title": "Month"},
+  {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "Unemployment Rates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
+    ]
+  }
+  },
+
+{
+      "width": 400,
+ "height": 250,
+  "title": "The Global Financial Crisis 2008",
+  "transform": [
+    {
+      "filter": "datum.Type=='Total'"
+    },
+    {
+      "filter": "datum.Year=='2008' || datum.Year=='2009' "
+    }
+  ],
+      "mark": {
+      "type": "area",
+    "line": {
+      "color": "darkblue"
+    },
+    "color": {
+      "x1": 1,
+      "y1": 1,
+      "x2": 1,
+      "y2": 0,
+      "gradient": "linear",
+      "stops": [
+        {
+          "offset": 0,
+          "color": "white"
+        },
+        {
+          "offset": 1,
+          "color": "darkgreen"
+        }
+      ]
+    }
+    },
+  "encoding": {
+    "x": {
+     "timeUnit": "monthyear", "field": "Date", "title": "Date"
+    },
+    "y": {
+      "field": "Unemployment Rates",
+      "type": "quantitative"
+    },
+     "tooltip": [
+ {"field": "Month", "type": "nominal", "title": "Month"},
+  {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "Unemployment Rates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
+    ]
+  }
+  },
+
+   {
+      "width": 400,
+ "height": 250,
+  "title": "The COVID-19 Recession 2020",
+  "transform": [
+    {
+      "filter": "datum.Type=='Total'"
+    },
+    {
+      "filter": "datum.Year=='2020' "
+    }
+  ],
+      "mark": {
+      "type": "area",
+    "line": {
+      "color": "darkblue"
+    },
+    "color": {
+      "x1": 1,
+      "y1": 1,
+      "x2": 1,
+      "y2": 0,
+      "gradient": "linear",
+      "stops": [
+        {
+          "offset": 0,
+          "color": "white"
+        },
+        {
+          "offset": 1,
+          "color": "darkgreen"
+        }
+      ]
+    }
+    },
+  "encoding": {
+    "x": {
+    "timeUnit": "month", "field": "Date", "title": "Date"
+    },
+    "y": {
+      "field": "Unemployment Rates",
+      "type": "quantitative"
+    },
+     "tooltip": [
+ {"field": "Month", "type": "nominal", "title": "Month"},
+  {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "Unemployment Rates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
+    ]
+  }
+  }
+
+
+  ]
+}
