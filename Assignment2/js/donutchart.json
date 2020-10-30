@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentByIndustries.csv"
   },
- "width": 450,
- "height": 350,
+ "width": 200,
+ "height": 200,
   "params": [
   ],
     "selection": {
