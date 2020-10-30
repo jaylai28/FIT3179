@@ -3,8 +3,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRates2000-2020.csv"
   },
- "width": 1200,
- "height": 500,
+ "width": 1050,
+ "height": 400,
   
   "transform": [
     {
