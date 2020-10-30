@@ -8,7 +8,7 @@
       "filter": "datum.Type=='Total'"
     }
   ],
-  "concat": [
+  "hconcat": [
     {
       "width": 350,
  "height": 200,
@@ -161,7 +161,5 @@
     ]
   }
   }
-
-
   ]
 }
