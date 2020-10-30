@@ -10,8 +10,8 @@
   ],
   "concat": [
     {
-      "width": 400,
- "height": 250,
+      "width": 350,
+ "height": 200,
  "title": "The Dot-Com Bubble Burst 2000s",
   "transform": [
     {
@@ -61,8 +61,8 @@
   },
 
 {
-      "width": 400,
- "height": 250,
+    "width": 350,
+ "height": 200,
   "title": "The Global Financial Crisis 2008",
   "transform": [
     {
@@ -112,8 +112,8 @@
   },
 
    {
-      "width": 400,
- "height": 250,
+  "width": 350,
+ "height": 200,
   "title": "The COVID-19 Recession 2020",
   "transform": [
     {
