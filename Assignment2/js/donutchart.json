@@ -2,8 +2,9 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentByIndustries.csv"
   },
- "width": 200,
- "height": 200,
+ "width": 350,
+ "height": 250,
+ "title": "Unemployment Rate for different industries",
   "params": [
   ],
     "selection": {
