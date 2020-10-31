@@ -1,0 +1,50 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+      "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/state_unemployment2020.csv"
+  },
+  "width": 1000,
+ "height": 450,
+  "title": "Unemployment Rate in every state in US in 2020",
+  "config": {
+      "view": {
+          "strokeWidth": 0,
+          "step": 13
+      },
+      "axis": {
+          "domain": false
+      }
+  },
+  "mark": "rect",
+  "encoding": {
+      "y": {
+          "field": "Date",
+          "timeUnit": "month",
+          "type": "ordinal",
+          "title": "Date (Month)"
+ 
+      },
+      "x": {
+          "field": "State",
+          "type": "nominal"
+      },
+      "color": {
+          "field": "UnemploymentRates",
+          "aggregate": "mean",
+          "type": "quantitative",
+    "scale": {"scheme": "yelloworangered"},
+
+          "legend": {
+              "title": "Unemployment Rates"
+          }
+      },
+
+    "tooltip": [
+ {"field": "State", "type": "nominal"},
+    {"field": "Month", "type": "nominal"},
+ {"field": "UnemploymentRates", "type": "quantitative", "format": ","}
+
+ ]
+  }
+}
+
