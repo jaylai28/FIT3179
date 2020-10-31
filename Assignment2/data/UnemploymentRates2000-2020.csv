@@ -1,1688 +1,1688 @@
-﻿Day,Month,Year,Date,Unemployment Rates,Type
-1,September,2000,1/September/2000,3.9,Total
-1,October,2000,1/October/2000,3.9,Total
-1,November,2000,1/November/2000,3.9,Total
-1,December,2000,1/December/2000,3.9,Total
-1,January,2001,1/January/2001,4.2,Total
-1,February,2001,1/February/2001,4.2,Total
-1,March,2001,1/March/2001,4.3,Total
-1,April,2001,1/April/2001,4.4,Total
-1,May,2001,1/May/2001,4.3,Total
-1,June,2001,1/June/2001,4.5,Total
-1,July,2001,1/July/2001,4.6,Total
-1,August,2001,1/August/2001,4.9,Total
-1,September,2001,1/September/2001,5,Total
-1,October,2001,1/October/2001,5.3,Total
-1,November,2001,1/November/2001,5.5,Total
-1,December,2001,1/December/2001,5.7,Total
-1,January,2002,1/January/2002,5.7,Total
-1,February,2002,1/February/2002,5.7,Total
-1,March,2002,1/March/2002,5.7,Total
-1,April,2002,1/April/2002,5.9,Total
-1,May,2002,1/May/2002,5.8,Total
-1,June,2002,1/June/2002,5.8,Total
-1,July,2002,1/July/2002,5.8,Total
-1,August,2002,1/August/2002,5.7,Total
-1,September,2002,1/September/2002,5.7,Total
-1,October,2002,1/October/2002,5.7,Total
-1,November,2002,1/November/2002,5.9,Total
-1,December,2002,1/December/2002,6,Total
-1,January,2003,1/January/2003,5.8,Total
-1,February,2003,1/February/2003,5.9,Total
-1,March,2003,1/March/2003,5.9,Total
-1,April,2003,1/April/2003,6,Total
-1,May,2003,1/May/2003,6.1,Total
-1,June,2003,1/June/2003,6.3,Total
-1,July,2003,1/July/2003,6.2,Total
-1,August,2003,1/August/2003,6.1,Total
-1,September,2003,1/September/2003,6.1,Total
-1,October,2003,1/October/2003,6,Total
-1,November,2003,1/November/2003,5.8,Total
-1,December,2003,1/December/2003,5.7,Total
-1,January,2004,1/January/2004,5.7,Total
-1,February,2004,1/February/2004,5.6,Total
-1,March,2004,1/March/2004,5.8,Total
-1,April,2004,1/April/2004,5.6,Total
-1,May,2004,1/May/2004,5.6,Total
-1,June,2004,1/June/2004,5.6,Total
-1,July,2004,1/July/2004,5.5,Total
-1,August,2004,1/August/2004,5.4,Total
-1,September,2004,1/September/2004,5.4,Total
-1,October,2004,1/October/2004,5.5,Total
-1,November,2004,1/November/2004,5.4,Total
-1,December,2004,1/December/2004,5.4,Total
-1,January,2005,1/January/2005,5.3,Total
-1,February,2005,1/February/2005,5.4,Total
-1,March,2005,1/March/2005,5.2,Total
-1,April,2005,1/April/2005,5.2,Total
-1,May,2005,1/May/2005,5.1,Total
-1,June,2005,1/June/2005,5,Total
-1,July,2005,1/July/2005,5,Total
-1,August,2005,1/August/2005,4.9,Total
-1,September,2005,1/September/2005,5,Total
-1,October,2005,1/October/2005,5,Total
-1,November,2005,1/November/2005,5,Total
-1,December,2005,1/December/2005,4.9,Total
-1,January,2006,1/January/2006,4.7,Total
-1,February,2006,1/February/2006,4.8,Total
-1,March,2006,1/March/2006,4.7,Total
-1,April,2006,1/April/2006,4.7,Total
-1,May,2006,1/May/2006,4.6,Total
-1,June,2006,1/June/2006,4.6,Total
-1,July,2006,1/July/2006,4.7,Total
-1,August,2006,1/August/2006,4.7,Total
-1,September,2006,1/September/2006,4.5,Total
-1,October,2006,1/October/2006,4.4,Total
-1,November,2006,1/November/2006,4.5,Total
-1,December,2006,1/December/2006,4.4,Total
-1,January,2007,1/January/2007,4.6,Total
-1,February,2007,1/February/2007,4.5,Total
-1,March,2007,1/March/2007,4.4,Total
-1,April,2007,1/April/2007,4.5,Total
-1,May,2007,1/May/2007,4.4,Total
-1,June,2007,1/June/2007,4.6,Total
-1,July,2007,1/July/2007,4.7,Total
-1,August,2007,1/August/2007,4.6,Total
-1,September,2007,1/September/2007,4.7,Total
-1,October,2007,1/October/2007,4.7,Total
-1,November,2007,1/November/2007,4.7,Total
-1,December,2007,1/December/2007,5,Total
-1,January,2008,1/January/2008,5,Total
-1,February,2008,1/February/2008,4.9,Total
-1,March,2008,1/March/2008,5.1,Total
-1,April,2008,1/April/2008,5,Total
-1,May,2008,1/May/2008,5.4,Total
-1,June,2008,1/June/2008,5.6,Total
-1,July,2008,1/July/2008,5.8,Total
-1,August,2008,1/August/2008,6.1,Total
-1,September,2008,1/September/2008,6.1,Total
-1,October,2008,1/October/2008,6.5,Total
-1,November,2008,1/November/2008,6.8,Total
-1,December,2008,1/December/2008,7.3,Total
-1,January,2009,1/January/2009,7.8,Total
-1,February,2009,1/February/2009,8.3,Total
-1,March,2009,1/March/2009,8.7,Total
-1,April,2009,1/April/2009,9,Total
-1,May,2009,1/May/2009,9.4,Total
-1,June,2009,1/June/2009,9.5,Total
-1,July,2009,1/July/2009,9.5,Total
-1,August,2009,1/August/2009,9.6,Total
-1,September,2009,1/September/2009,9.8,Total
-1,October,2009,1/October/2009,10,Total
-1,November,2009,1/November/2009,9.9,Total
-1,December,2009,1/December/2009,9.9,Total
-1,January,2010,1/January/2010,9.8,Total
-1,February,2010,1/February/2010,9.8,Total
-1,March,2010,1/March/2010,9.9,Total
-1,April,2010,1/April/2010,9.9,Total
-1,May,2010,1/May/2010,9.6,Total
-1,June,2010,1/June/2010,9.4,Total
-1,July,2010,1/July/2010,9.4,Total
-1,August,2010,1/August/2010,9.5,Total
-1,September,2010,1/September/2010,9.5,Total
-1,October,2010,1/October/2010,9.4,Total
-1,November,2010,1/November/2010,9.8,Total
-1,December,2010,1/December/2010,9.3,Total
-1,January,2011,1/January/2011,9.1,Total
-1,February,2011,1/February/2011,9,Total
-1,March,2011,1/March/2011,9,Total
-1,April,2011,1/April/2011,9.1,Total
-1,May,2011,1/May/2011,9,Total
-1,June,2011,1/June/2011,9.1,Total
-1,July,2011,1/July/2011,9,Total
-1,August,2011,1/August/2011,9,Total
-1,September,2011,1/September/2011,9,Total
-1,October,2011,1/October/2011,8.8,Total
-1,November,2011,1/November/2011,8.6,Total
-1,December,2011,1/December/2011,8.5,Total
-1,January,2012,1/January/2012,8.3,Total
-1,February,2012,1/February/2012,8.3,Total
-1,March,2012,1/March/2012,8.2,Total
-1,April,2012,1/April/2012,8.2,Total
-1,May,2012,1/May/2012,8.2,Total
-1,June,2012,1/June/2012,8.2,Total
-1,July,2012,1/July/2012,8.2,Total
-1,August,2012,1/August/2012,8.1,Total
-1,September,2012,1/September/2012,7.8,Total
-1,October,2012,1/October/2012,7.8,Total
-1,November,2012,1/November/2012,7.7,Total
-1,December,2012,1/December/2012,7.9,Total
-1,January,2013,1/January/2013,8,Total
-1,February,2013,1/February/2013,7.7,Total
-1,March,2013,1/March/2013,7.5,Total
-1,April,2013,1/April/2013,7.6,Total
-1,May,2013,1/May/2013,7.5,Total
-1,June,2013,1/June/2013,7.5,Total
-1,July,2013,1/July/2013,7.3,Total
-1,August,2013,1/August/2013,7.2,Total
-1,September,2013,1/September/2013,7.2,Total
-1,October,2013,1/October/2013,7.2,Total
-1,November,2013,1/November/2013,6.9,Total
-1,December,2013,1/December/2013,6.7,Total
-1,January,2014,1/January/2014,6.6,Total
-1,February,2014,1/February/2014,6.7,Total
-1,March,2014,1/March/2014,6.7,Total
-1,April,2014,1/April/2014,6.2,Total
-1,May,2014,1/May/2014,6.3,Total
-1,June,2014,1/June/2014,6.1,Total
-1,July,2014,1/July/2014,6.2,Total
-1,August,2014,1/August/2014,6.1,Total
-1,September,2014,1/September/2014,5.9,Total
-1,October,2014,1/October/2014,5.7,Total
-1,November,2014,1/November/2014,5.8,Total
-1,December,2014,1/December/2014,5.6,Total
-1,January,2015,1/January/2015,5.7,Total
-1,February,2015,1/February/2015,5.5,Total
-1,March,2015,1/March/2015,5.4,Total
-1,April,2015,1/April/2015,5.4,Total
-1,May,2015,1/May/2015,5.6,Total
-1,June,2015,1/June/2015,5.3,Total
-1,July,2015,1/July/2015,5.2,Total
-1,August,2015,1/August/2015,5.1,Total
-1,September,2015,1/September/2015,5,Total
-1,October,2015,1/October/2015,5,Total
-1,November,2015,1/November/2015,5.1,Total
-1,December,2015,1/December/2015,5,Total
-1,January,2016,1/January/2016,4.9,Total
-1,February,2016,1/February/2016,4.9,Total
-1,March,2016,1/March/2016,5,Total
-1,April,2016,1/April/2016,5,Total
-1,May,2016,1/May/2016,4.8,Total
-1,June,2016,1/June/2016,4.9,Total
-1,July,2016,1/July/2016,4.8,Total
-1,August,2016,1/August/2016,4.9,Total
-1,September,2016,1/September/2016,5,Total
-1,October,2016,1/October/2016,4.9,Total
-1,November,2016,1/November/2016,4.7,Total
-1,December,2016,1/December/2016,4.7,Total
-1,January,2017,1/January/2017,4.7,Total
-1,February,2017,1/February/2017,4.6,Total
-1,March,2017,1/March/2017,4.4,Total
-1,April,2017,1/April/2017,4.4,Total
-1,May,2017,1/May/2017,4.4,Total
-1,June,2017,1/June/2017,4.3,Total
-1,July,2017,1/July/2017,4.3,Total
-1,August,2017,1/August/2017,4.4,Total
-1,September,2017,1/September/2017,4.2,Total
-1,October,2017,1/October/2017,4.1,Total
-1,November,2017,1/November/2017,4.2,Total
-1,December,2017,1/December/2017,4.1,Total
-1,January,2018,1/January/2018,4.1,Total
-1,February,2018,1/February/2018,4.1,Total
-1,March,2018,1/March/2018,4,Total
-1,April,2018,1/April/2018,4,Total
-1,May,2018,1/May/2018,3.8,Total
-1,June,2018,1/June/2018,4,Total
-1,July,2018,1/July/2018,3.8,Total
-1,August,2018,1/August/2018,3.8,Total
-1,September,2018,1/September/2018,3.7,Total
-1,October,2018,1/October/2018,3.8,Total
-1,November,2018,1/November/2018,3.7,Total
-1,December,2018,1/December/2018,3.9,Total
-1,January,2019,1/January/2019,4,Total
-1,February,2019,1/February/2019,3.8,Total
-1,March,2019,1/March/2019,3.8,Total
-1,April,2019,1/April/2019,3.6,Total
-1,May,2019,1/May/2019,3.6,Total
-1,June,2019,1/June/2019,3.7,Total
-1,July,2019,1/July/2019,3.7,Total
-1,August,2019,1/August/2019,3.7,Total
-1,September,2019,1/September/2019,3.5,Total
-1,October,2019,1/October/2019,3.6,Total
-1,November,2019,1/November/2019,3.5,Total
-1,December,2019,1/December/2019,3.5,Total
-1,January,2020,1/January/2020,3.6,Total
-1,February,2020,1/February/2020,3.5,Total
-1,March,2020,1/March/2020,4.4,Total
-1,April,2020,1/April/2020,14.7,Total
-1,May,2020,1/May/2020,13.3,Total
-1,June,2020,1/June/2020,11.1,Total
-1,July,2020,1/July/2020,10.2,Total
-1,August,2020,1/August/2020,8.4,Total
-1,September,2020,1/September/2020,7.9,Total
-1,September,2000,1/September/2000,3.3,Men over 20 years old
-1,October,2000,1/October/2000,3.3,Men over 20 years old
-1,November,2000,1/November/2000,3.4,Men over 20 years old
-1,December,2000,1/December/2000,3.4,Men over 20 years old
-1,January,2001,1/January/2001,3.6,Men over 20 years old
-1,February,2001,1/February/2001,3.7,Men over 20 years old
-1,March,2001,1/March/2001,3.8,Men over 20 years old
-1,April,2001,1/April/2001,3.9,Men over 20 years old
-1,May,2001,1/May/2001,3.9,Men over 20 years old
-1,June,2001,1/June/2001,4,Men over 20 years old
-1,July,2001,1/July/2001,4.1,Men over 20 years old
-1,August,2001,1/August/2001,4.4,Men over 20 years old
-1,September,2001,1/September/2001,4.3,Men over 20 years old
-1,October,2001,1/October/2001,4.8,Men over 20 years old
-1,November,2001,1/November/2001,5,Men over 20 years old
-1,December,2001,1/December/2001,5.1,Men over 20 years old
-1,January,2002,1/January/2002,5.2,Men over 20 years old
-1,February,2002,1/February/2002,5.2,Men over 20 years old
-1,March,2002,1/March/2002,5.2,Men over 20 years old
-1,April,2002,1/April/2002,5.4,Men over 20 years old
-1,May,2002,1/May/2002,5.2,Men over 20 years old
-1,June,2002,1/June/2002,5.3,Men over 20 years old
-1,July,2002,1/July/2002,5.3,Men over 20 years old
-1,August,2002,1/August/2002,5.2,Men over 20 years old
-1,September,2002,1/September/2002,5.2,Men over 20 years old
-1,October,2002,1/October/2002,5.3,Men over 20 years old
-1,November,2002,1/November/2002,5.5,Men over 20 years old
-1,December,2002,1/December/2002,5.6,Men over 20 years old
-1,January,2003,1/January/2003,5.6,Men over 20 years old
-1,February,2003,1/February/2003,5.5,Men over 20 years old
-1,March,2003,1/March/2003,5.4,Men over 20 years old
-1,April,2003,1/April/2003,5.7,Men over 20 years old
-1,May,2003,1/May/2003,5.8,Men over 20 years old
-1,June,2003,1/June/2003,6,Men over 20 years old
-1,July,2003,1/July/2003,5.9,Men over 20 years old
-1,August,2003,1/August/2003,5.8,Men over 20 years old
-1,September,2003,1/September/2003,5.7,Men over 20 years old
-1,October,2003,1/October/2003,5.6,Men over 20 years old
-1,November,2003,1/November/2003,5.6,Men over 20 years old
-1,December,2003,1/December/2003,5.2,Men over 20 years old
-1,January,2004,1/January/2004,5.2,Men over 20 years old
-1,February,2004,1/February/2004,5.1,Men over 20 years old
-1,March,2004,1/March/2004,5.2,Men over 20 years old
-1,April,2004,1/April/2004,5.1,Men over 20 years old
-1,May,2004,1/May/2004,5.2,Men over 20 years old
-1,June,2004,1/June/2004,5.1,Men over 20 years old
-1,July,2004,1/July/2004,5,Men over 20 years old
-1,August,2004,1/August/2004,5,Men over 20 years old
-1,September,2004,1/September/2004,5,Men over 20 years old
-1,October,2004,1/October/2004,4.9,Men over 20 years old
-1,November,2004,1/November/2004,4.9,Men over 20 years old
-1,December,2004,1/December/2004,4.8,Men over 20 years old
-1,January,2005,1/January/2005,4.7,Men over 20 years old
-1,February,2005,1/February/2005,4.8,Men over 20 years old
-1,March,2005,1/March/2005,4.6,Men over 20 years old
-1,April,2005,1/April/2005,4.4,Men over 20 years old
-1,May,2005,1/May/2005,4.3,Men over 20 years old
-1,June,2005,1/June/2005,4.3,Men over 20 years old
-1,July,2005,1/July/2005,4.2,Men over 20 years old
-1,August,2005,1/August/2005,4.3,Men over 20 years old
-1,September,2005,1/September/2005,4.5,Men over 20 years old
-1,October,2005,1/October/2005,4.3,Men over 20 years old
-1,November,2005,1/November/2005,4.3,Men over 20 years old
-1,December,2005,1/December/2005,4.3,Men over 20 years old
-1,January,2006,1/January/2006,4.1,Men over 20 years old
-1,February,2006,1/February/2006,4.2,Men over 20 years old
-1,March,2006,1/March/2006,4.1,Men over 20 years old
-1,April,2006,1/April/2006,4.2,Men over 20 years old
-1,May,2006,1/May/2006,4.2,Men over 20 years old
-1,June,2006,1/June/2006,4,Men over 20 years old
-1,July,2006,1/July/2006,4.1,Men over 20 years old
-1,August,2006,1/August/2006,4.1,Men over 20 years old
-1,September,2006,1/September/2006,3.7,Men over 20 years old
-1,October,2006,1/October/2006,3.9,Men over 20 years old
-1,November,2006,1/November/2006,4,Men over 20 years old
-1,December,2006,1/December/2006,3.9,Men over 20 years old
-1,January,2007,1/January/2007,4.2,Men over 20 years old
-1,February,2007,1/February/2007,4.2,Men over 20 years old
-1,March,2007,1/March/2007,4,Men over 20 years old
-1,April,2007,1/April/2007,4,Men over 20 years old
-1,May,2007,1/May/2007,4,Men over 20 years old
-1,June,2007,1/June/2007,4,Men over 20 years old
-1,July,2007,1/July/2007,4.2,Men over 20 years old
-1,August,2007,1/August/2007,4.1,Men over 20 years old
-1,September,2007,1/September/2007,4.2,Men over 20 years old
-1,October,2007,1/October/2007,4.3,Men over 20 years old
-1,November,2007,1/November/2007,4.2,Men over 20 years old
-1,December,2007,1/December/2007,4.4,Men over 20 years old
-1,January,2008,1/January/2008,4.5,Men over 20 years old
-1,February,2008,1/February/2008,4.4,Men over 20 years old
-1,March,2008,1/March/2008,4.6,Men over 20 years old
-1,April,2008,1/April/2008,4.6,Men over 20 years old
-1,May,2008,1/May/2008,4.9,Men over 20 years old
-1,June,2008,1/June/2008,5.1,Men over 20 years old
-1,July,2008,1/July/2008,5.4,Men over 20 years old
-1,August,2008,1/August/2008,5.7,Men over 20 years old
-1,September,2008,1/September/2008,6.1,Men over 20 years old
-1,October,2008,1/October/2008,6.3,Men over 20 years old
-1,November,2008,1/November/2008,6.7,Men over 20 years old
-1,December,2008,1/December/2008,7.4,Men over 20 years old
-1,January,2009,1/January/2009,7.9,Men over 20 years old
-1,February,2009,1/February/2009,8.5,Men over 20 years old
-1,March,2009,1/March/2009,9,Men over 20 years old
-1,April,2009,1/April/2009,9.5,Men over 20 years old
-1,May,2009,1/May/2009,9.8,Men over 20 years old
-1,June,2009,1/June/2009,9.9,Men over 20 years old
-1,July,2009,1/July/2009,9.8,Men over 20 years old
-1,August,2009,1/August/2009,10,Men over 20 years old
-1,September,2009,1/September/2009,10.1,Men over 20 years old
-1,October,2009,1/October/2009,10.4,Men over 20 years old
-1,November,2009,1/November/2009,10.3,Men over 20 years old
-1,December,2009,1/December/2009,10.1,Men over 20 years old
-1,January,2010,1/January/2010,10.2,Men over 20 years old
-1,February,2010,1/February/2010,10.3,Men over 20 years old
-1,March,2010,1/March/2010,10.2,Men over 20 years old
-1,April,2010,1/April/2010,10.2,Men over 20 years old
-1,May,2010,1/May/2010,9.7,Men over 20 years old
-1,June,2010,1/June/2010,9.7,Men over 20 years old
-1,July,2010,1/July/2010,9.6,Men over 20 years old
-1,August,2010,1/August/2010,9.6,Men over 20 years old
-1,September,2010,1/September/2010,9.6,Men over 20 years old
-1,October,2010,1/October/2010,9.4,Men over 20 years old
-1,November,2010,1/November/2010,9.9,Men over 20 years old
-1,December,2010,1/December/2010,9.4,Men over 20 years old
-1,January,2011,1/January/2011,9,Men over 20 years old
-1,February,2011,1/February/2011,8.9,Men over 20 years old
-1,March,2011,1/March/2011,8.8,Men over 20 years old
-1,April,2011,1/April/2011,8.9,Men over 20 years old
-1,May,2011,1/May/2011,8.8,Men over 20 years old
-1,June,2011,1/June/2011,9,Men over 20 years old
-1,July,2011,1/July/2011,8.8,Men over 20 years old
-1,August,2011,1/August/2011,8.7,Men over 20 years old
-1,September,2011,1/September/2011,8.7,Men over 20 years old
-1,October,2011,1/October/2011,8.6,Men over 20 years old
-1,November,2011,1/November/2011,8.2,Men over 20 years old
-1,December,2011,1/December/2011,8,Men over 20 years old
-1,January,2012,1/January/2012,7.7,Men over 20 years old
-1,February,2012,1/February/2012,7.7,Men over 20 years old
-1,March,2012,1/March/2012,7.7,Men over 20 years old
-1,April,2012,1/April/2012,7.6,Men over 20 years old
-1,May,2012,1/May/2012,7.7,Men over 20 years old
-1,June,2012,1/June/2012,7.7,Men over 20 years old
-1,July,2012,1/July/2012,7.7,Men over 20 years old
-1,August,2012,1/August/2012,7.6,Men over 20 years old
-1,September,2012,1/September/2012,7.3,Men over 20 years old
-1,October,2012,1/October/2012,7.2,Men over 20 years old
-1,November,2012,1/November/2012,7.2,Men over 20 years old
-1,December,2012,1/December/2012,7.2,Men over 20 years old
-1,January,2013,1/January/2013,7.5,Men over 20 years old
-1,February,2013,1/February/2013,7,Men over 20 years old
-1,March,2013,1/March/2013,6.9,Men over 20 years old
-1,April,2013,1/April/2013,7.2,Men over 20 years old
-1,May,2013,1/May/2013,7.1,Men over 20 years old
-1,June,2013,1/June/2013,7,Men over 20 years old
-1,July,2013,1/July/2013,7,Men over 20 years old
-1,August,2013,1/August/2013,7.1,Men over 20 years old
-1,September,2013,1/September/2013,7.1,Men over 20 years old
-1,October,2013,1/October/2013,6.9,Men over 20 years old
-1,November,2013,1/November/2013,6.6,Men over 20 years old
-1,December,2013,1/December/2013,6.3,Men over 20 years old
-1,January,2014,1/January/2014,6.2,Men over 20 years old
-1,February,2014,1/February/2014,6.3,Men over 20 years old
-1,March,2014,1/March/2014,6.1,Men over 20 years old
-1,April,2014,1/April/2014,5.9,Men over 20 years old
-1,May,2014,1/May/2014,5.9,Men over 20 years old
-1,June,2014,1/June/2014,5.7,Men over 20 years old
-1,July,2014,1/July/2014,5.7,Men over 20 years old
-1,August,2014,1/August/2014,5.7,Men over 20 years old
-1,September,2014,1/September/2014,5.3,Men over 20 years old
-1,October,2014,1/October/2014,5.1,Men over 20 years old
-1,November,2014,1/November/2014,5.4,Men over 20 years old
-1,December,2014,1/December/2014,5.2,Men over 20 years old
-1,January,2015,1/January/2015,5.3,Men over 20 years old
-1,February,2015,1/February/2015,5.2,Men over 20 years old
-1,March,2015,1/March/2015,5.1,Men over 20 years old
-1,April,2015,1/April/2015,5,Men over 20 years old
-1,May,2015,1/May/2015,5.2,Men over 20 years old
-1,June,2015,1/June/2015,4.8,Men over 20 years old
-1,July,2015,1/July/2015,4.8,Men over 20 years old
-1,August,2015,1/August/2015,4.7,Men over 20 years old
-1,September,2015,1/September/2015,4.7,Men over 20 years old
-1,October,2015,1/October/2015,4.7,Men over 20 years old
-1,November,2015,1/November/2015,4.8,Men over 20 years old
-1,December,2015,1/December/2015,4.6,Men over 20 years old
-1,January,2016,1/January/2016,4.4,Men over 20 years old
-1,February,2016,1/February/2016,4.5,Men over 20 years old
-1,March,2016,1/March/2016,4.5,Men over 20 years old
-1,April,2016,1/April/2016,4.6,Men over 20 years old
-1,May,2016,1/May/2016,4.5,Men over 20 years old
-1,June,2016,1/June/2016,4.5,Men over 20 years old
-1,July,2016,1/July/2016,4.6,Men over 20 years old
-1,August,2016,1/August/2016,4.5,Men over 20 years old
-1,September,2016,1/September/2016,4.7,Men over 20 years old
-1,October,2016,1/October/2016,4.6,Men over 20 years old
-1,November,2016,1/November/2016,4.3,Men over 20 years old
-1,December,2016,1/December/2016,4.4,Men over 20 years old
-1,January,2017,1/January/2017,4.3,Men over 20 years old
-1,February,2017,1/February/2017,4.3,Men over 20 years old
-1,March,2017,1/March/2017,4.2,Men over 20 years old
-1,April,2017,1/April/2017,3.9,Men over 20 years old
-1,May,2017,1/May/2017,4,Men over 20 years old
-1,June,2017,1/June/2017,4,Men over 20 years old
-1,July,2017,1/July/2017,4,Men over 20 years old
-1,August,2017,1/August/2017,4.1,Men over 20 years old
-1,September,2017,1/September/2017,3.9,Men over 20 years old
-1,October,2017,1/October/2017,3.8,Men over 20 years old
-1,November,2017,1/November/2017,3.8,Men over 20 years old
-1,December,2017,1/December/2017,3.7,Men over 20 years old
-1,January,2018,1/January/2018,3.8,Men over 20 years old
-1,February,2018,1/February/2018,3.7,Men over 20 years old
-1,March,2018,1/March/2018,3.7,Men over 20 years old
-1,April,2018,1/April/2018,3.7,Men over 20 years old
-1,May,2018,1/May/2018,3.6,Men over 20 years old
-1,June,2018,1/June/2018,3.7,Men over 20 years old
-1,July,2018,1/July/2018,3.4,Men over 20 years old
-1,August,2018,1/August/2018,3.5,Men over 20 years old
-1,September,2018,1/September/2018,3.4,Men over 20 years old
-1,October,2018,1/October/2018,3.5,Men over 20 years old
-1,November,2018,1/November/2018,3.3,Men over 20 years old
-1,December,2018,1/December/2018,3.6,Men over 20 years old
-1,January,2019,1/January/2019,3.7,Men over 20 years old
-1,February,2019,1/February/2019,3.5,Men over 20 years old
-1,March,2019,1/March/2019,3.6,Men over 20 years old
-1,April,2019,1/April/2019,3.4,Men over 20 years old
-1,May,2019,1/May/2019,3.4,Men over 20 years old
-1,June,2019,1/June/2019,3.3,Men over 20 years old
-1,July,2019,1/July/2019,3.3,Men over 20 years old
-1,August,2019,1/August/2019,3.3,Men over 20 years old
-1,September,2019,1/September/2019,3.2,Men over 20 years old
-1,October,2019,1/October/2019,3.2,Men over 20 years old
-1,November,2019,1/November/2019,3.2,Men over 20 years old
-1,December,2019,1/December/2019,3.1,Men over 20 years old
-1,January,2020,1/January/2020,3.3,Men over 20 years old
-1,February,2020,1/February/2020,3.3,Men over 20 years old
-1,March,2020,1/March/2020,4,Men over 20 years old
-1,April,2020,1/April/2020,13,Men over 20 years old
-1,May,2020,1/May/2020,11.6,Men over 20 years old
-1,June,2020,1/June/2020,10.2,Men over 20 years old
-1,July,2020,1/July/2020,9.4,Men over 20 years old
-1,August,2020,1/August/2020,8,Men over 20 years old
-1,September,2020,1/September/2020,7.4,Men over 20 years old
-1,September,2000,1/September/2000,3.5,Women over 20 years old
-1,October,2000,1/October/2000,3.3,Women over 20 years old
-1,November,2000,1/November/2000,3.4,Women over 20 years old
-1,December,2000,1/December/2000,3.3,Women over 20 years old
-1,January,2001,1/January/2001,3.6,Women over 20 years old
-1,February,2001,1/February/2001,3.7,Women over 20 years old
-1,March,2001,1/March/2001,3.6,Women over 20 years old
-1,April,2001,1/April/2001,3.7,Women over 20 years old
-1,May,2001,1/May/2001,3.8,Women over 20 years old
-1,June,2001,1/June/2001,3.9,Women over 20 years old
-1,July,2001,1/July/2001,3.9,Women over 20 years old
-1,August,2001,1/August/2001,4.3,Women over 20 years old
-1,September,2001,1/September/2001,4.4,Women over 20 years old
-1,October,2001,1/October/2001,4.7,Women over 20 years old
-1,November,2001,1/November/2001,4.8,Women over 20 years old
-1,December,2001,1/December/2001,5.1,Women over 20 years old
-1,January,2002,1/January/2002,4.9,Women over 20 years old
-1,February,2002,1/February/2002,5,Women over 20 years old
-1,March,2002,1/March/2002,5,Women over 20 years old
-1,April,2002,1/April/2002,5.3,Women over 20 years old
-1,May,2002,1/May/2002,5.2,Women over 20 years old
-1,June,2002,1/June/2002,5.1,Women over 20 years old
-1,July,2002,1/July/2002,5.1,Women over 20 years old
-1,August,2002,1/August/2002,5,Women over 20 years old
-1,September,2002,1/September/2002,4.9,Women over 20 years old
-1,October,2002,1/October/2002,5.1,Women over 20 years old
-1,November,2002,1/November/2002,5,Women over 20 years old
-1,December,2002,1/December/2002,5.1,Women over 20 years old
-1,January,2003,1/January/2003,4.9,Women over 20 years old
-1,February,2003,1/February/2003,5.1,Women over 20 years old
-1,March,2003,1/March/2003,5.1,Women over 20 years old
-1,April,2003,1/April/2003,5.1,Women over 20 years old
-1,May,2003,1/May/2003,5.2,Women over 20 years old
-1,June,2003,1/June/2003,5.2,Women over 20 years old
-1,July,2003,1/July/2003,5.1,Women over 20 years old
-1,August,2003,1/August/2003,5.2,Women over 20 years old
-1,September,2003,1/September/2003,5.3,Women over 20 years old
-1,October,2003,1/October/2003,5.1,Women over 20 years old
-1,November,2003,1/November/2003,5,Women over 20 years old
-1,December,2003,1/December/2003,5.1,Women over 20 years old
-1,January,2004,1/January/2004,5.1,Women over 20 years old
-1,February,2004,1/February/2004,4.9,Women over 20 years old
-1,March,2004,1/March/2004,5.3,Women over 20 years old
-1,April,2004,1/April/2004,4.9,Women over 20 years old
-1,May,2004,1/May/2004,4.8,Women over 20 years old
-1,June,2004,1/June/2004,5,Women over 20 years old
-1,July,2004,1/July/2004,4.8,Women over 20 years old
-1,August,2004,1/August/2004,4.7,Women over 20 years old
-1,September,2004,1/September/2004,4.6,Women over 20 years old
-1,October,2004,1/October/2004,4.7,Women over 20 years old
-1,November,2004,1/November/2004,4.7,Women over 20 years old
-1,December,2004,1/December/2004,4.6,Women over 20 years old
-1,January,2005,1/January/2005,4.7,Women over 20 years old
-1,February,2005,1/February/2005,4.7,Women over 20 years old
-1,March,2005,1/March/2005,4.6,Women over 20 years old
-1,April,2005,1/April/2005,4.6,Women over 20 years old
-1,May,2005,1/May/2005,4.7,Women over 20 years old
-1,June,2005,1/June/2005,4.6,Women over 20 years old
-1,July,2005,1/July/2005,4.6,Women over 20 years old
-1,August,2005,1/August/2005,4.4,Women over 20 years old
-1,September,2005,1/September/2005,4.6,Women over 20 years old
-1,October,2005,1/October/2005,4.5,Women over 20 years old
-1,November,2005,1/November/2005,4.6,Women over 20 years old
-1,December,2005,1/December/2005,4.4,Women over 20 years old
-1,January,2006,1/January/2006,4.3,Women over 20 years old
-1,February,2006,1/February/2006,4.3,Women over 20 years old
-1,March,2006,1/March/2006,4.2,Women over 20 years old
-1,April,2006,1/April/2006,4.3,Women over 20 years old
-1,May,2006,1/May/2006,4.1,Women over 20 years old
-1,June,2006,1/June/2006,4.1,Women over 20 years old
-1,July,2006,1/July/2006,4.2,Women over 20 years old
-1,August,2006,1/August/2006,4.1,Women over 20 years old
-1,September,2006,1/September/2006,4.2,Women over 20 years old
-1,October,2006,1/October/2006,3.9,Women over 20 years old
-1,November,2006,1/November/2006,4,Women over 20 years old
-1,December,2006,1/December/2006,3.9,Women over 20 years old
-1,January,2007,1/January/2007,4,Women over 20 years old
-1,February,2007,1/February/2007,3.8,Women over 20 years old
-1,March,2007,1/March/2007,3.8,Women over 20 years old
-1,April,2007,1/April/2007,3.9,Women over 20 years old
-1,May,2007,1/May/2007,3.8,Women over 20 years old
-1,June,2007,1/June/2007,3.9,Women over 20 years old
-1,July,2007,1/July/2007,4.2,Women over 20 years old
-1,August,2007,1/August/2007,4.1,Women over 20 years old
-1,September,2007,1/September/2007,4.1,Women over 20 years old
-1,October,2007,1/October/2007,4.1,Women over 20 years old
-1,November,2007,1/November/2007,4.2,Women over 20 years old
-1,December,2007,1/December/2007,4.4,Women over 20 years old
-1,January,2008,1/January/2008,4.3,Women over 20 years old
-1,February,2008,1/February/2008,4.2,Women over 20 years old
-1,March,2008,1/March/2008,4.5,Women over 20 years old
-1,April,2008,1/April/2008,4.2,Women over 20 years old
-1,May,2008,1/May/2008,4.6,Women over 20 years old
-1,June,2008,1/June/2008,4.7,Women over 20 years old
-1,July,2008,1/July/2008,4.7,Women over 20 years old
-1,August,2008,1/August/2008,5.4,Women over 20 years old
-1,September,2008,1/September/2008,5,Women over 20 years old
-1,October,2008,1/October/2008,5.4,Women over 20 years old
-1,November,2008,1/November/2008,5.7,Women over 20 years old
-1,December,2008,1/December/2008,5.9,Women over 20 years old
-1,January,2009,1/January/2009,6.5,Women over 20 years old
-1,February,2009,1/February/2009,6.8,Women over 20 years old
-1,March,2009,1/March/2009,7.1,Women over 20 years old
-1,April,2009,1/April/2009,7.1,Women over 20 years old
-1,May,2009,1/May/2009,7.5,Women over 20 years old
-1,June,2009,1/June/2009,7.6,Women over 20 years old
-1,July,2009,1/July/2009,7.7,Women over 20 years old
-1,August,2009,1/August/2009,7.7,Women over 20 years old
-1,September,2009,1/September/2009,7.9,Women over 20 years old
-1,October,2009,1/October/2009,8,Women over 20 years old
-1,November,2009,1/November/2009,7.9,Women over 20 years old
-1,December,2009,1/December/2009,8,Women over 20 years old
-1,January,2010,1/January/2010,7.9,Women over 20 years old
-1,February,2010,1/February/2010,8,Women over 20 years old
-1,March,2010,1/March/2010,8.1,Women over 20 years old
-1,April,2010,1/April/2010,8.3,Women over 20 years old
-1,May,2010,1/May/2010,8.1,Women over 20 years old
-1,June,2010,1/June/2010,7.7,Women over 20 years old
-1,July,2010,1/July/2010,7.9,Women over 20 years old
-1,August,2010,1/August/2010,8,Women over 20 years old
-1,September,2010,1/September/2010,8,Women over 20 years old
-1,October,2010,1/October/2010,8,Women over 20 years old
-1,November,2010,1/November/2010,8.4,Women over 20 years old
-1,December,2010,1/December/2010,8,Women over 20 years old
-1,January,2011,1/January/2011,7.9,Women over 20 years old
-1,February,2011,1/February/2011,7.9,Women over 20 years old
-1,March,2011,1/March/2011,7.8,Women over 20 years old
-1,April,2011,1/April/2011,8,Women over 20 years old
-1,May,2011,1/May/2011,8,Women over 20 years old
-1,June,2011,1/June/2011,8,Women over 20 years old
-1,July,2011,1/July/2011,7.9,Women over 20 years old
-1,August,2011,1/August/2011,7.9,Women over 20 years old
-1,September,2011,1/September/2011,8.2,Women over 20 years old
-1,October,2011,1/October/2011,7.8,Women over 20 years old
-1,November,2011,1/November/2011,7.8,Women over 20 years old
-1,December,2011,1/December/2011,7.8,Women over 20 years old
-1,January,2012,1/January/2012,7.6,Women over 20 years old
-1,February,2012,1/February/2012,7.6,Women over 20 years old
-1,March,2012,1/March/2012,7.4,Women over 20 years old
-1,April,2012,1/April/2012,7.4,Women over 20 years old
-1,May,2012,1/May/2012,7.4,Women over 20 years old
-1,June,2012,1/June/2012,7.4,Women over 20 years old
-1,July,2012,1/July/2012,7.4,Women over 20 years old
-1,August,2012,1/August/2012,7.3,Women over 20 years old
-1,September,2012,1/September/2012,7.1,Women over 20 years old
-1,October,2012,1/October/2012,7.1,Women over 20 years old
-1,November,2012,1/November/2012,7,Women over 20 years old
-1,December,2012,1/December/2012,7.4,Women over 20 years old
-1,January,2013,1/January/2013,7.2,Women over 20 years old
-1,February,2013,1/February/2013,7,Women over 20 years old
-1,March,2013,1/March/2013,6.9,Women over 20 years old
-1,April,2013,1/April/2013,6.7,Women over 20 years old
-1,May,2013,1/May/2013,6.5,Women over 20 years old
-1,June,2013,1/June/2013,6.8,Women over 20 years old
-1,July,2013,1/July/2013,6.3,Women over 20 years old
-1,August,2013,1/August/2013,6.2,Women over 20 years old
-1,September,2013,1/September/2013,6.2,Women over 20 years old
-1,October,2013,1/October/2013,6.3,Women over 20 years old
-1,November,2013,1/November/2013,6.2,Women over 20 years old
-1,December,2013,1/December/2013,6.1,Women over 20 years old
-1,January,2014,1/January/2014,5.8,Women over 20 years old
-1,February,2014,1/February/2014,5.9,Women over 20 years old
-1,March,2014,1/March/2014,6.2,Women over 20 years old
-1,April,2014,1/April/2014,5.6,Women over 20 years old
-1,May,2014,1/May/2014,5.8,Women over 20 years old
-1,June,2014,1/June/2014,5.3,Women over 20 years old
-1,July,2014,1/July/2014,5.6,Women over 20 years old
-1,August,2014,1/August/2014,5.6,Women over 20 years old
-1,September,2014,1/September/2014,5.5,Women over 20 years old
-1,October,2014,1/October/2014,5.4,Women over 20 years old
-1,November,2014,1/November/2014,5.3,Women over 20 years old
-1,December,2014,1/December/2014,5.1,Women over 20 years old
-1,January,2015,1/January/2015,5,Women over 20 years old
-1,February,2015,1/February/2015,4.9,Women over 20 years old
-1,March,2015,1/March/2015,4.9,Women over 20 years old
-1,April,2015,1/April/2015,5,Women over 20 years old
-1,May,2015,1/May/2015,5.1,Women over 20 years old
-1,June,2015,1/June/2015,4.7,Women over 20 years old
-1,July,2015,1/July/2015,4.8,Women over 20 years old
-1,August,2015,1/August/2015,4.6,Women over 20 years old
-1,September,2015,1/September/2015,4.6,Women over 20 years old
-1,October,2015,1/October/2015,4.6,Women over 20 years old
-1,November,2015,1/November/2015,4.6,Women over 20 years old
-1,December,2015,1/December/2015,4.5,Women over 20 years old
-1,January,2016,1/January/2016,4.5,Women over 20 years old
-1,February,2016,1/February/2016,4.5,Women over 20 years old
-1,March,2016,1/March/2016,4.6,Women over 20 years old
-1,April,2016,1/April/2016,4.6,Women over 20 years old
-1,May,2016,1/May/2016,4.3,Women over 20 years old
-1,June,2016,1/June/2016,4.4,Women over 20 years old
-1,July,2016,1/July/2016,4.2,Women over 20 years old
-1,August,2016,1/August/2016,4.4,Women over 20 years old
-1,September,2016,1/September/2016,4.4,Women over 20 years old
-1,October,2016,1/October/2016,4.4,Women over 20 years old
-1,November,2016,1/November/2016,4.3,Women over 20 years old
-1,December,2016,1/December/2016,4.3,Women over 20 years old
-1,January,2017,1/January/2017,4.4,Women over 20 years old
-1,February,2017,1/February/2017,4.2,Women over 20 years old
-1,March,2017,1/March/2017,3.9,Women over 20 years old
-1,April,2017,1/April/2017,4.1,Women over 20 years old
-1,May,2017,1/May/2017,4.1,Women over 20 years old
-1,June,2017,1/June/2017,4,Women over 20 years old
-1,July,2017,1/July/2017,3.9,Women over 20 years old
-1,August,2017,1/August/2017,4,Women over 20 years old
-1,September,2017,1/September/2017,3.9,Women over 20 years old
-1,October,2017,1/October/2017,3.7,Women over 20 years old
-1,November,2017,1/November/2017,3.7,Women over 20 years old
-1,December,2017,1/December/2017,3.7,Women over 20 years old
-1,January,2018,1/January/2018,3.6,Women over 20 years old
-1,February,2018,1/February/2018,3.8,Women over 20 years old
-1,March,2018,1/March/2018,3.7,Women over 20 years old
-1,April,2018,1/April/2018,3.5,Women over 20 years old
-1,May,2018,1/May/2018,3.4,Women over 20 years old
-1,June,2018,1/June/2018,3.6,Women over 20 years old
-1,July,2018,1/July/2018,3.6,Women over 20 years old
-1,August,2018,1/August/2018,3.5,Women over 20 years old
-1,September,2018,1/September/2018,3.3,Women over 20 years old
-1,October,2018,1/October/2018,3.4,Women over 20 years old
-1,November,2018,1/November/2018,3.4,Women over 20 years old
-1,December,2018,1/December/2018,3.5,Women over 20 years old
-1,January,2019,1/January/2019,3.6,Women over 20 years old
-1,February,2019,1/February/2019,3.4,Women over 20 years old
-1,March,2019,1/March/2019,3.3,Women over 20 years old
-1,April,2019,1/April/2019,3.1,Women over 20 years old
-1,May,2019,1/May/2019,3.3,Women over 20 years old
-1,June,2019,1/June/2019,3.3,Women over 20 years old
-1,July,2019,1/July/2019,3.3,Women over 20 years old
-1,August,2019,1/August/2019,3.3,Women over 20 years old
-1,September,2019,1/September/2019,3.1,Women over 20 years old
-1,October,2019,1/October/2019,3.2,Women over 20 years old
-1,November,2019,1/November/2019,3.2,Women over 20 years old
-1,December,2019,1/December/2019,3.2,Women over 20 years old
-1,January,2020,1/January/2020,3.2,Women over 20 years old
-1,February,2020,1/February/2020,3.1,Women over 20 years old
-1,March,2020,1/March/2020,4,Women over 20 years old
-1,April,2020,1/April/2020,15.5,Women over 20 years old
-1,May,2020,1/May/2020,13.9,Women over 20 years old
-1,June,2020,1/June/2020,11.2,Women over 20 years old
-1,July,2020,1/July/2020,10.5,Women over 20 years old
-1,August,2020,1/August/2020,8.4,Women over 20 years old
-1,September,2020,1/September/2020,7.7,Women over 20 years old
-1,September,2000,1/September/2000,3.5,White
-1,October,2000,1/October/2000,3.4,White
-1,November,2000,1/November/2000,3.5,White
-1,December,2000,1/December/2000,3.5,White
-1,January,2001,1/January/2001,3.6,White
-1,February,2001,1/February/2001,3.7,White
-1,March,2001,1/March/2001,3.7,White
-1,April,2001,1/April/2001,3.9,White
-1,May,2001,1/May/2001,3.8,White
-1,June,2001,1/June/2001,4,White
-1,July,2001,1/July/2001,4,White
-1,August,2001,1/August/2001,4.3,White
-1,September,2001,1/September/2001,4.3,White
-1,October,2001,1/October/2001,4.7,White
-1,November,2001,1/November/2001,4.9,White
-1,December,2001,1/December/2001,5.1,White
-1,January,2002,1/January/2002,5.1,White
-1,February,2002,1/February/2002,5,White
-1,March,2002,1/March/2002,5,White
-1,April,2002,1/April/2002,5.2,White
-1,May,2002,1/May/2002,5.1,White
-1,June,2002,1/June/2002,5.1,White
-1,July,2002,1/July/2002,5.2,White
-1,August,2002,1/August/2002,5.1,White
-1,September,2002,1/September/2002,5.1,White
-1,October,2002,1/October/2002,5.1,White
-1,November,2002,1/November/2002,5.1,White
-1,December,2002,1/December/2002,5.1,White
-1,January,2003,1/January/2003,5.2,White
-1,February,2003,1/February/2003,5.1,White
-1,March,2003,1/March/2003,5.1,White
-1,April,2003,1/April/2003,5.3,White
-1,May,2003,1/May/2003,5.4,White
-1,June,2003,1/June/2003,5.5,White
-1,July,2003,1/July/2003,5.4,White
-1,August,2003,1/August/2003,5.4,White
-1,September,2003,1/September/2003,5.3,White
-1,October,2003,1/October/2003,5.1,White
-1,November,2003,1/November/2003,5.2,White
-1,December,2003,1/December/2003,5,White
-1,January,2004,1/January/2004,5,White
-1,February,2004,1/February/2004,4.9,White
-1,March,2004,1/March/2004,5.1,White
-1,April,2004,1/April/2004,5,White
-1,May,2004,1/May/2004,4.9,White
-1,June,2004,1/June/2004,5,White
-1,July,2004,1/July/2004,4.7,White
-1,August,2004,1/August/2004,4.7,White
-1,September,2004,1/September/2004,4.6,White
-1,October,2004,1/October/2004,4.6,White
-1,November,2004,1/November/2004,4.6,White
-1,December,2004,1/December/2004,4.5,White
-1,January,2005,1/January/2005,4.5,White
-1,February,2005,1/February/2005,4.6,White
-1,March,2005,1/March/2005,4.5,White
-1,April,2005,1/April/2005,4.4,White
-1,May,2005,1/May/2005,4.4,White
-1,June,2005,1/June/2005,4.3,White
-1,July,2005,1/July/2005,4.2,White
-1,August,2005,1/August/2005,4.2,White
-1,September,2005,1/September/2005,4.4,White
-1,October,2005,1/October/2005,4.4,White
-1,November,2005,1/November/2005,4.3,White
-1,December,2005,1/December/2005,4.2,White
-1,January,2006,1/January/2006,4.1,White
-1,February,2006,1/February/2006,4.1,White
-1,March,2006,1/March/2006,4,White
-1,April,2006,1/April/2006,4.1,White
-1,May,2006,1/May/2006,4.1,White
-1,June,2006,1/June/2006,4.1,White
-1,July,2006,1/July/2006,4.1,White
-1,August,2006,1/August/2006,4.1,White
-1,September,2006,1/September/2006,3.9,White
-1,October,2006,1/October/2006,3.9,White
-1,November,2006,1/November/2006,4,White
-1,December,2006,1/December/2006,3.9,White
-1,January,2007,1/January/2007,4.2,White
-1,February,2007,1/February/2007,4.1,White
-1,March,2007,1/March/2007,3.8,White
-1,April,2007,1/April/2007,4,White
-1,May,2007,1/May/2007,3.9,White
-1,June,2007,1/June/2007,4.1,White
-1,July,2007,1/July/2007,4.2,White
-1,August,2007,1/August/2007,4.2,White
-1,September,2007,1/September/2007,4.2,White
-1,October,2007,1/October/2007,4.1,White
-1,November,2007,1/November/2007,4.2,White
-1,December,2007,1/December/2007,4.4,White
-1,January,2008,1/January/2008,4.4,White
-1,February,2008,1/February/2008,4.4,White
-1,March,2008,1/March/2008,4.5,White
-1,April,2008,1/April/2008,4.4,White
-1,May,2008,1/May/2008,4.8,White
-1,June,2008,1/June/2008,5,White
-1,July,2008,1/July/2008,5.2,White
-1,August,2008,1/August/2008,5.4,White
-1,September,2008,1/September/2008,5.4,White
-1,October,2008,1/October/2008,5.9,White
-1,November,2008,1/November/2008,6.2,White
-1,December,2008,1/December/2008,6.7,White
-1,January,2009,1/January/2009,7.1,White
-1,February,2009,1/February/2009,7.6,White
-1,March,2009,1/March/2009,8,White
-1,April,2009,1/April/2009,8.1,White
-1,May,2009,1/May/2009,8.5,White
-1,June,2009,1/June/2009,8.7,White
-1,July,2009,1/July/2009,8.7,White
-1,August,2009,1/August/2009,8.9,White
-1,September,2009,1/September/2009,8.9,White
-1,October,2009,1/October/2009,9.2,White
-1,November,2009,1/November/2009,9.2,White
-1,December,2009,1/December/2009,9,White
-1,January,2010,1/January/2010,8.8,White
-1,February,2010,1/February/2010,8.9,White
-1,March,2010,1/March/2010,8.9,White
-1,April,2010,1/April/2010,9,White
-1,May,2010,1/May/2010,8.7,White
-1,June,2010,1/June/2010,8.6,White
-1,July,2010,1/July/2010,8.5,White
-1,August,2010,1/August/2010,8.6,White
-1,September,2010,1/September/2010,8.6,White
-1,October,2010,1/October/2010,8.6,White
-1,November,2010,1/November/2010,8.9,White
-1,December,2010,1/December/2010,8.5,White
-1,January,2011,1/January/2011,8.1,White
-1,February,2011,1/February/2011,8.1,White
-1,March,2011,1/March/2011,8,White
-1,April,2011,1/April/2011,8.1,White
-1,May,2011,1/May/2011,7.9,White
-1,June,2011,1/June/2011,8.1,White
-1,July,2011,1/July/2011,8,White
-1,August,2011,1/August/2011,7.9,White
-1,September,2011,1/September/2011,7.9,White
-1,October,2011,1/October/2011,7.9,White
-1,November,2011,1/November/2011,7.7,White
-1,December,2011,1/December/2011,7.5,White
-1,January,2012,1/January/2012,7.4,White
-1,February,2012,1/February/2012,7.4,White
-1,March,2012,1/March/2012,7.3,White
-1,April,2012,1/April/2012,7.4,White
-1,May,2012,1/May/2012,7.4,White
-1,June,2012,1/June/2012,7.3,White
-1,July,2012,1/July/2012,7.3,White
-1,August,2012,1/August/2012,7.2,White
-1,September,2012,1/September/2012,7,White
-1,October,2012,1/October/2012,6.9,White
-1,November,2012,1/November/2012,6.8,White
-1,December,2012,1/December/2012,6.9,White
-1,January,2013,1/January/2013,7.1,White
-1,February,2013,1/February/2013,6.8,White
-1,March,2013,1/March/2013,6.7,White
-1,April,2013,1/April/2013,6.7,White
-1,May,2013,1/May/2013,6.7,White
-1,June,2013,1/June/2013,6.6,White
-1,July,2013,1/July/2013,6.5,White
-1,August,2013,1/August/2013,6.4,White
-1,September,2013,1/September/2013,6.3,White
-1,October,2013,1/October/2013,6.3,White
-1,November,2013,1/November/2013,6.1,White
-1,December,2013,1/December/2013,5.9,White
-1,January,2014,1/January/2014,5.7,White
-1,February,2014,1/February/2014,5.8,White
-1,March,2014,1/March/2014,5.8,White
-1,April,2014,1/April/2014,5.3,White
-1,May,2014,1/May/2014,5.4,White
-1,June,2014,1/June/2014,5.3,White
-1,July,2014,1/July/2014,5.3,White
-1,August,2014,1/August/2014,5.3,White
-1,September,2014,1/September/2014,5.1,White
-1,October,2014,1/October/2014,4.9,White
-1,November,2014,1/November/2014,5,White
-1,December,2014,1/December/2014,4.7,White
-1,January,2015,1/January/2015,4.9,White
-1,February,2015,1/February/2015,4.7,White
-1,March,2015,1/March/2015,4.8,White
-1,April,2015,1/April/2015,4.7,White
-1,May,2015,1/May/2015,4.8,White
-1,June,2015,1/June/2015,4.6,White
-1,July,2015,1/July/2015,4.5,White
-1,August,2015,1/August/2015,4.4,White
-1,September,2015,1/September/2015,4.4,White
-1,October,2015,1/October/2015,4.4,White
-1,November,2015,1/November/2015,4.4,White
-1,December,2015,1/December/2015,4.4,White
-1,January,2016,1/January/2016,4.2,White
-1,February,2016,1/February/2016,4.3,White
-1,March,2016,1/March/2016,4.3,White
-1,April,2016,1/April/2016,4.4,White
-1,May,2016,1/May/2016,4.2,White
-1,June,2016,1/June/2016,4.3,White
-1,July,2016,1/July/2016,4.2,White
-1,August,2016,1/August/2016,4.3,White
-1,September,2016,1/September/2016,4.4,White
-1,October,2016,1/October/2016,4.4,White
-1,November,2016,1/November/2016,4.2,White
-1,December,2016,1/December/2016,4.2,White
-1,January,2017,1/January/2017,4.2,White
-1,February,2017,1/February/2017,4,White
-1,March,2017,1/March/2017,3.9,White
-1,April,2017,1/April/2017,3.9,White
-1,May,2017,1/May/2017,3.8,White
-1,June,2017,1/June/2017,3.8,White
-1,July,2017,1/July/2017,3.7,White
-1,August,2017,1/August/2017,3.8,White
-1,September,2017,1/September/2017,3.7,White
-1,October,2017,1/October/2017,3.5,White
-1,November,2017,1/November/2017,3.7,White
-1,December,2017,1/December/2017,3.7,White
-1,January,2018,1/January/2018,3.5,White
-1,February,2018,1/February/2018,3.7,White
-1,March,2018,1/March/2018,3.6,White
-1,April,2018,1/April/2018,3.6,White
-1,May,2018,1/May/2018,3.5,White
-1,June,2018,1/June/2018,3.5,White
-1,July,2018,1/July/2018,3.3,White
-1,August,2018,1/August/2018,3.4,White
-1,September,2018,1/September/2018,3.3,White
-1,October,2018,1/October/2018,3.3,White
-1,November,2018,1/November/2018,3.4,White
-1,December,2018,1/December/2018,3.4,White
-1,January,2019,1/January/2019,3.5,White
-1,February,2019,1/February/2019,3.3,White
-1,March,2019,1/March/2019,3.4,White
-1,April,2019,1/April/2019,3.1,White
-1,May,2019,1/May/2019,3.3,White
-1,June,2019,1/June/2019,3.3,White
-1,July,2019,1/July/2019,3.3,White
-1,August,2019,1/August/2019,3.4,White
-1,September,2019,1/September/2019,3.2,White
-1,October,2019,1/October/2019,3.2,White
-1,November,2019,1/November/2019,3.2,White
-1,December,2019,1/December/2019,3.2,White
-1,January,2020,1/January/2020,3.1,White
-1,February,2020,1/February/2020,3.1,White
-1,March,2020,1/March/2020,4,White
-1,April,2020,1/April/2020,14.2,White
-1,May,2020,1/May/2020,12.4,White
-1,June,2020,1/June/2020,10.1,White
-1,July,2020,1/July/2020,9.2,White
-1,August,2020,1/August/2020,7.3,White
-1,September,2020,1/September/2020,7,White
-1,September,2000,1/September/2000,7.3,Black/AfricanAmerican
-1,October,2000,1/October/2000,7.3,Black/AfricanAmerican
-1,November,2000,1/November/2000,7.3,Black/AfricanAmerican
-1,December,2000,1/December/2000,7.4,Black/AfricanAmerican
-1,January,2001,1/January/2001,8.2,Black/AfricanAmerican
-1,February,2001,1/February/2001,7.7,Black/AfricanAmerican
-1,March,2001,1/March/2001,8.3,Black/AfricanAmerican
-1,April,2001,1/April/2001,8,Black/AfricanAmerican
-1,May,2001,1/May/2001,7.9,Black/AfricanAmerican
-1,June,2001,1/June/2001,8.3,Black/AfricanAmerican
-1,July,2001,1/July/2001,8,Black/AfricanAmerican
-1,August,2001,1/August/2001,9.1,Black/AfricanAmerican
-1,September,2001,1/September/2001,8.9,Black/AfricanAmerican
-1,October,2001,1/October/2001,9.5,Black/AfricanAmerican
-1,November,2001,1/November/2001,9.8,Black/AfricanAmerican
-1,December,2001,1/December/2001,10.1,Black/AfricanAmerican
-1,January,2002,1/January/2002,10,Black/AfricanAmerican
-1,February,2002,1/February/2002,9.9,Black/AfricanAmerican
-1,March,2002,1/March/2002,10.5,Black/AfricanAmerican
-1,April,2002,1/April/2002,10.7,Black/AfricanAmerican
-1,May,2002,1/May/2002,10.2,Black/AfricanAmerican
-1,June,2002,1/June/2002,10.5,Black/AfricanAmerican
-1,July,2002,1/July/2002,9.8,Black/AfricanAmerican
-1,August,2002,1/August/2002,9.8,Black/AfricanAmerican
-1,September,2002,1/September/2002,9.7,Black/AfricanAmerican
-1,October,2002,1/October/2002,9.8,Black/AfricanAmerican
-1,November,2002,1/November/2002,10.7,Black/AfricanAmerican
-1,December,2002,1/December/2002,11.3,Black/AfricanAmerican
-1,January,2003,1/January/2003,10.5,Black/AfricanAmerican
-1,February,2003,1/February/2003,10.7,Black/AfricanAmerican
-1,March,2003,1/March/2003,10.3,Black/AfricanAmerican
-1,April,2003,1/April/2003,10.9,Black/AfricanAmerican
-1,May,2003,1/May/2003,10.9,Black/AfricanAmerican
-1,June,2003,1/June/2003,11.5,Black/AfricanAmerican
-1,July,2003,1/July/2003,10.9,Black/AfricanAmerican
-1,August,2003,1/August/2003,10.9,Black/AfricanAmerican
-1,September,2003,1/September/2003,11.1,Black/AfricanAmerican
-1,October,2003,1/October/2003,11.4,Black/AfricanAmerican
-1,November,2003,1/November/2003,10.2,Black/AfricanAmerican
-1,December,2003,1/December/2003,10.1,Black/AfricanAmerican
-1,January,2004,1/January/2004,10.4,Black/AfricanAmerican
-1,February,2004,1/February/2004,9.7,Black/AfricanAmerican
-1,March,2004,1/March/2004,10.3,Black/AfricanAmerican
-1,April,2004,1/April/2004,9.8,Black/AfricanAmerican
-1,May,2004,1/May/2004,10.1,Black/AfricanAmerican
-1,June,2004,1/June/2004,10.2,Black/AfricanAmerican
-1,July,2004,1/July/2004,11,Black/AfricanAmerican
-1,August,2004,1/August/2004,10.5,Black/AfricanAmerican
-1,September,2004,1/September/2004,10.3,Black/AfricanAmerican
-1,October,2004,1/October/2004,10.8,Black/AfricanAmerican
-1,November,2004,1/November/2004,10.7,Black/AfricanAmerican
-1,December,2004,1/December/2004,10.7,Black/AfricanAmerican
-1,January,2005,1/January/2005,10.6,Black/AfricanAmerican
-1,February,2005,1/February/2005,10.9,Black/AfricanAmerican
-1,March,2005,1/March/2005,10.5,Black/AfricanAmerican
-1,April,2005,1/April/2005,10.3,Black/AfricanAmerican
-1,May,2005,1/May/2005,10.1,Black/AfricanAmerican
-1,June,2005,1/June/2005,10.2,Black/AfricanAmerican
-1,July,2005,1/July/2005,9.2,Black/AfricanAmerican
-1,August,2005,1/August/2005,9.7,Black/AfricanAmerican
-1,September,2005,1/September/2005,9.4,Black/AfricanAmerican
-1,October,2005,1/October/2005,9.1,Black/AfricanAmerican
-1,November,2005,1/November/2005,10.6,Black/AfricanAmerican
-1,December,2005,1/December/2005,9.2,Black/AfricanAmerican
-1,January,2006,1/January/2006,8.9,Black/AfricanAmerican
-1,February,2006,1/February/2006,9.5,Black/AfricanAmerican
-1,March,2006,1/March/2006,9.5,Black/AfricanAmerican
-1,April,2006,1/April/2006,9.4,Black/AfricanAmerican
-1,May,2006,1/May/2006,8.7,Black/AfricanAmerican
-1,June,2006,1/June/2006,8.9,Black/AfricanAmerican
-1,July,2006,1/July/2006,9.5,Black/AfricanAmerican
-1,August,2006,1/August/2006,8.8,Black/AfricanAmerican
-1,September,2006,1/September/2006,9,Black/AfricanAmerican
-1,October,2006,1/October/2006,8.4,Black/AfricanAmerican
-1,November,2006,1/November/2006,8.5,Black/AfricanAmerican
-1,December,2006,1/December/2006,8.3,Black/AfricanAmerican
-1,January,2007,1/January/2007,7.9,Black/AfricanAmerican
-1,February,2007,1/February/2007,8,Black/AfricanAmerican
-1,March,2007,1/March/2007,8.4,Black/AfricanAmerican
-1,April,2007,1/April/2007,8.3,Black/AfricanAmerican
-1,May,2007,1/May/2007,8.3,Black/AfricanAmerican
-1,June,2007,1/June/2007,8.5,Black/AfricanAmerican
-1,July,2007,1/July/2007,8.1,Black/AfricanAmerican
-1,August,2007,1/August/2007,7.6,Black/AfricanAmerican
-1,September,2007,1/September/2007,8,Black/AfricanAmerican
-1,October,2007,1/October/2007,8.5,Black/AfricanAmerican
-1,November,2007,1/November/2007,8.5,Black/AfricanAmerican
-1,December,2007,1/December/2007,9,Black/AfricanAmerican
-1,January,2008,1/January/2008,9.1,Black/AfricanAmerican
-1,February,2008,1/February/2008,8.4,Black/AfricanAmerican
-1,March,2008,1/March/2008,9.2,Black/AfricanAmerican
-1,April,2008,1/April/2008,8.6,Black/AfricanAmerican
-1,May,2008,1/May/2008,9.6,Black/AfricanAmerican
-1,June,2008,1/June/2008,9.4,Black/AfricanAmerican
-1,July,2008,1/July/2008,10,Black/AfricanAmerican
-1,August,2008,1/August/2008,10.6,Black/AfricanAmerican
-1,September,2008,1/September/2008,11.3,Black/AfricanAmerican
-1,October,2008,1/October/2008,11.4,Black/AfricanAmerican
-1,November,2008,1/November/2008,11.5,Black/AfricanAmerican
-1,December,2008,1/December/2008,12.1,Black/AfricanAmerican
-1,January,2009,1/January/2009,12.7,Black/AfricanAmerican
-1,February,2009,1/February/2009,13.7,Black/AfricanAmerican
-1,March,2009,1/March/2009,13.7,Black/AfricanAmerican
-1,April,2009,1/April/2009,15,Black/AfricanAmerican
-1,May,2009,1/May/2009,15,Black/AfricanAmerican
-1,June,2009,1/June/2009,14.8,Black/AfricanAmerican
-1,July,2009,1/July/2009,14.8,Black/AfricanAmerican
-1,August,2009,1/August/2009,14.8,Black/AfricanAmerican
-1,September,2009,1/September/2009,15.3,Black/AfricanAmerican
-1,October,2009,1/October/2009,15.8,Black/AfricanAmerican
-1,November,2009,1/November/2009,15.7,Black/AfricanAmerican
-1,December,2009,1/December/2009,16.1,Black/AfricanAmerican
-1,January,2010,1/January/2010,16.5,Black/AfricanAmerican
-1,February,2010,1/February/2010,16.1,Black/AfricanAmerican
-1,March,2010,1/March/2010,16.8,Black/AfricanAmerican
-1,April,2010,1/April/2010,16.6,Black/AfricanAmerican
-1,May,2010,1/May/2010,15.5,Black/AfricanAmerican
-1,June,2010,1/June/2010,15.2,Black/AfricanAmerican
-1,July,2010,1/July/2010,15.6,Black/AfricanAmerican
-1,August,2010,1/August/2010,15.9,Black/AfricanAmerican
-1,September,2010,1/September/2010,16,Black/AfricanAmerican
-1,October,2010,1/October/2010,15.6,Black/AfricanAmerican
-1,November,2010,1/November/2010,16.2,Black/AfricanAmerican
-1,December,2010,1/December/2010,15.5,Black/AfricanAmerican
-1,January,2011,1/January/2011,15.8,Black/AfricanAmerican
-1,February,2011,1/February/2011,15.5,Black/AfricanAmerican
-1,March,2011,1/March/2011,15.8,Black/AfricanAmerican
-1,April,2011,1/April/2011,16.5,Black/AfricanAmerican
-1,May,2011,1/May/2011,16.3,Black/AfricanAmerican
-1,June,2011,1/June/2011,16.2,Black/AfricanAmerican
-1,July,2011,1/July/2011,15.9,Black/AfricanAmerican
-1,August,2011,1/August/2011,16.4,Black/AfricanAmerican
-1,September,2011,1/September/2011,15.9,Black/AfricanAmerican
-1,October,2011,1/October/2011,14.6,Black/AfricanAmerican
-1,November,2011,1/November/2011,15.6,Black/AfricanAmerican
-1,December,2011,1/December/2011,15.4,Black/AfricanAmerican
-1,January,2012,1/January/2012,13.6,Black/AfricanAmerican
-1,February,2012,1/February/2012,14,Black/AfricanAmerican
-1,March,2012,1/March/2012,14,Black/AfricanAmerican
-1,April,2012,1/April/2012,13.3,Black/AfricanAmerican
-1,May,2012,1/May/2012,13.5,Black/AfricanAmerican
-1,June,2012,1/June/2012,14.5,Black/AfricanAmerican
-1,July,2012,1/July/2012,14.2,Black/AfricanAmerican
-1,August,2012,1/August/2012,13.8,Black/AfricanAmerican
-1,September,2012,1/September/2012,13.6,Black/AfricanAmerican
-1,October,2012,1/October/2012,14.1,Black/AfricanAmerican
-1,November,2012,1/November/2012,13.3,Black/AfricanAmerican
-1,December,2012,1/December/2012,14,Black/AfricanAmerican
-1,January,2013,1/January/2013,13.7,Black/AfricanAmerican
-1,February,2013,1/February/2013,13.8,Black/AfricanAmerican
-1,March,2013,1/March/2013,13,Black/AfricanAmerican
-1,April,2013,1/April/2013,13.3,Black/AfricanAmerican
-1,May,2013,1/May/2013,13.4,Black/AfricanAmerican
-1,June,2013,1/June/2013,14.2,Black/AfricanAmerican
-1,July,2013,1/July/2013,12.6,Black/AfricanAmerican
-1,August,2013,1/August/2013,12.8,Black/AfricanAmerican
-1,September,2013,1/September/2013,13,Black/AfricanAmerican
-1,October,2013,1/October/2013,12.8,Black/AfricanAmerican
-1,November,2013,1/November/2013,12.3,Black/AfricanAmerican
-1,December,2013,1/December/2013,11.9,Black/AfricanAmerican
-1,January,2014,1/January/2014,12.1,Black/AfricanAmerican
-1,February,2014,1/February/2014,11.8,Black/AfricanAmerican
-1,March,2014,1/March/2014,12.1,Black/AfricanAmerican
-1,April,2014,1/April/2014,11.6,Black/AfricanAmerican
-1,May,2014,1/May/2014,11.4,Black/AfricanAmerican
-1,June,2014,1/June/2014,11,Black/AfricanAmerican
-1,July,2014,1/July/2014,11.6,Black/AfricanAmerican
-1,August,2014,1/August/2014,11.4,Black/AfricanAmerican
-1,September,2014,1/September/2014,11,Black/AfricanAmerican
-1,October,2014,1/October/2014,10.6,Black/AfricanAmerican
-1,November,2014,1/November/2014,10.9,Black/AfricanAmerican
-1,December,2014,1/December/2014,10.6,Black/AfricanAmerican
-1,January,2015,1/January/2015,10.3,Black/AfricanAmerican
-1,February,2015,1/February/2015,10.1,Black/AfricanAmerican
-1,March,2015,1/March/2015,9.9,Black/AfricanAmerican
-1,April,2015,1/April/2015,9.7,Black/AfricanAmerican
-1,May,2015,1/May/2015,10.3,Black/AfricanAmerican
-1,June,2015,1/June/2015,9.7,Black/AfricanAmerican
-1,July,2015,1/July/2015,9.1,Black/AfricanAmerican
-1,August,2015,1/August/2015,9.4,Black/AfricanAmerican
-1,September,2015,1/September/2015,9.3,Black/AfricanAmerican
-1,October,2015,1/October/2015,9,Black/AfricanAmerican
-1,November,2015,1/November/2015,9.4,Black/AfricanAmerican
-1,December,2015,1/December/2015,8.5,Black/AfricanAmerican
-1,January,2016,1/January/2016,8.7,Black/AfricanAmerican
-1,February,2016,1/February/2016,8.5,Black/AfricanAmerican
-1,March,2016,1/March/2016,8.9,Black/AfricanAmerican
-1,April,2016,1/April/2016,8.8,Black/AfricanAmerican
-1,May,2016,1/May/2016,8.2,Black/AfricanAmerican
-1,June,2016,1/June/2016,8.8,Black/AfricanAmerican
-1,July,2016,1/July/2016,8.4,Black/AfricanAmerican
-1,August,2016,1/August/2016,8,Black/AfricanAmerican
-1,September,2016,1/September/2016,8.5,Black/AfricanAmerican
-1,October,2016,1/October/2016,8.4,Black/AfricanAmerican
-1,November,2016,1/November/2016,8.1,Black/AfricanAmerican
-1,December,2016,1/December/2016,7.9,Black/AfricanAmerican
-1,January,2017,1/January/2017,7.5,Black/AfricanAmerican
-1,February,2017,1/February/2017,7.9,Black/AfricanAmerican
-1,March,2017,1/March/2017,7.9,Black/AfricanAmerican
-1,April,2017,1/April/2017,7.9,Black/AfricanAmerican
-1,May,2017,1/May/2017,7.7,Black/AfricanAmerican
-1,June,2017,1/June/2017,7.1,Black/AfricanAmerican
-1,July,2017,1/July/2017,7.4,Black/AfricanAmerican
-1,August,2017,1/August/2017,7.7,Black/AfricanAmerican
-1,September,2017,1/September/2017,7.2,Black/AfricanAmerican
-1,October,2017,1/October/2017,7.4,Black/AfricanAmerican
-1,November,2017,1/November/2017,7.4,Black/AfricanAmerican
-1,December,2017,1/December/2017,6.7,Black/AfricanAmerican
-1,January,2018,1/January/2018,7.5,Black/AfricanAmerican
-1,February,2018,1/February/2018,6.7,Black/AfricanAmerican
-1,March,2018,1/March/2018,6.8,Black/AfricanAmerican
-1,April,2018,1/April/2018,6.4,Black/AfricanAmerican
-1,May,2018,1/May/2018,5.9,Black/AfricanAmerican
-1,June,2018,1/June/2018,6.5,Black/AfricanAmerican
-1,July,2018,1/July/2018,6.6,Black/AfricanAmerican
-1,August,2018,1/August/2018,6.3,Black/AfricanAmerican
-1,September,2018,1/September/2018,6.2,Black/AfricanAmerican
-1,October,2018,1/October/2018,6.3,Black/AfricanAmerican
-1,November,2018,1/November/2018,6.1,Black/AfricanAmerican
-1,December,2018,1/December/2018,6.6,Black/AfricanAmerican
-1,January,2019,1/January/2019,6.8,Black/AfricanAmerican
-1,February,2019,1/February/2019,6.9,Black/AfricanAmerican
-1,March,2019,1/March/2019,6.6,Black/AfricanAmerican
-1,April,2019,1/April/2019,6.6,Black/AfricanAmerican
-1,May,2019,1/May/2019,6.2,Black/AfricanAmerican
-1,June,2019,1/June/2019,6,Black/AfricanAmerican
-1,July,2019,1/July/2019,5.9,Black/AfricanAmerican
-1,August,2019,1/August/2019,5.4,Black/AfricanAmerican
-1,September,2019,1/September/2019,5.5,Black/AfricanAmerican
-1,October,2019,1/October/2019,5.5,Black/AfricanAmerican
-1,November,2019,1/November/2019,5.6,Black/AfricanAmerican
-1,December,2019,1/December/2019,5.9,Black/AfricanAmerican
-1,January,2020,1/January/2020,6,Black/AfricanAmerican
-1,February,2020,1/February/2020,5.8,Black/AfricanAmerican
-1,March,2020,1/March/2020,6.7,Black/AfricanAmerican
-1,April,2020,1/April/2020,16.7,Black/AfricanAmerican
-1,May,2020,1/May/2020,16.8,Black/AfricanAmerican
-1,June,2020,1/June/2020,15.4,Black/AfricanAmerican
-1,July,2020,1/July/2020,14.6,Black/AfricanAmerican
-1,August,2020,1/August/2020,13,Black/AfricanAmerican
-1,September,2020,1/September/2020,12.1,Black/AfricanAmerican
-1,September,2000,1/September/2000,0,Asian
-1,October,2000,1/October/2000,0,Asian
-1,November,2000,1/November/2000,0,Asian
-1,December,2000,1/December/2000,0,Asian
-1,January,2001,1/January/2001,0,Asian
-1,February,2001,1/February/2001,0,Asian
-1,March,2001,1/March/2001,0,Asian
-1,April,2001,1/April/2001,0,Asian
-1,May,2001,1/May/2001,0,Asian
-1,June,2001,1/June/2001,0,Asian
-1,July,2001,1/July/2001,0,Asian
-1,August,2001,1/August/2001,0,Asian
-1,September,2001,1/September/2001,0,Asian
-1,October,2001,1/October/2001,0,Asian
-1,November,2001,1/November/2001,0,Asian
-1,December,2001,1/December/2001,0,Asian
-1,January,2002,1/January/2002,0,Asian
-1,February,2002,1/February/2002,0,Asian
-1,March,2002,1/March/2002,0,Asian
-1,April,2002,1/April/2002,0,Asian
-1,May,2002,1/May/2002,0,Asian
-1,June,2002,1/June/2002,0,Asian
-1,July,2002,1/July/2002,0,Asian
-1,August,2002,1/August/2002,0,Asian
-1,September,2002,1/September/2002,0,Asian
-1,October,2002,1/October/2002,0,Asian
-1,November,2002,1/November/2002,0,Asian
-1,December,2002,1/December/2002,0,Asian
-1,January,2003,1/January/2003,5.5,Asian
-1,February,2003,1/February/2003,5.8,Asian
-1,March,2003,1/March/2003,6.5,Asian
-1,April,2003,1/April/2003,6,Asian
-1,May,2003,1/May/2003,5.5,Asian
-1,June,2003,1/June/2003,7.4,Asian
-1,July,2003,1/July/2003,5.9,Asian
-1,August,2003,1/August/2003,6,Asian
-1,September,2003,1/September/2003,6.4,Asian
-1,October,2003,1/October/2003,6.2,Asian
-1,November,2003,1/November/2003,5.2,Asian
-1,December,2003,1/December/2003,5.4,Asian
-1,January,2004,1/January/2004,5,Asian
-1,February,2004,1/February/2004,4.5,Asian
-1,March,2004,1/March/2004,4.3,Asian
-1,April,2004,1/April/2004,4.7,Asian
-1,May,2004,1/May/2004,4.6,Asian
-1,June,2004,1/June/2004,4.6,Asian
-1,July,2004,1/July/2004,3.9,Asian
-1,August,2004,1/August/2004,3.7,Asian
-1,September,2004,1/September/2004,4.5,Asian
-1,October,2004,1/October/2004,4.9,Asian
-1,November,2004,1/November/2004,4.1,Asian
-1,December,2004,1/December/2004,4.2,Asian
-1,January,2005,1/January/2005,4.1,Asian
-1,February,2005,1/February/2005,4.3,Asian
-1,March,2005,1/March/2005,3.9,Asian
-1,April,2005,1/April/2005,4.2,Asian
-1,May,2005,1/May/2005,4.2,Asian
-1,June,2005,1/June/2005,3.6,Asian
-1,July,2005,1/July/2005,4.8,Asian
-1,August,2005,1/August/2005,3.7,Asian
-1,September,2005,1/September/2005,4.3,Asian
-1,October,2005,1/October/2005,3.2,Asian
-1,November,2005,1/November/2005,3.6,Asian
-1,December,2005,1/December/2005,3.8,Asian
-1,January,2006,1/January/2006,3,Asian
-1,February,2006,1/February/2006,3,Asian
-1,March,2006,1/March/2006,3.5,Asian
-1,April,2006,1/April/2006,3.9,Asian
-1,May,2006,1/May/2006,3.3,Asian
-1,June,2006,1/June/2006,3.1,Asian
-1,July,2006,1/July/2006,2.4,Asian
-1,August,2006,1/August/2006,3,Asian
-1,September,2006,1/September/2006,3,Asian
-1,October,2006,1/October/2006,2.8,Asian
-1,November,2006,1/November/2006,3.1,Asian
-1,December,2006,1/December/2006,2.5,Asian
-1,January,2007,1/January/2007,3.1,Asian
-1,February,2007,1/February/2007,2.6,Asian
-1,March,2007,1/March/2007,3,Asian
-1,April,2007,1/April/2007,3.5,Asian
-1,May,2007,1/May/2007,3.2,Asian
-1,June,2007,1/June/2007,2.7,Asian
-1,July,2007,1/July/2007,2.7,Asian
-1,August,2007,1/August/2007,3.5,Asian
-1,September,2007,1/September/2007,3.4,Asian
-1,October,2007,1/October/2007,3.8,Asian
-1,November,2007,1/November/2007,3.6,Asian
-1,December,2007,1/December/2007,3.7,Asian
-1,January,2008,1/January/2008,3.1,Asian
-1,February,2008,1/February/2008,2.9,Asian
-1,March,2008,1/March/2008,3.6,Asian
-1,April,2008,1/April/2008,3.5,Asian
-1,May,2008,1/May/2008,4.1,Asian
-1,June,2008,1/June/2008,4.2,Asian
-1,July,2008,1/July/2008,3.7,Asian
-1,August,2008,1/August/2008,4.5,Asian
-1,September,2008,1/September/2008,4,Asian
-1,October,2008,1/October/2008,3.9,Asian
-1,November,2008,1/November/2008,4.8,Asian
-1,December,2008,1/December/2008,5.1,Asian
-1,January,2009,1/January/2009,6.1,Asian
-1,February,2009,1/February/2009,6.7,Asian
-1,March,2009,1/March/2009,6.5,Asian
-1,April,2009,1/April/2009,6.8,Asian
-1,May,2009,1/May/2009,7,Asian
-1,June,2009,1/June/2009,7.9,Asian
-1,July,2009,1/July/2009,8.1,Asian
-1,August,2009,1/August/2009,7.6,Asian
-1,September,2009,1/September/2009,7.6,Asian
-1,October,2009,1/October/2009,7.6,Asian
-1,November,2009,1/November/2009,7.2,Asian
-1,December,2009,1/December/2009,8.4,Asian
-1,January,2010,1/January/2010,8.3,Asian
-1,February,2010,1/February/2010,8.2,Asian
-1,March,2010,1/March/2010,7.6,Asian
-1,April,2010,1/April/2010,7,Asian
-1,May,2010,1/May/2010,7.8,Asian
-1,June,2010,1/June/2010,7.4,Asian
-1,July,2010,1/July/2010,7.9,Asian
-1,August,2010,1/August/2010,7.3,Asian
-1,September,2010,1/September/2010,6.6,Asian
-1,October,2010,1/October/2010,7.2,Asian
-1,November,2010,1/November/2010,7.5,Asian
-1,December,2010,1/December/2010,7.2,Asian
-1,January,2011,1/January/2011,6.8,Asian
-1,February,2011,1/February/2011,6.7,Asian
-1,March,2011,1/March/2011,7.3,Asian
-1,April,2011,1/April/2011,6.5,Asian
-1,May,2011,1/May/2011,7.2,Asian
-1,June,2011,1/June/2011,6.5,Asian
-1,July,2011,1/July/2011,7.4,Asian
-1,August,2011,1/August/2011,7.2,Asian
-1,September,2011,1/September/2011,8,Asian
-1,October,2011,1/October/2011,7.4,Asian
-1,November,2011,1/November/2011,6.4,Asian
-1,December,2011,1/December/2011,6.8,Asian
-1,January,2012,1/January/2012,6.7,Asian
-1,February,2012,1/February/2012,6.2,Asian
-1,March,2012,1/March/2012,6.4,Asian
-1,April,2012,1/April/2012,5.4,Asian
-1,May,2012,1/May/2012,5.5,Asian
-1,June,2012,1/June/2012,6.1,Asian
-1,July,2012,1/July/2012,5.9,Asian
-1,August,2012,1/August/2012,5.9,Asian
-1,September,2012,1/September/2012,4.9,Asian
-1,October,2012,1/October/2012,4.9,Asian
-1,November,2012,1/November/2012,6.3,Asian
-1,December,2012,1/December/2012,6.6,Asian
-1,January,2013,1/January/2013,6.4,Asian
-1,February,2013,1/February/2013,6,Asian
-1,March,2013,1/March/2013,5.1,Asian
-1,April,2013,1/April/2013,5.3,Asian
-1,May,2013,1/May/2013,4.5,Asian
-1,June,2013,1/June/2013,4.7,Asian
-1,July,2013,1/July/2013,5.3,Asian
-1,August,2013,1/August/2013,5.1,Asian
-1,September,2013,1/September/2013,5.4,Asian
-1,October,2013,1/October/2013,5.4,Asian
-1,November,2013,1/November/2013,5.2,Asian
-1,December,2013,1/December/2013,4.3,Asian
-1,January,2014,1/January/2014,4.7,Asian
-1,February,2014,1/February/2014,5.9,Asian
-1,March,2014,1/March/2014,5.5,Asian
-1,April,2014,1/April/2014,5.9,Asian
-1,May,2014,1/May/2014,5.7,Asian
-1,June,2014,1/June/2014,4.7,Asian
-1,July,2014,1/July/2014,4.2,Asian
-1,August,2014,1/August/2014,4.5,Asian
-1,September,2014,1/September/2014,4.4,Asian
-1,October,2014,1/October/2014,5.1,Asian
-1,November,2014,1/November/2014,4.8,Asian
-1,December,2014,1/December/2014,4.4,Asian
-1,January,2015,1/January/2015,4,Asian
-1,February,2015,1/February/2015,4,Asian
-1,March,2015,1/March/2015,3.2,Asian
-1,April,2015,1/April/2015,4.4,Asian
-1,May,2015,1/May/2015,4.1,Asian
-1,June,2015,1/June/2015,3.9,Asian
-1,July,2015,1/July/2015,3.9,Asian
-1,August,2015,1/August/2015,3.4,Asian
-1,September,2015,1/September/2015,3.5,Asian
-1,October,2015,1/October/2015,3.5,Asian
-1,November,2015,1/November/2015,3.9,Asian
-1,December,2015,1/December/2015,4.1,Asian
-1,January,2016,1/January/2016,3.6,Asian
-1,February,2016,1/February/2016,3.8,Asian
-1,March,2016,1/March/2016,3.9,Asian
-1,April,2016,1/April/2016,3.8,Asian
-1,May,2016,1/May/2016,4.2,Asian
-1,June,2016,1/June/2016,3.5,Asian
-1,July,2016,1/July/2016,3.8,Asian
-1,August,2016,1/August/2016,4.1,Asian
-1,September,2016,1/September/2016,3.8,Asian
-1,October,2016,1/October/2016,3.4,Asian
-1,November,2016,1/November/2016,3.1,Asian
-1,December,2016,1/December/2016,2.7,Asian
-1,January,2017,1/January/2017,3.7,Asian
-1,February,2017,1/February/2017,3.4,Asian
-1,March,2017,1/March/2017,3.3,Asian
-1,April,2017,1/April/2017,3.3,Asian
-1,May,2017,1/May/2017,3.7,Asian
-1,June,2017,1/June/2017,3.6,Asian
-1,July,2017,1/July/2017,3.8,Asian
-1,August,2017,1/August/2017,3.9,Asian
-1,September,2017,1/September/2017,3.6,Asian
-1,October,2017,1/October/2017,3,Asian
-1,November,2017,1/November/2017,3,Asian
-1,December,2017,1/December/2017,2.5,Asian
-1,January,2018,1/January/2018,3,Asian
-1,February,2018,1/February/2018,2.9,Asian
-1,March,2018,1/March/2018,3.1,Asian
-1,April,2018,1/April/2018,2.8,Asian
-1,May,2018,1/May/2018,2.2,Asian
-1,June,2018,1/June/2018,3.2,Asian
-1,July,2018,1/July/2018,3.1,Asian
-1,August,2018,1/August/2018,3,Asian
-1,September,2018,1/September/2018,3.5,Asian
-1,October,2018,1/October/2018,3.1,Asian
-1,November,2018,1/November/2018,2.8,Asian
-1,December,2018,1/December/2018,3.3,Asian
-1,January,2019,1/January/2019,3.1,Asian
-1,February,2019,1/February/2019,3.1,Asian
-1,March,2019,1/March/2019,3.1,Asian
-1,April,2019,1/April/2019,2.2,Asian
-1,May,2019,1/May/2019,2.5,Asian
-1,June,2019,1/June/2019,2.1,Asian
-1,July,2019,1/July/2019,2.8,Asian
-1,August,2019,1/August/2019,2.8,Asian
-1,September,2019,1/September/2019,2.5,Asian
-1,October,2019,1/October/2019,2.8,Asian
-1,November,2019,1/November/2019,2.6,Asian
-1,December,2019,1/December/2019,2.5,Asian
-1,January,2020,1/January/2020,3,Asian
-1,February,2020,1/February/2020,2.5,Asian
-1,March,2020,1/March/2020,4.1,Asian
-1,April,2020,1/April/2020,14.5,Asian
-1,May,2020,1/May/2020,15,Asian
-1,June,2020,1/June/2020,13.8,Asian
-1,July,2020,1/July/2020,12,Asian
-1,August,2020,1/August/2020,10.7,Asian
-1,September,2020,1/September/2020,8.9,Asian
-1,September,2000,1/September/2000,5.8,Hispanic/Latino
-1,October,2000,1/October/2000,5.1,Hispanic/Latino
-1,November,2000,1/November/2000,6,Hispanic/Latino
-1,December,2000,1/December/2000,5.7,Hispanic/Latino
-1,January,2001,1/January/2001,5.8,Hispanic/Latino
-1,February,2001,1/February/2001,6.1,Hispanic/Latino
-1,March,2001,1/March/2001,6.2,Hispanic/Latino
-1,April,2001,1/April/2001,6.4,Hispanic/Latino
-1,May,2001,1/May/2001,6.3,Hispanic/Latino
-1,June,2001,1/June/2001,6.6,Hispanic/Latino
-1,July,2001,1/July/2001,6.2,Hispanic/Latino
-1,August,2001,1/August/2001,6.5,Hispanic/Latino
-1,September,2001,1/September/2001,6.7,Hispanic/Latino
-1,October,2001,1/October/2001,7.1,Hispanic/Latino
-1,November,2001,1/November/2001,7.3,Hispanic/Latino
-1,December,2001,1/December/2001,7.7,Hispanic/Latino
-1,January,2002,1/January/2002,7.8,Hispanic/Latino
-1,February,2002,1/February/2002,7,Hispanic/Latino
-1,March,2002,1/March/2002,7.5,Hispanic/Latino
-1,April,2002,1/April/2002,8,Hispanic/Latino
-1,May,2002,1/May/2002,7.1,Hispanic/Latino
-1,June,2002,1/June/2002,7.4,Hispanic/Latino
-1,July,2002,1/July/2002,7.4,Hispanic/Latino
-1,August,2002,1/August/2002,7.5,Hispanic/Latino
-1,September,2002,1/September/2002,7.4,Hispanic/Latino
-1,October,2002,1/October/2002,7.9,Hispanic/Latino
-1,November,2002,1/November/2002,7.8,Hispanic/Latino
-1,December,2002,1/December/2002,7.9,Hispanic/Latino
-1,January,2003,1/January/2003,7.9,Hispanic/Latino
-1,February,2003,1/February/2003,7.7,Hispanic/Latino
-1,March,2003,1/March/2003,7.8,Hispanic/Latino
-1,April,2003,1/April/2003,7.6,Hispanic/Latino
-1,May,2003,1/May/2003,8,Hispanic/Latino
-1,June,2003,1/June/2003,8.3,Hispanic/Latino
-1,July,2003,1/July/2003,8,Hispanic/Latino
-1,August,2003,1/August/2003,7.7,Hispanic/Latino
-1,September,2003,1/September/2003,7.3,Hispanic/Latino
-1,October,2003,1/October/2003,7.5,Hispanic/Latino
-1,November,2003,1/November/2003,7.4,Hispanic/Latino
-1,December,2003,1/December/2003,6.7,Hispanic/Latino
-1,January,2004,1/January/2004,7.3,Hispanic/Latino
-1,February,2004,1/February/2004,7.4,Hispanic/Latino
-1,March,2004,1/March/2004,7.6,Hispanic/Latino
-1,April,2004,1/April/2004,7.1,Hispanic/Latino
-1,May,2004,1/May/2004,6.9,Hispanic/Latino
-1,June,2004,1/June/2004,6.6,Hispanic/Latino
-1,July,2004,1/July/2004,6.8,Hispanic/Latino
-1,August,2004,1/August/2004,6.8,Hispanic/Latino
-1,September,2004,1/September/2004,6.8,Hispanic/Latino
-1,October,2004,1/October/2004,6.8,Hispanic/Latino
-1,November,2004,1/November/2004,6.7,Hispanic/Latino
-1,December,2004,1/December/2004,6.6,Hispanic/Latino
-1,January,2005,1/January/2005,6,Hispanic/Latino
-1,February,2005,1/February/2005,6.3,Hispanic/Latino
-1,March,2005,1/March/2005,5.8,Hispanic/Latino
-1,April,2005,1/April/2005,6.4,Hispanic/Latino
-1,May,2005,1/May/2005,6,Hispanic/Latino
-1,June,2005,1/June/2005,5.7,Hispanic/Latino
-1,July,2005,1/July/2005,5.5,Hispanic/Latino
-1,August,2005,1/August/2005,5.8,Hispanic/Latino
-1,September,2005,1/September/2005,6.4,Hispanic/Latino
-1,October,2005,1/October/2005,6,Hispanic/Latino
-1,November,2005,1/November/2005,6.1,Hispanic/Latino
-1,December,2005,1/December/2005,6.1,Hispanic/Latino
-1,January,2006,1/January/2006,5.5,Hispanic/Latino
-1,February,2006,1/February/2006,5.4,Hispanic/Latino
-1,March,2006,1/March/2006,5.2,Hispanic/Latino
-1,April,2006,1/April/2006,5.5,Hispanic/Latino
-1,May,2006,1/May/2006,5,Hispanic/Latino
-1,June,2006,1/June/2006,5.2,Hispanic/Latino
-1,July,2006,1/July/2006,5.2,Hispanic/Latino
-1,August,2006,1/August/2006,5.3,Hispanic/Latino
-1,September,2006,1/September/2006,5.5,Hispanic/Latino
-1,October,2006,1/October/2006,4.8,Hispanic/Latino
-1,November,2006,1/November/2006,5.1,Hispanic/Latino
-1,December,2006,1/December/2006,5,Hispanic/Latino
-1,January,2007,1/January/2007,5.5,Hispanic/Latino
-1,February,2007,1/February/2007,5.1,Hispanic/Latino
-1,March,2007,1/March/2007,5,Hispanic/Latino
-1,April,2007,1/April/2007,5.6,Hispanic/Latino
-1,May,2007,1/May/2007,5.8,Hispanic/Latino
-1,June,2007,1/June/2007,5.5,Hispanic/Latino
-1,July,2007,1/July/2007,5.9,Hispanic/Latino
-1,August,2007,1/August/2007,5.5,Hispanic/Latino
-1,September,2007,1/September/2007,5.9,Hispanic/Latino
-1,October,2007,1/October/2007,5.7,Hispanic/Latino
-1,November,2007,1/November/2007,5.9,Hispanic/Latino
-1,December,2007,1/December/2007,6.3,Hispanic/Latino
-1,January,2008,1/January/2008,6.3,Hispanic/Latino
-1,February,2008,1/February/2008,6.2,Hispanic/Latino
-1,March,2008,1/March/2008,6.9,Hispanic/Latino
-1,April,2008,1/April/2008,7.1,Hispanic/Latino
-1,May,2008,1/May/2008,6.9,Hispanic/Latino
-1,June,2008,1/June/2008,7.6,Hispanic/Latino
-1,July,2008,1/July/2008,7.5,Hispanic/Latino
-1,August,2008,1/August/2008,8,Hispanic/Latino
-1,September,2008,1/September/2008,8,Hispanic/Latino
-1,October,2008,1/October/2008,8.8,Hispanic/Latino
-1,November,2008,1/November/2008,8.7,Hispanic/Latino
-1,December,2008,1/December/2008,9.4,Hispanic/Latino
-1,January,2009,1/January/2009,10.1,Hispanic/Latino
-1,February,2009,1/February/2009,11.3,Hispanic/Latino
-1,March,2009,1/March/2009,11.7,Hispanic/Latino
-1,April,2009,1/April/2009,11.4,Hispanic/Latino
-1,May,2009,1/May/2009,12.3,Hispanic/Latino
-1,June,2009,1/June/2009,12.1,Hispanic/Latino
-1,July,2009,1/July/2009,12.5,Hispanic/Latino
-1,August,2009,1/August/2009,13,Hispanic/Latino
-1,September,2009,1/September/2009,12.6,Hispanic/Latino
-1,October,2009,1/October/2009,12.8,Hispanic/Latino
-1,November,2009,1/November/2009,12.4,Hispanic/Latino
-1,December,2009,1/December/2009,12.8,Hispanic/Latino
-1,January,2010,1/January/2010,12.9,Hispanic/Latino
-1,February,2010,1/February/2010,12.7,Hispanic/Latino
-1,March,2010,1/March/2010,12.9,Hispanic/Latino
-1,April,2010,1/April/2010,12.5,Hispanic/Latino
-1,May,2010,1/May/2010,12,Hispanic/Latino
-1,June,2010,1/June/2010,12.3,Hispanic/Latino
-1,July,2010,1/July/2010,12.2,Hispanic/Latino
-1,August,2010,1/August/2010,12,Hispanic/Latino
-1,September,2010,1/September/2010,12.3,Hispanic/Latino
-1,October,2010,1/October/2010,12.3,Hispanic/Latino
-1,November,2010,1/November/2010,12.9,Hispanic/Latino
-1,December,2010,1/December/2010,12.9,Hispanic/Latino
-1,January,2011,1/January/2011,12.3,Hispanic/Latino
-1,February,2011,1/February/2011,11.8,Hispanic/Latino
-1,March,2011,1/March/2011,11.6,Hispanic/Latino
-1,April,2011,1/April/2011,11.9,Hispanic/Latino
-1,May,2011,1/May/2011,11.6,Hispanic/Latino
-1,June,2011,1/June/2011,11.5,Hispanic/Latino
-1,July,2011,1/July/2011,11.2,Hispanic/Latino
-1,August,2011,1/August/2011,11.2,Hispanic/Latino
-1,September,2011,1/September/2011,11.2,Hispanic/Latino
-1,October,2011,1/October/2011,11.3,Hispanic/Latino
-1,November,2011,1/November/2011,11.2,Hispanic/Latino
-1,December,2011,1/December/2011,11.1,Hispanic/Latino
-1,January,2012,1/January/2012,10.7,Hispanic/Latino
-1,February,2012,1/February/2012,10.9,Hispanic/Latino
-1,March,2012,1/March/2012,10.6,Hispanic/Latino
-1,April,2012,1/April/2012,10.3,Hispanic/Latino
-1,May,2012,1/May/2012,10.9,Hispanic/Latino
-1,June,2012,1/June/2012,10.9,Hispanic/Latino
-1,July,2012,1/July/2012,10.2,Hispanic/Latino
-1,August,2012,1/August/2012,10.1,Hispanic/Latino
-1,September,2012,1/September/2012,9.7,Hispanic/Latino
-1,October,2012,1/October/2012,10,Hispanic/Latino
-1,November,2012,1/November/2012,9.9,Hispanic/Latino
-1,December,2012,1/December/2012,9.6,Hispanic/Latino
-1,January,2013,1/January/2013,9.7,Hispanic/Latino
-1,February,2013,1/February/2013,9.7,Hispanic/Latino
-1,March,2013,1/March/2013,9.3,Hispanic/Latino
-1,April,2013,1/April/2013,9,Hispanic/Latino
-1,May,2013,1/May/2013,9,Hispanic/Latino
-1,June,2013,1/June/2013,9.1,Hispanic/Latino
-1,July,2013,1/July/2013,9.4,Hispanic/Latino
-1,August,2013,1/August/2013,9.2,Hispanic/Latino
-1,September,2013,1/September/2013,8.8,Hispanic/Latino
-1,October,2013,1/October/2013,9.1,Hispanic/Latino
-1,November,2013,1/November/2013,8.7,Hispanic/Latino
-1,December,2013,1/December/2013,8.3,Hispanic/Latino
-1,January,2014,1/January/2014,8.3,Hispanic/Latino
-1,February,2014,1/February/2014,8.2,Hispanic/Latino
-1,March,2014,1/March/2014,7.9,Hispanic/Latino
-1,April,2014,1/April/2014,7.2,Hispanic/Latino
-1,May,2014,1/May/2014,7.7,Hispanic/Latino
-1,June,2014,1/June/2014,7.8,Hispanic/Latino
-1,July,2014,1/July/2014,7.7,Hispanic/Latino
-1,August,2014,1/August/2014,7.4,Hispanic/Latino
-1,September,2014,1/September/2014,6.8,Hispanic/Latino
-1,October,2014,1/October/2014,6.8,Hispanic/Latino
-1,November,2014,1/November/2014,6.6,Hispanic/Latino
-1,December,2014,1/December/2014,6.4,Hispanic/Latino
-1,January,2015,1/January/2015,6.7,Hispanic/Latino
-1,February,2015,1/February/2015,6.8,Hispanic/Latino
-1,March,2015,1/March/2015,6.8,Hispanic/Latino
-1,April,2015,1/April/2015,6.8,Hispanic/Latino
-1,May,2015,1/May/2015,6.8,Hispanic/Latino
-1,June,2015,1/June/2015,6.7,Hispanic/Latino
-1,July,2015,1/July/2015,6.9,Hispanic/Latino
-1,August,2015,1/August/2015,6.6,Hispanic/Latino
-1,September,2015,1/September/2015,6.2,Hispanic/Latino
-1,October,2015,1/October/2015,6.3,Hispanic/Latino
-1,November,2015,1/November/2015,6.4,Hispanic/Latino
-1,December,2015,1/December/2015,6.2,Hispanic/Latino
-1,January,2016,1/January/2016,5.8,Hispanic/Latino
-1,February,2016,1/February/2016,5.4,Hispanic/Latino
-1,March,2016,1/March/2016,5.5,Hispanic/Latino
-1,April,2016,1/April/2016,6.1,Hispanic/Latino
-1,May,2016,1/May/2016,5.6,Hispanic/Latino
-1,June,2016,1/June/2016,5.9,Hispanic/Latino
-1,July,2016,1/July/2016,5.5,Hispanic/Latino
-1,August,2016,1/August/2016,5.6,Hispanic/Latino
-1,September,2016,1/September/2016,6.4,Hispanic/Latino
-1,October,2016,1/October/2016,5.8,Hispanic/Latino
-1,November,2016,1/November/2016,5.8,Hispanic/Latino
-1,December,2016,1/December/2016,5.9,Hispanic/Latino
-1,January,2017,1/January/2017,5.8,Hispanic/Latino
-1,February,2017,1/February/2017,5.5,Hispanic/Latino
-1,March,2017,1/March/2017,5,Hispanic/Latino
-1,April,2017,1/April/2017,5.1,Hispanic/Latino
-1,May,2017,1/May/2017,5.2,Hispanic/Latino
-1,June,2017,1/June/2017,4.9,Hispanic/Latino
-1,July,2017,1/July/2017,5.1,Hispanic/Latino
-1,August,2017,1/August/2017,5.2,Hispanic/Latino
-1,September,2017,1/September/2017,5.1,Hispanic/Latino
-1,October,2017,1/October/2017,4.9,Hispanic/Latino
-1,November,2017,1/November/2017,4.8,Hispanic/Latino
-1,December,2017,1/December/2017,5,Hispanic/Latino
-1,January,2018,1/January/2018,5,Hispanic/Latino
-1,February,2018,1/February/2018,4.9,Hispanic/Latino
-1,March,2018,1/March/2018,5,Hispanic/Latino
-1,April,2018,1/April/2018,4.8,Hispanic/Latino
-1,May,2018,1/May/2018,4.9,Hispanic/Latino
-1,June,2018,1/June/2018,4.5,Hispanic/Latino
-1,July,2018,1/July/2018,4.4,Hispanic/Latino
-1,August,2018,1/August/2018,4.7,Hispanic/Latino
-1,September,2018,1/September/2018,4.6,Hispanic/Latino
-1,October,2018,1/October/2018,4.4,Hispanic/Latino
-1,November,2018,1/November/2018,4.5,Hispanic/Latino
-1,December,2018,1/December/2018,4.4,Hispanic/Latino
-1,January,2019,1/January/2019,4.8,Hispanic/Latino
-1,February,2019,1/February/2019,4.3,Hispanic/Latino
-1,March,2019,1/March/2019,4.7,Hispanic/Latino
-1,April,2019,1/April/2019,4.2,Hispanic/Latino
-1,May,2019,1/May/2019,4.2,Hispanic/Latino
-1,June,2019,1/June/2019,4.3,Hispanic/Latino
-1,July,2019,1/July/2019,4.5,Hispanic/Latino
-1,August,2019,1/August/2019,4.2,Hispanic/Latino
-1,September,2019,1/September/2019,3.9,Hispanic/Latino
-1,October,2019,1/October/2019,4.1,Hispanic/Latino
-1,November,2019,1/November/2019,4.2,Hispanic/Latino
-1,December,2019,1/December/2019,4.2,Hispanic/Latino
-1,January,2020,1/January/2020,4.3,Hispanic/Latino
-1,February,2020,1/February/2020,4.4,Hispanic/Latino
-1,March,2020,1/March/2020,6,Hispanic/Latino
-1,April,2020,1/April/2020,18.9,Hispanic/Latino
-1,May,2020,1/May/2020,17.6,Hispanic/Latino
-1,June,2020,1/June/2020,14.5,Hispanic/Latino
-1,July,2020,1/July/2020,12.9,Hispanic/Latino
-1,August,2020,1/August/2020,10.5,Hispanic/Latino
-1,September,2020,1/September/2020,10.3,Hispanic/Latino
+Day,Month,Year,Date,Unemployment Rates,Type
+1,September,2000,September/1/2000,3.9,Total
+1,October,2000,October/1/2000,3.9,Total
+1,November,2000,November/1/2000,3.9,Total
+1,December,2000,December/1/2000,3.9,Total
+1,January,2001,January/1/2001,4.2,Total
+1,February,2001,February/1/2001,4.2,Total
+1,March,2001,March/1/2001,4.3,Total
+1,April,2001,April/1/2001,4.4,Total
+1,May,2001,May/1/2001,4.3,Total
+1,June,2001,June/1/2001,4.5,Total
+1,July,2001,July/1/2001,4.6,Total
+1,August,2001,August/1/2001,4.9,Total
+1,September,2001,September/1/2001,5,Total
+1,October,2001,October/1/2001,5.3,Total
+1,November,2001,November/1/2001,5.5,Total
+1,December,2001,December/1/2001,5.7,Total
+1,January,2002,January/1/2002,5.7,Total
+1,February,2002,February/1/2002,5.7,Total
+1,March,2002,March/1/2002,5.7,Total
+1,April,2002,April/1/2002,5.9,Total
+1,May,2002,May/1/2002,5.8,Total
+1,June,2002,June/1/2002,5.8,Total
+1,July,2002,July/1/2002,5.8,Total
+1,August,2002,August/1/2002,5.7,Total
+1,September,2002,September/1/2002,5.7,Total
+1,October,2002,October/1/2002,5.7,Total
+1,November,2002,November/1/2002,5.9,Total
+1,December,2002,December/1/2002,6,Total
+1,January,2003,January/1/2003,5.8,Total
+1,February,2003,February/1/2003,5.9,Total
+1,March,2003,March/1/2003,5.9,Total
+1,April,2003,April/1/2003,6,Total
+1,May,2003,May/1/2003,6.1,Total
+1,June,2003,June/1/2003,6.3,Total
+1,July,2003,July/1/2003,6.2,Total
+1,August,2003,August/1/2003,6.1,Total
+1,September,2003,September/1/2003,6.1,Total
+1,October,2003,October/1/2003,6,Total
+1,November,2003,November/1/2003,5.8,Total
+1,December,2003,December/1/2003,5.7,Total
+1,January,2004,January/1/2004,5.7,Total
+1,February,2004,February/1/2004,5.6,Total
+1,March,2004,March/1/2004,5.8,Total
+1,April,2004,April/1/2004,5.6,Total
+1,May,2004,May/1/2004,5.6,Total
+1,June,2004,June/1/2004,5.6,Total
+1,July,2004,July/1/2004,5.5,Total
+1,August,2004,August/1/2004,5.4,Total
+1,September,2004,September/1/2004,5.4,Total
+1,October,2004,October/1/2004,5.5,Total
+1,November,2004,November/1/2004,5.4,Total
+1,December,2004,December/1/2004,5.4,Total
+1,January,2005,January/1/2005,5.3,Total
+1,February,2005,February/1/2005,5.4,Total
+1,March,2005,March/1/2005,5.2,Total
+1,April,2005,April/1/2005,5.2,Total
+1,May,2005,May/1/2005,5.1,Total
+1,June,2005,June/1/2005,5,Total
+1,July,2005,July/1/2005,5,Total
+1,August,2005,August/1/2005,4.9,Total
+1,September,2005,September/1/2005,5,Total
+1,October,2005,October/1/2005,5,Total
+1,November,2005,November/1/2005,5,Total
+1,December,2005,December/1/2005,4.9,Total
+1,January,2006,January/1/2006,4.7,Total
+1,February,2006,February/1/2006,4.8,Total
+1,March,2006,March/1/2006,4.7,Total
+1,April,2006,April/1/2006,4.7,Total
+1,May,2006,May/1/2006,4.6,Total
+1,June,2006,June/1/2006,4.6,Total
+1,July,2006,July/1/2006,4.7,Total
+1,August,2006,August/1/2006,4.7,Total
+1,September,2006,September/1/2006,4.5,Total
+1,October,2006,October/1/2006,4.4,Total
+1,November,2006,November/1/2006,4.5,Total
+1,December,2006,December/1/2006,4.4,Total
+1,January,2007,January/1/2007,4.6,Total
+1,February,2007,February/1/2007,4.5,Total
+1,March,2007,March/1/2007,4.4,Total
+1,April,2007,April/1/2007,4.5,Total
+1,May,2007,May/1/2007,4.4,Total
+1,June,2007,June/1/2007,4.6,Total
+1,July,2007,July/1/2007,4.7,Total
+1,August,2007,August/1/2007,4.6,Total
+1,September,2007,September/1/2007,4.7,Total
+1,October,2007,October/1/2007,4.7,Total
+1,November,2007,November/1/2007,4.7,Total
+1,December,2007,December/1/2007,5,Total
+1,January,2008,January/1/2008,5,Total
+1,February,2008,February/1/2008,4.9,Total
+1,March,2008,March/1/2008,5.1,Total
+1,April,2008,April/1/2008,5,Total
+1,May,2008,May/1/2008,5.4,Total
+1,June,2008,June/1/2008,5.6,Total
+1,July,2008,July/1/2008,5.8,Total
+1,August,2008,August/1/2008,6.1,Total
+1,September,2008,September/1/2008,6.1,Total
+1,October,2008,October/1/2008,6.5,Total
+1,November,2008,November/1/2008,6.8,Total
+1,December,2008,December/1/2008,7.3,Total
+1,January,2009,January/1/2009,7.8,Total
+1,February,2009,February/1/2009,8.3,Total
+1,March,2009,March/1/2009,8.7,Total
+1,April,2009,April/1/2009,9,Total
+1,May,2009,May/1/2009,9.4,Total
+1,June,2009,June/1/2009,9.5,Total
+1,July,2009,July/1/2009,9.5,Total
+1,August,2009,August/1/2009,9.6,Total
+1,September,2009,September/1/2009,9.8,Total
+1,October,2009,October/1/2009,10,Total
+1,November,2009,November/1/2009,9.9,Total
+1,December,2009,December/1/2009,9.9,Total
+1,January,2010,January/1/2010,9.8,Total
+1,February,2010,February/1/2010,9.8,Total
+1,March,2010,March/1/2010,9.9,Total
+1,April,2010,April/1/2010,9.9,Total
+1,May,2010,May/1/2010,9.6,Total
+1,June,2010,June/1/2010,9.4,Total
+1,July,2010,July/1/2010,9.4,Total
+1,August,2010,August/1/2010,9.5,Total
+1,September,2010,September/1/2010,9.5,Total
+1,October,2010,October/1/2010,9.4,Total
+1,November,2010,November/1/2010,9.8,Total
+1,December,2010,December/1/2010,9.3,Total
+1,January,2011,January/1/2011,9.1,Total
+1,February,2011,February/1/2011,9,Total
+1,March,2011,March/1/2011,9,Total
+1,April,2011,April/1/2011,9.1,Total
+1,May,2011,May/1/2011,9,Total
+1,June,2011,June/1/2011,9.1,Total
+1,July,2011,July/1/2011,9,Total
+1,August,2011,August/1/2011,9,Total
+1,September,2011,September/1/2011,9,Total
+1,October,2011,October/1/2011,8.8,Total
+1,November,2011,November/1/2011,8.6,Total
+1,December,2011,December/1/2011,8.5,Total
+1,January,2012,January/1/2012,8.3,Total
+1,February,2012,February/1/2012,8.3,Total
+1,March,2012,March/1/2012,8.2,Total
+1,April,2012,April/1/2012,8.2,Total
+1,May,2012,May/1/2012,8.2,Total
+1,June,2012,June/1/2012,8.2,Total
+1,July,2012,July/1/2012,8.2,Total
+1,August,2012,August/1/2012,8.1,Total
+1,September,2012,September/1/2012,7.8,Total
+1,October,2012,October/1/2012,7.8,Total
+1,November,2012,November/1/2012,7.7,Total
+1,December,2012,December/1/2012,7.9,Total
+1,January,2013,January/1/2013,8,Total
+1,February,2013,February/1/2013,7.7,Total
+1,March,2013,March/1/2013,7.5,Total
+1,April,2013,April/1/2013,7.6,Total
+1,May,2013,May/1/2013,7.5,Total
+1,June,2013,June/1/2013,7.5,Total
+1,July,2013,July/1/2013,7.3,Total
+1,August,2013,August/1/2013,7.2,Total
+1,September,2013,September/1/2013,7.2,Total
+1,October,2013,October/1/2013,7.2,Total
+1,November,2013,November/1/2013,6.9,Total
+1,December,2013,December/1/2013,6.7,Total
+1,January,2014,January/1/2014,6.6,Total
+1,February,2014,February/1/2014,6.7,Total
+1,March,2014,March/1/2014,6.7,Total
+1,April,2014,April/1/2014,6.2,Total
+1,May,2014,May/1/2014,6.3,Total
+1,June,2014,June/1/2014,6.1,Total
+1,July,2014,July/1/2014,6.2,Total
+1,August,2014,August/1/2014,6.1,Total
+1,September,2014,September/1/2014,5.9,Total
+1,October,2014,October/1/2014,5.7,Total
+1,November,2014,November/1/2014,5.8,Total
+1,December,2014,December/1/2014,5.6,Total
+1,January,2015,January/1/2015,5.7,Total
+1,February,2015,February/1/2015,5.5,Total
+1,March,2015,March/1/2015,5.4,Total
+1,April,2015,April/1/2015,5.4,Total
+1,May,2015,May/1/2015,5.6,Total
+1,June,2015,June/1/2015,5.3,Total
+1,July,2015,July/1/2015,5.2,Total
+1,August,2015,August/1/2015,5.1,Total
+1,September,2015,September/1/2015,5,Total
+1,October,2015,October/1/2015,5,Total
+1,November,2015,November/1/2015,5.1,Total
+1,December,2015,December/1/2015,5,Total
+1,January,2016,January/1/2016,4.9,Total
+1,February,2016,February/1/2016,4.9,Total
+1,March,2016,March/1/2016,5,Total
+1,April,2016,April/1/2016,5,Total
+1,May,2016,May/1/2016,4.8,Total
+1,June,2016,June/1/2016,4.9,Total
+1,July,2016,July/1/2016,4.8,Total
+1,August,2016,August/1/2016,4.9,Total
+1,September,2016,September/1/2016,5,Total
+1,October,2016,October/1/2016,4.9,Total
+1,November,2016,November/1/2016,4.7,Total
+1,December,2016,December/1/2016,4.7,Total
+1,January,2017,January/1/2017,4.7,Total
+1,February,2017,February/1/2017,4.6,Total
+1,March,2017,March/1/2017,4.4,Total
+1,April,2017,April/1/2017,4.4,Total
+1,May,2017,May/1/2017,4.4,Total
+1,June,2017,June/1/2017,4.3,Total
+1,July,2017,July/1/2017,4.3,Total
+1,August,2017,August/1/2017,4.4,Total
+1,September,2017,September/1/2017,4.2,Total
+1,October,2017,October/1/2017,4.1,Total
+1,November,2017,November/1/2017,4.2,Total
+1,December,2017,December/1/2017,4.1,Total
+1,January,2018,January/1/2018,4.1,Total
+1,February,2018,February/1/2018,4.1,Total
+1,March,2018,March/1/2018,4,Total
+1,April,2018,April/1/2018,4,Total
+1,May,2018,May/1/2018,3.8,Total
+1,June,2018,June/1/2018,4,Total
+1,July,2018,July/1/2018,3.8,Total
+1,August,2018,August/1/2018,3.8,Total
+1,September,2018,September/1/2018,3.7,Total
+1,October,2018,October/1/2018,3.8,Total
+1,November,2018,November/1/2018,3.7,Total
+1,December,2018,December/1/2018,3.9,Total
+1,January,2019,January/1/2019,4,Total
+1,February,2019,February/1/2019,3.8,Total
+1,March,2019,March/1/2019,3.8,Total
+1,April,2019,April/1/2019,3.6,Total
+1,May,2019,May/1/2019,3.6,Total
+1,June,2019,June/1/2019,3.7,Total
+1,July,2019,July/1/2019,3.7,Total
+1,August,2019,August/1/2019,3.7,Total
+1,September,2019,September/1/2019,3.5,Total
+1,October,2019,October/1/2019,3.6,Total
+1,November,2019,November/1/2019,3.5,Total
+1,December,2019,December/1/2019,3.5,Total
+1,January,2020,January/1/2020,3.6,Total
+1,February,2020,February/1/2020,3.5,Total
+1,March,2020,March/1/2020,4.4,Total
+1,April,2020,April/1/2020,14.7,Total
+1,May,2020,May/1/2020,13.3,Total
+1,June,2020,June/1/2020,11.1,Total
+1,July,2020,July/1/2020,10.2,Total
+1,August,2020,August/1/2020,8.4,Total
+1,September,2020,September/1/2020,7.9,Total
+1,September,2000,September/1/2000,3.3,Men over 20 years old
+1,October,2000,October/1/2000,3.3,Men over 20 years old
+1,November,2000,November/1/2000,3.4,Men over 20 years old
+1,December,2000,December/1/2000,3.4,Men over 20 years old
+1,January,2001,January/1/2001,3.6,Men over 20 years old
+1,February,2001,February/1/2001,3.7,Men over 20 years old
+1,March,2001,March/1/2001,3.8,Men over 20 years old
+1,April,2001,April/1/2001,3.9,Men over 20 years old
+1,May,2001,May/1/2001,3.9,Men over 20 years old
+1,June,2001,June/1/2001,4,Men over 20 years old
+1,July,2001,July/1/2001,4.1,Men over 20 years old
+1,August,2001,August/1/2001,4.4,Men over 20 years old
+1,September,2001,September/1/2001,4.3,Men over 20 years old
+1,October,2001,October/1/2001,4.8,Men over 20 years old
+1,November,2001,November/1/2001,5,Men over 20 years old
+1,December,2001,December/1/2001,5.1,Men over 20 years old
+1,January,2002,January/1/2002,5.2,Men over 20 years old
+1,February,2002,February/1/2002,5.2,Men over 20 years old
+1,March,2002,March/1/2002,5.2,Men over 20 years old
+1,April,2002,April/1/2002,5.4,Men over 20 years old
+1,May,2002,May/1/2002,5.2,Men over 20 years old
+1,June,2002,June/1/2002,5.3,Men over 20 years old
+1,July,2002,July/1/2002,5.3,Men over 20 years old
+1,August,2002,August/1/2002,5.2,Men over 20 years old
+1,September,2002,September/1/2002,5.2,Men over 20 years old
+1,October,2002,October/1/2002,5.3,Men over 20 years old
+1,November,2002,November/1/2002,5.5,Men over 20 years old
+1,December,2002,December/1/2002,5.6,Men over 20 years old
+1,January,2003,January/1/2003,5.6,Men over 20 years old
+1,February,2003,February/1/2003,5.5,Men over 20 years old
+1,March,2003,March/1/2003,5.4,Men over 20 years old
+1,April,2003,April/1/2003,5.7,Men over 20 years old
+1,May,2003,May/1/2003,5.8,Men over 20 years old
+1,June,2003,June/1/2003,6,Men over 20 years old
+1,July,2003,July/1/2003,5.9,Men over 20 years old
+1,August,2003,August/1/2003,5.8,Men over 20 years old
+1,September,2003,September/1/2003,5.7,Men over 20 years old
+1,October,2003,October/1/2003,5.6,Men over 20 years old
+1,November,2003,November/1/2003,5.6,Men over 20 years old
+1,December,2003,December/1/2003,5.2,Men over 20 years old
+1,January,2004,January/1/2004,5.2,Men over 20 years old
+1,February,2004,February/1/2004,5.1,Men over 20 years old
+1,March,2004,March/1/2004,5.2,Men over 20 years old
+1,April,2004,April/1/2004,5.1,Men over 20 years old
+1,May,2004,May/1/2004,5.2,Men over 20 years old
+1,June,2004,June/1/2004,5.1,Men over 20 years old
+1,July,2004,July/1/2004,5,Men over 20 years old
+1,August,2004,August/1/2004,5,Men over 20 years old
+1,September,2004,September/1/2004,5,Men over 20 years old
+1,October,2004,October/1/2004,4.9,Men over 20 years old
+1,November,2004,November/1/2004,4.9,Men over 20 years old
+1,December,2004,December/1/2004,4.8,Men over 20 years old
+1,January,2005,January/1/2005,4.7,Men over 20 years old
+1,February,2005,February/1/2005,4.8,Men over 20 years old
+1,March,2005,March/1/2005,4.6,Men over 20 years old
+1,April,2005,April/1/2005,4.4,Men over 20 years old
+1,May,2005,May/1/2005,4.3,Men over 20 years old
+1,June,2005,June/1/2005,4.3,Men over 20 years old
+1,July,2005,July/1/2005,4.2,Men over 20 years old
+1,August,2005,August/1/2005,4.3,Men over 20 years old
+1,September,2005,September/1/2005,4.5,Men over 20 years old
+1,October,2005,October/1/2005,4.3,Men over 20 years old
+1,November,2005,November/1/2005,4.3,Men over 20 years old
+1,December,2005,December/1/2005,4.3,Men over 20 years old
+1,January,2006,January/1/2006,4.1,Men over 20 years old
+1,February,2006,February/1/2006,4.2,Men over 20 years old
+1,March,2006,March/1/2006,4.1,Men over 20 years old
+1,April,2006,April/1/2006,4.2,Men over 20 years old
+1,May,2006,May/1/2006,4.2,Men over 20 years old
+1,June,2006,June/1/2006,4,Men over 20 years old
+1,July,2006,July/1/2006,4.1,Men over 20 years old
+1,August,2006,August/1/2006,4.1,Men over 20 years old
+1,September,2006,September/1/2006,3.7,Men over 20 years old
+1,October,2006,October/1/2006,3.9,Men over 20 years old
+1,November,2006,November/1/2006,4,Men over 20 years old
+1,December,2006,December/1/2006,3.9,Men over 20 years old
+1,January,2007,January/1/2007,4.2,Men over 20 years old
+1,February,2007,February/1/2007,4.2,Men over 20 years old
+1,March,2007,March/1/2007,4,Men over 20 years old
+1,April,2007,April/1/2007,4,Men over 20 years old
+1,May,2007,May/1/2007,4,Men over 20 years old
+1,June,2007,June/1/2007,4,Men over 20 years old
+1,July,2007,July/1/2007,4.2,Men over 20 years old
+1,August,2007,August/1/2007,4.1,Men over 20 years old
+1,September,2007,September/1/2007,4.2,Men over 20 years old
+1,October,2007,October/1/2007,4.3,Men over 20 years old
+1,November,2007,November/1/2007,4.2,Men over 20 years old
+1,December,2007,December/1/2007,4.4,Men over 20 years old
+1,January,2008,January/1/2008,4.5,Men over 20 years old
+1,February,2008,February/1/2008,4.4,Men over 20 years old
+1,March,2008,March/1/2008,4.6,Men over 20 years old
+1,April,2008,April/1/2008,4.6,Men over 20 years old
+1,May,2008,May/1/2008,4.9,Men over 20 years old
+1,June,2008,June/1/2008,5.1,Men over 20 years old
+1,July,2008,July/1/2008,5.4,Men over 20 years old
+1,August,2008,August/1/2008,5.7,Men over 20 years old
+1,September,2008,September/1/2008,6.1,Men over 20 years old
+1,October,2008,October/1/2008,6.3,Men over 20 years old
+1,November,2008,November/1/2008,6.7,Men over 20 years old
+1,December,2008,December/1/2008,7.4,Men over 20 years old
+1,January,2009,January/1/2009,7.9,Men over 20 years old
+1,February,2009,February/1/2009,8.5,Men over 20 years old
+1,March,2009,March/1/2009,9,Men over 20 years old
+1,April,2009,April/1/2009,9.5,Men over 20 years old
+1,May,2009,May/1/2009,9.8,Men over 20 years old
+1,June,2009,June/1/2009,9.9,Men over 20 years old
+1,July,2009,July/1/2009,9.8,Men over 20 years old
+1,August,2009,August/1/2009,10,Men over 20 years old
+1,September,2009,September/1/2009,10.1,Men over 20 years old
+1,October,2009,October/1/2009,10.4,Men over 20 years old
+1,November,2009,November/1/2009,10.3,Men over 20 years old
+1,December,2009,December/1/2009,10.1,Men over 20 years old
+1,January,2010,January/1/2010,10.2,Men over 20 years old
+1,February,2010,February/1/2010,10.3,Men over 20 years old
+1,March,2010,March/1/2010,10.2,Men over 20 years old
+1,April,2010,April/1/2010,10.2,Men over 20 years old
+1,May,2010,May/1/2010,9.7,Men over 20 years old
+1,June,2010,June/1/2010,9.7,Men over 20 years old
+1,July,2010,July/1/2010,9.6,Men over 20 years old
+1,August,2010,August/1/2010,9.6,Men over 20 years old
+1,September,2010,September/1/2010,9.6,Men over 20 years old
+1,October,2010,October/1/2010,9.4,Men over 20 years old
+1,November,2010,November/1/2010,9.9,Men over 20 years old
+1,December,2010,December/1/2010,9.4,Men over 20 years old
+1,January,2011,January/1/2011,9,Men over 20 years old
+1,February,2011,February/1/2011,8.9,Men over 20 years old
+1,March,2011,March/1/2011,8.8,Men over 20 years old
+1,April,2011,April/1/2011,8.9,Men over 20 years old
+1,May,2011,May/1/2011,8.8,Men over 20 years old
+1,June,2011,June/1/2011,9,Men over 20 years old
+1,July,2011,July/1/2011,8.8,Men over 20 years old
+1,August,2011,August/1/2011,8.7,Men over 20 years old
+1,September,2011,September/1/2011,8.7,Men over 20 years old
+1,October,2011,October/1/2011,8.6,Men over 20 years old
+1,November,2011,November/1/2011,8.2,Men over 20 years old
+1,December,2011,December/1/2011,8,Men over 20 years old
+1,January,2012,January/1/2012,7.7,Men over 20 years old
+1,February,2012,February/1/2012,7.7,Men over 20 years old
+1,March,2012,March/1/2012,7.7,Men over 20 years old
+1,April,2012,April/1/2012,7.6,Men over 20 years old
+1,May,2012,May/1/2012,7.7,Men over 20 years old
+1,June,2012,June/1/2012,7.7,Men over 20 years old
+1,July,2012,July/1/2012,7.7,Men over 20 years old
+1,August,2012,August/1/2012,7.6,Men over 20 years old
+1,September,2012,September/1/2012,7.3,Men over 20 years old
+1,October,2012,October/1/2012,7.2,Men over 20 years old
+1,November,2012,November/1/2012,7.2,Men over 20 years old
+1,December,2012,December/1/2012,7.2,Men over 20 years old
+1,January,2013,January/1/2013,7.5,Men over 20 years old
+1,February,2013,February/1/2013,7,Men over 20 years old
+1,March,2013,March/1/2013,6.9,Men over 20 years old
+1,April,2013,April/1/2013,7.2,Men over 20 years old
+1,May,2013,May/1/2013,7.1,Men over 20 years old
+1,June,2013,June/1/2013,7,Men over 20 years old
+1,July,2013,July/1/2013,7,Men over 20 years old
+1,August,2013,August/1/2013,7.1,Men over 20 years old
+1,September,2013,September/1/2013,7.1,Men over 20 years old
+1,October,2013,October/1/2013,6.9,Men over 20 years old
+1,November,2013,November/1/2013,6.6,Men over 20 years old
+1,December,2013,December/1/2013,6.3,Men over 20 years old
+1,January,2014,January/1/2014,6.2,Men over 20 years old
+1,February,2014,February/1/2014,6.3,Men over 20 years old
+1,March,2014,March/1/2014,6.1,Men over 20 years old
+1,April,2014,April/1/2014,5.9,Men over 20 years old
+1,May,2014,May/1/2014,5.9,Men over 20 years old
+1,June,2014,June/1/2014,5.7,Men over 20 years old
+1,July,2014,July/1/2014,5.7,Men over 20 years old
+1,August,2014,August/1/2014,5.7,Men over 20 years old
+1,September,2014,September/1/2014,5.3,Men over 20 years old
+1,October,2014,October/1/2014,5.1,Men over 20 years old
+1,November,2014,November/1/2014,5.4,Men over 20 years old
+1,December,2014,December/1/2014,5.2,Men over 20 years old
+1,January,2015,January/1/2015,5.3,Men over 20 years old
+1,February,2015,February/1/2015,5.2,Men over 20 years old
+1,March,2015,March/1/2015,5.1,Men over 20 years old
+1,April,2015,April/1/2015,5,Men over 20 years old
+1,May,2015,May/1/2015,5.2,Men over 20 years old
+1,June,2015,June/1/2015,4.8,Men over 20 years old
+1,July,2015,July/1/2015,4.8,Men over 20 years old
+1,August,2015,August/1/2015,4.7,Men over 20 years old
+1,September,2015,September/1/2015,4.7,Men over 20 years old
+1,October,2015,October/1/2015,4.7,Men over 20 years old
+1,November,2015,November/1/2015,4.8,Men over 20 years old
+1,December,2015,December/1/2015,4.6,Men over 20 years old
+1,January,2016,January/1/2016,4.4,Men over 20 years old
+1,February,2016,February/1/2016,4.5,Men over 20 years old
+1,March,2016,March/1/2016,4.5,Men over 20 years old
+1,April,2016,April/1/2016,4.6,Men over 20 years old
+1,May,2016,May/1/2016,4.5,Men over 20 years old
+1,June,2016,June/1/2016,4.5,Men over 20 years old
+1,July,2016,July/1/2016,4.6,Men over 20 years old
+1,August,2016,August/1/2016,4.5,Men over 20 years old
+1,September,2016,September/1/2016,4.7,Men over 20 years old
+1,October,2016,October/1/2016,4.6,Men over 20 years old
+1,November,2016,November/1/2016,4.3,Men over 20 years old
+1,December,2016,December/1/2016,4.4,Men over 20 years old
+1,January,2017,January/1/2017,4.3,Men over 20 years old
+1,February,2017,February/1/2017,4.3,Men over 20 years old
+1,March,2017,March/1/2017,4.2,Men over 20 years old
+1,April,2017,April/1/2017,3.9,Men over 20 years old
+1,May,2017,May/1/2017,4,Men over 20 years old
+1,June,2017,June/1/2017,4,Men over 20 years old
+1,July,2017,July/1/2017,4,Men over 20 years old
+1,August,2017,August/1/2017,4.1,Men over 20 years old
+1,September,2017,September/1/2017,3.9,Men over 20 years old
+1,October,2017,October/1/2017,3.8,Men over 20 years old
+1,November,2017,November/1/2017,3.8,Men over 20 years old
+1,December,2017,December/1/2017,3.7,Men over 20 years old
+1,January,2018,January/1/2018,3.8,Men over 20 years old
+1,February,2018,February/1/2018,3.7,Men over 20 years old
+1,March,2018,March/1/2018,3.7,Men over 20 years old
+1,April,2018,April/1/2018,3.7,Men over 20 years old
+1,May,2018,May/1/2018,3.6,Men over 20 years old
+1,June,2018,June/1/2018,3.7,Men over 20 years old
+1,July,2018,July/1/2018,3.4,Men over 20 years old
+1,August,2018,August/1/2018,3.5,Men over 20 years old
+1,September,2018,September/1/2018,3.4,Men over 20 years old
+1,October,2018,October/1/2018,3.5,Men over 20 years old
+1,November,2018,November/1/2018,3.3,Men over 20 years old
+1,December,2018,December/1/2018,3.6,Men over 20 years old
+1,January,2019,January/1/2019,3.7,Men over 20 years old
+1,February,2019,February/1/2019,3.5,Men over 20 years old
+1,March,2019,March/1/2019,3.6,Men over 20 years old
+1,April,2019,April/1/2019,3.4,Men over 20 years old
+1,May,2019,May/1/2019,3.4,Men over 20 years old
+1,June,2019,June/1/2019,3.3,Men over 20 years old
+1,July,2019,July/1/2019,3.3,Men over 20 years old
+1,August,2019,August/1/2019,3.3,Men over 20 years old
+1,September,2019,September/1/2019,3.2,Men over 20 years old
+1,October,2019,October/1/2019,3.2,Men over 20 years old
+1,November,2019,November/1/2019,3.2,Men over 20 years old
+1,December,2019,December/1/2019,3.1,Men over 20 years old
+1,January,2020,January/1/2020,3.3,Men over 20 years old
+1,February,2020,February/1/2020,3.3,Men over 20 years old
+1,March,2020,March/1/2020,4,Men over 20 years old
+1,April,2020,April/1/2020,13,Men over 20 years old
+1,May,2020,May/1/2020,11.6,Men over 20 years old
+1,June,2020,June/1/2020,10.2,Men over 20 years old
+1,July,2020,July/1/2020,9.4,Men over 20 years old
+1,August,2020,August/1/2020,8,Men over 20 years old
+1,September,2020,September/1/2020,7.4,Men over 20 years old
+1,September,2000,September/1/2000,3.5,Women over 20 years old
+1,October,2000,October/1/2000,3.3,Women over 20 years old
+1,November,2000,November/1/2000,3.4,Women over 20 years old
+1,December,2000,December/1/2000,3.3,Women over 20 years old
+1,January,2001,January/1/2001,3.6,Women over 20 years old
+1,February,2001,February/1/2001,3.7,Women over 20 years old
+1,March,2001,March/1/2001,3.6,Women over 20 years old
+1,April,2001,April/1/2001,3.7,Women over 20 years old
+1,May,2001,May/1/2001,3.8,Women over 20 years old
+1,June,2001,June/1/2001,3.9,Women over 20 years old
+1,July,2001,July/1/2001,3.9,Women over 20 years old
+1,August,2001,August/1/2001,4.3,Women over 20 years old
+1,September,2001,September/1/2001,4.4,Women over 20 years old
+1,October,2001,October/1/2001,4.7,Women over 20 years old
+1,November,2001,November/1/2001,4.8,Women over 20 years old
+1,December,2001,December/1/2001,5.1,Women over 20 years old
+1,January,2002,January/1/2002,4.9,Women over 20 years old
+1,February,2002,February/1/2002,5,Women over 20 years old
+1,March,2002,March/1/2002,5,Women over 20 years old
+1,April,2002,April/1/2002,5.3,Women over 20 years old
+1,May,2002,May/1/2002,5.2,Women over 20 years old
+1,June,2002,June/1/2002,5.1,Women over 20 years old
+1,July,2002,July/1/2002,5.1,Women over 20 years old
+1,August,2002,August/1/2002,5,Women over 20 years old
+1,September,2002,September/1/2002,4.9,Women over 20 years old
+1,October,2002,October/1/2002,5.1,Women over 20 years old
+1,November,2002,November/1/2002,5,Women over 20 years old
+1,December,2002,December/1/2002,5.1,Women over 20 years old
+1,January,2003,January/1/2003,4.9,Women over 20 years old
+1,February,2003,February/1/2003,5.1,Women over 20 years old
+1,March,2003,March/1/2003,5.1,Women over 20 years old
+1,April,2003,April/1/2003,5.1,Women over 20 years old
+1,May,2003,May/1/2003,5.2,Women over 20 years old
+1,June,2003,June/1/2003,5.2,Women over 20 years old
+1,July,2003,July/1/2003,5.1,Women over 20 years old
+1,August,2003,August/1/2003,5.2,Women over 20 years old
+1,September,2003,September/1/2003,5.3,Women over 20 years old
+1,October,2003,October/1/2003,5.1,Women over 20 years old
+1,November,2003,November/1/2003,5,Women over 20 years old
+1,December,2003,December/1/2003,5.1,Women over 20 years old
+1,January,2004,January/1/2004,5.1,Women over 20 years old
+1,February,2004,February/1/2004,4.9,Women over 20 years old
+1,March,2004,March/1/2004,5.3,Women over 20 years old
+1,April,2004,April/1/2004,4.9,Women over 20 years old
+1,May,2004,May/1/2004,4.8,Women over 20 years old
+1,June,2004,June/1/2004,5,Women over 20 years old
+1,July,2004,July/1/2004,4.8,Women over 20 years old
+1,August,2004,August/1/2004,4.7,Women over 20 years old
+1,September,2004,September/1/2004,4.6,Women over 20 years old
+1,October,2004,October/1/2004,4.7,Women over 20 years old
+1,November,2004,November/1/2004,4.7,Women over 20 years old
+1,December,2004,December/1/2004,4.6,Women over 20 years old
+1,January,2005,January/1/2005,4.7,Women over 20 years old
+1,February,2005,February/1/2005,4.7,Women over 20 years old
+1,March,2005,March/1/2005,4.6,Women over 20 years old
+1,April,2005,April/1/2005,4.6,Women over 20 years old
+1,May,2005,May/1/2005,4.7,Women over 20 years old
+1,June,2005,June/1/2005,4.6,Women over 20 years old
+1,July,2005,July/1/2005,4.6,Women over 20 years old
+1,August,2005,August/1/2005,4.4,Women over 20 years old
+1,September,2005,September/1/2005,4.6,Women over 20 years old
+1,October,2005,October/1/2005,4.5,Women over 20 years old
+1,November,2005,November/1/2005,4.6,Women over 20 years old
+1,December,2005,December/1/2005,4.4,Women over 20 years old
+1,January,2006,January/1/2006,4.3,Women over 20 years old
+1,February,2006,February/1/2006,4.3,Women over 20 years old
+1,March,2006,March/1/2006,4.2,Women over 20 years old
+1,April,2006,April/1/2006,4.3,Women over 20 years old
+1,May,2006,May/1/2006,4.1,Women over 20 years old
+1,June,2006,June/1/2006,4.1,Women over 20 years old
+1,July,2006,July/1/2006,4.2,Women over 20 years old
+1,August,2006,August/1/2006,4.1,Women over 20 years old
+1,September,2006,September/1/2006,4.2,Women over 20 years old
+1,October,2006,October/1/2006,3.9,Women over 20 years old
+1,November,2006,November/1/2006,4,Women over 20 years old
+1,December,2006,December/1/2006,3.9,Women over 20 years old
+1,January,2007,January/1/2007,4,Women over 20 years old
+1,February,2007,February/1/2007,3.8,Women over 20 years old
+1,March,2007,March/1/2007,3.8,Women over 20 years old
+1,April,2007,April/1/2007,3.9,Women over 20 years old
+1,May,2007,May/1/2007,3.8,Women over 20 years old
+1,June,2007,June/1/2007,3.9,Women over 20 years old
+1,July,2007,July/1/2007,4.2,Women over 20 years old
+1,August,2007,August/1/2007,4.1,Women over 20 years old
+1,September,2007,September/1/2007,4.1,Women over 20 years old
+1,October,2007,October/1/2007,4.1,Women over 20 years old
+1,November,2007,November/1/2007,4.2,Women over 20 years old
+1,December,2007,December/1/2007,4.4,Women over 20 years old
+1,January,2008,January/1/2008,4.3,Women over 20 years old
+1,February,2008,February/1/2008,4.2,Women over 20 years old
+1,March,2008,March/1/2008,4.5,Women over 20 years old
+1,April,2008,April/1/2008,4.2,Women over 20 years old
+1,May,2008,May/1/2008,4.6,Women over 20 years old
+1,June,2008,June/1/2008,4.7,Women over 20 years old
+1,July,2008,July/1/2008,4.7,Women over 20 years old
+1,August,2008,August/1/2008,5.4,Women over 20 years old
+1,September,2008,September/1/2008,5,Women over 20 years old
+1,October,2008,October/1/2008,5.4,Women over 20 years old
+1,November,2008,November/1/2008,5.7,Women over 20 years old
+1,December,2008,December/1/2008,5.9,Women over 20 years old
+1,January,2009,January/1/2009,6.5,Women over 20 years old
+1,February,2009,February/1/2009,6.8,Women over 20 years old
+1,March,2009,March/1/2009,7.1,Women over 20 years old
+1,April,2009,April/1/2009,7.1,Women over 20 years old
+1,May,2009,May/1/2009,7.5,Women over 20 years old
+1,June,2009,June/1/2009,7.6,Women over 20 years old
+1,July,2009,July/1/2009,7.7,Women over 20 years old
+1,August,2009,August/1/2009,7.7,Women over 20 years old
+1,September,2009,September/1/2009,7.9,Women over 20 years old
+1,October,2009,October/1/2009,8,Women over 20 years old
+1,November,2009,November/1/2009,7.9,Women over 20 years old
+1,December,2009,December/1/2009,8,Women over 20 years old
+1,January,2010,January/1/2010,7.9,Women over 20 years old
+1,February,2010,February/1/2010,8,Women over 20 years old
+1,March,2010,March/1/2010,8.1,Women over 20 years old
+1,April,2010,April/1/2010,8.3,Women over 20 years old
+1,May,2010,May/1/2010,8.1,Women over 20 years old
+1,June,2010,June/1/2010,7.7,Women over 20 years old
+1,July,2010,July/1/2010,7.9,Women over 20 years old
+1,August,2010,August/1/2010,8,Women over 20 years old
+1,September,2010,September/1/2010,8,Women over 20 years old
+1,October,2010,October/1/2010,8,Women over 20 years old
+1,November,2010,November/1/2010,8.4,Women over 20 years old
+1,December,2010,December/1/2010,8,Women over 20 years old
+1,January,2011,January/1/2011,7.9,Women over 20 years old
+1,February,2011,February/1/2011,7.9,Women over 20 years old
+1,March,2011,March/1/2011,7.8,Women over 20 years old
+1,April,2011,April/1/2011,8,Women over 20 years old
+1,May,2011,May/1/2011,8,Women over 20 years old
+1,June,2011,June/1/2011,8,Women over 20 years old
+1,July,2011,July/1/2011,7.9,Women over 20 years old
+1,August,2011,August/1/2011,7.9,Women over 20 years old
+1,September,2011,September/1/2011,8.2,Women over 20 years old
+1,October,2011,October/1/2011,7.8,Women over 20 years old
+1,November,2011,November/1/2011,7.8,Women over 20 years old
+1,December,2011,December/1/2011,7.8,Women over 20 years old
+1,January,2012,January/1/2012,7.6,Women over 20 years old
+1,February,2012,February/1/2012,7.6,Women over 20 years old
+1,March,2012,March/1/2012,7.4,Women over 20 years old
+1,April,2012,April/1/2012,7.4,Women over 20 years old
+1,May,2012,May/1/2012,7.4,Women over 20 years old
+1,June,2012,June/1/2012,7.4,Women over 20 years old
+1,July,2012,July/1/2012,7.4,Women over 20 years old
+1,August,2012,August/1/2012,7.3,Women over 20 years old
+1,September,2012,September/1/2012,7.1,Women over 20 years old
+1,October,2012,October/1/2012,7.1,Women over 20 years old
+1,November,2012,November/1/2012,7,Women over 20 years old
+1,December,2012,December/1/2012,7.4,Women over 20 years old
+1,January,2013,January/1/2013,7.2,Women over 20 years old
+1,February,2013,February/1/2013,7,Women over 20 years old
+1,March,2013,March/1/2013,6.9,Women over 20 years old
+1,April,2013,April/1/2013,6.7,Women over 20 years old
+1,May,2013,May/1/2013,6.5,Women over 20 years old
+1,June,2013,June/1/2013,6.8,Women over 20 years old
+1,July,2013,July/1/2013,6.3,Women over 20 years old
+1,August,2013,August/1/2013,6.2,Women over 20 years old
+1,September,2013,September/1/2013,6.2,Women over 20 years old
+1,October,2013,October/1/2013,6.3,Women over 20 years old
+1,November,2013,November/1/2013,6.2,Women over 20 years old
+1,December,2013,December/1/2013,6.1,Women over 20 years old
+1,January,2014,January/1/2014,5.8,Women over 20 years old
+1,February,2014,February/1/2014,5.9,Women over 20 years old
+1,March,2014,March/1/2014,6.2,Women over 20 years old
+1,April,2014,April/1/2014,5.6,Women over 20 years old
+1,May,2014,May/1/2014,5.8,Women over 20 years old
+1,June,2014,June/1/2014,5.3,Women over 20 years old
+1,July,2014,July/1/2014,5.6,Women over 20 years old
+1,August,2014,August/1/2014,5.6,Women over 20 years old
+1,September,2014,September/1/2014,5.5,Women over 20 years old
+1,October,2014,October/1/2014,5.4,Women over 20 years old
+1,November,2014,November/1/2014,5.3,Women over 20 years old
+1,December,2014,December/1/2014,5.1,Women over 20 years old
+1,January,2015,January/1/2015,5,Women over 20 years old
+1,February,2015,February/1/2015,4.9,Women over 20 years old
+1,March,2015,March/1/2015,4.9,Women over 20 years old
+1,April,2015,April/1/2015,5,Women over 20 years old
+1,May,2015,May/1/2015,5.1,Women over 20 years old
+1,June,2015,June/1/2015,4.7,Women over 20 years old
+1,July,2015,July/1/2015,4.8,Women over 20 years old
+1,August,2015,August/1/2015,4.6,Women over 20 years old
+1,September,2015,September/1/2015,4.6,Women over 20 years old
+1,October,2015,October/1/2015,4.6,Women over 20 years old
+1,November,2015,November/1/2015,4.6,Women over 20 years old
+1,December,2015,December/1/2015,4.5,Women over 20 years old
+1,January,2016,January/1/2016,4.5,Women over 20 years old
+1,February,2016,February/1/2016,4.5,Women over 20 years old
+1,March,2016,March/1/2016,4.6,Women over 20 years old
+1,April,2016,April/1/2016,4.6,Women over 20 years old
+1,May,2016,May/1/2016,4.3,Women over 20 years old
+1,June,2016,June/1/2016,4.4,Women over 20 years old
+1,July,2016,July/1/2016,4.2,Women over 20 years old
+1,August,2016,August/1/2016,4.4,Women over 20 years old
+1,September,2016,September/1/2016,4.4,Women over 20 years old
+1,October,2016,October/1/2016,4.4,Women over 20 years old
+1,November,2016,November/1/2016,4.3,Women over 20 years old
+1,December,2016,December/1/2016,4.3,Women over 20 years old
+1,January,2017,January/1/2017,4.4,Women over 20 years old
+1,February,2017,February/1/2017,4.2,Women over 20 years old
+1,March,2017,March/1/2017,3.9,Women over 20 years old
+1,April,2017,April/1/2017,4.1,Women over 20 years old
+1,May,2017,May/1/2017,4.1,Women over 20 years old
+1,June,2017,June/1/2017,4,Women over 20 years old
+1,July,2017,July/1/2017,3.9,Women over 20 years old
+1,August,2017,August/1/2017,4,Women over 20 years old
+1,September,2017,September/1/2017,3.9,Women over 20 years old
+1,October,2017,October/1/2017,3.7,Women over 20 years old
+1,November,2017,November/1/2017,3.7,Women over 20 years old
+1,December,2017,December/1/2017,3.7,Women over 20 years old
+1,January,2018,January/1/2018,3.6,Women over 20 years old
+1,February,2018,February/1/2018,3.8,Women over 20 years old
+1,March,2018,March/1/2018,3.7,Women over 20 years old
+1,April,2018,April/1/2018,3.5,Women over 20 years old
+1,May,2018,May/1/2018,3.4,Women over 20 years old
+1,June,2018,June/1/2018,3.6,Women over 20 years old
+1,July,2018,July/1/2018,3.6,Women over 20 years old
+1,August,2018,August/1/2018,3.5,Women over 20 years old
+1,September,2018,September/1/2018,3.3,Women over 20 years old
+1,October,2018,October/1/2018,3.4,Women over 20 years old
+1,November,2018,November/1/2018,3.4,Women over 20 years old
+1,December,2018,December/1/2018,3.5,Women over 20 years old
+1,January,2019,January/1/2019,3.6,Women over 20 years old
+1,February,2019,February/1/2019,3.4,Women over 20 years old
+1,March,2019,March/1/2019,3.3,Women over 20 years old
+1,April,2019,April/1/2019,3.1,Women over 20 years old
+1,May,2019,May/1/2019,3.3,Women over 20 years old
+1,June,2019,June/1/2019,3.3,Women over 20 years old
+1,July,2019,July/1/2019,3.3,Women over 20 years old
+1,August,2019,August/1/2019,3.3,Women over 20 years old
+1,September,2019,September/1/2019,3.1,Women over 20 years old
+1,October,2019,October/1/2019,3.2,Women over 20 years old
+1,November,2019,November/1/2019,3.2,Women over 20 years old
+1,December,2019,December/1/2019,3.2,Women over 20 years old
+1,January,2020,January/1/2020,3.2,Women over 20 years old
+1,February,2020,February/1/2020,3.1,Women over 20 years old
+1,March,2020,March/1/2020,4,Women over 20 years old
+1,April,2020,April/1/2020,15.5,Women over 20 years old
+1,May,2020,May/1/2020,13.9,Women over 20 years old
+1,June,2020,June/1/2020,11.2,Women over 20 years old
+1,July,2020,July/1/2020,10.5,Women over 20 years old
+1,August,2020,August/1/2020,8.4,Women over 20 years old
+1,September,2020,September/1/2020,7.7,Women over 20 years old
+1,September,2000,September/1/2000,3.5,White
+1,October,2000,October/1/2000,3.4,White
+1,November,2000,November/1/2000,3.5,White
+1,December,2000,December/1/2000,3.5,White
+1,January,2001,January/1/2001,3.6,White
+1,February,2001,February/1/2001,3.7,White
+1,March,2001,March/1/2001,3.7,White
+1,April,2001,April/1/2001,3.9,White
+1,May,2001,May/1/2001,3.8,White
+1,June,2001,June/1/2001,4,White
+1,July,2001,July/1/2001,4,White
+1,August,2001,August/1/2001,4.3,White
+1,September,2001,September/1/2001,4.3,White
+1,October,2001,October/1/2001,4.7,White
+1,November,2001,November/1/2001,4.9,White
+1,December,2001,December/1/2001,5.1,White
+1,January,2002,January/1/2002,5.1,White
+1,February,2002,February/1/2002,5,White
+1,March,2002,March/1/2002,5,White
+1,April,2002,April/1/2002,5.2,White
+1,May,2002,May/1/2002,5.1,White
+1,June,2002,June/1/2002,5.1,White
+1,July,2002,July/1/2002,5.2,White
+1,August,2002,August/1/2002,5.1,White
+1,September,2002,September/1/2002,5.1,White
+1,October,2002,October/1/2002,5.1,White
+1,November,2002,November/1/2002,5.1,White
+1,December,2002,December/1/2002,5.1,White
+1,January,2003,January/1/2003,5.2,White
+1,February,2003,February/1/2003,5.1,White
+1,March,2003,March/1/2003,5.1,White
+1,April,2003,April/1/2003,5.3,White
+1,May,2003,May/1/2003,5.4,White
+1,June,2003,June/1/2003,5.5,White
+1,July,2003,July/1/2003,5.4,White
+1,August,2003,August/1/2003,5.4,White
+1,September,2003,September/1/2003,5.3,White
+1,October,2003,October/1/2003,5.1,White
+1,November,2003,November/1/2003,5.2,White
+1,December,2003,December/1/2003,5,White
+1,January,2004,January/1/2004,5,White
+1,February,2004,February/1/2004,4.9,White
+1,March,2004,March/1/2004,5.1,White
+1,April,2004,April/1/2004,5,White
+1,May,2004,May/1/2004,4.9,White
+1,June,2004,June/1/2004,5,White
+1,July,2004,July/1/2004,4.7,White
+1,August,2004,August/1/2004,4.7,White
+1,September,2004,September/1/2004,4.6,White
+1,October,2004,October/1/2004,4.6,White
+1,November,2004,November/1/2004,4.6,White
+1,December,2004,December/1/2004,4.5,White
+1,January,2005,January/1/2005,4.5,White
+1,February,2005,February/1/2005,4.6,White
+1,March,2005,March/1/2005,4.5,White
+1,April,2005,April/1/2005,4.4,White
+1,May,2005,May/1/2005,4.4,White
+1,June,2005,June/1/2005,4.3,White
+1,July,2005,July/1/2005,4.2,White
+1,August,2005,August/1/2005,4.2,White
+1,September,2005,September/1/2005,4.4,White
+1,October,2005,October/1/2005,4.4,White
+1,November,2005,November/1/2005,4.3,White
+1,December,2005,December/1/2005,4.2,White
+1,January,2006,January/1/2006,4.1,White
+1,February,2006,February/1/2006,4.1,White
+1,March,2006,March/1/2006,4,White
+1,April,2006,April/1/2006,4.1,White
+1,May,2006,May/1/2006,4.1,White
+1,June,2006,June/1/2006,4.1,White
+1,July,2006,July/1/2006,4.1,White
+1,August,2006,August/1/2006,4.1,White
+1,September,2006,September/1/2006,3.9,White
+1,October,2006,October/1/2006,3.9,White
+1,November,2006,November/1/2006,4,White
+1,December,2006,December/1/2006,3.9,White
+1,January,2007,January/1/2007,4.2,White
+1,February,2007,February/1/2007,4.1,White
+1,March,2007,March/1/2007,3.8,White
+1,April,2007,April/1/2007,4,White
+1,May,2007,May/1/2007,3.9,White
+1,June,2007,June/1/2007,4.1,White
+1,July,2007,July/1/2007,4.2,White
+1,August,2007,August/1/2007,4.2,White
+1,September,2007,September/1/2007,4.2,White
+1,October,2007,October/1/2007,4.1,White
+1,November,2007,November/1/2007,4.2,White
+1,December,2007,December/1/2007,4.4,White
+1,January,2008,January/1/2008,4.4,White
+1,February,2008,February/1/2008,4.4,White
+1,March,2008,March/1/2008,4.5,White
+1,April,2008,April/1/2008,4.4,White
+1,May,2008,May/1/2008,4.8,White
+1,June,2008,June/1/2008,5,White
+1,July,2008,July/1/2008,5.2,White
+1,August,2008,August/1/2008,5.4,White
+1,September,2008,September/1/2008,5.4,White
+1,October,2008,October/1/2008,5.9,White
+1,November,2008,November/1/2008,6.2,White
+1,December,2008,December/1/2008,6.7,White
+1,January,2009,January/1/2009,7.1,White
+1,February,2009,February/1/2009,7.6,White
+1,March,2009,March/1/2009,8,White
+1,April,2009,April/1/2009,8.1,White
+1,May,2009,May/1/2009,8.5,White
+1,June,2009,June/1/2009,8.7,White
+1,July,2009,July/1/2009,8.7,White
+1,August,2009,August/1/2009,8.9,White
+1,September,2009,September/1/2009,8.9,White
+1,October,2009,October/1/2009,9.2,White
+1,November,2009,November/1/2009,9.2,White
+1,December,2009,December/1/2009,9,White
+1,January,2010,January/1/2010,8.8,White
+1,February,2010,February/1/2010,8.9,White
+1,March,2010,March/1/2010,8.9,White
+1,April,2010,April/1/2010,9,White
+1,May,2010,May/1/2010,8.7,White
+1,June,2010,June/1/2010,8.6,White
+1,July,2010,July/1/2010,8.5,White
+1,August,2010,August/1/2010,8.6,White
+1,September,2010,September/1/2010,8.6,White
+1,October,2010,October/1/2010,8.6,White
+1,November,2010,November/1/2010,8.9,White
+1,December,2010,December/1/2010,8.5,White
+1,January,2011,January/1/2011,8.1,White
+1,February,2011,February/1/2011,8.1,White
+1,March,2011,March/1/2011,8,White
+1,April,2011,April/1/2011,8.1,White
+1,May,2011,May/1/2011,7.9,White
+1,June,2011,June/1/2011,8.1,White
+1,July,2011,July/1/2011,8,White
+1,August,2011,August/1/2011,7.9,White
+1,September,2011,September/1/2011,7.9,White
+1,October,2011,October/1/2011,7.9,White
+1,November,2011,November/1/2011,7.7,White
+1,December,2011,December/1/2011,7.5,White
+1,January,2012,January/1/2012,7.4,White
+1,February,2012,February/1/2012,7.4,White
+1,March,2012,March/1/2012,7.3,White
+1,April,2012,April/1/2012,7.4,White
+1,May,2012,May/1/2012,7.4,White
+1,June,2012,June/1/2012,7.3,White
+1,July,2012,July/1/2012,7.3,White
+1,August,2012,August/1/2012,7.2,White
+1,September,2012,September/1/2012,7,White
+1,October,2012,October/1/2012,6.9,White
+1,November,2012,November/1/2012,6.8,White
+1,December,2012,December/1/2012,6.9,White
+1,January,2013,January/1/2013,7.1,White
+1,February,2013,February/1/2013,6.8,White
+1,March,2013,March/1/2013,6.7,White
+1,April,2013,April/1/2013,6.7,White
+1,May,2013,May/1/2013,6.7,White
+1,June,2013,June/1/2013,6.6,White
+1,July,2013,July/1/2013,6.5,White
+1,August,2013,August/1/2013,6.4,White
+1,September,2013,September/1/2013,6.3,White
+1,October,2013,October/1/2013,6.3,White
+1,November,2013,November/1/2013,6.1,White
+1,December,2013,December/1/2013,5.9,White
+1,January,2014,January/1/2014,5.7,White
+1,February,2014,February/1/2014,5.8,White
+1,March,2014,March/1/2014,5.8,White
+1,April,2014,April/1/2014,5.3,White
+1,May,2014,May/1/2014,5.4,White
+1,June,2014,June/1/2014,5.3,White
+1,July,2014,July/1/2014,5.3,White
+1,August,2014,August/1/2014,5.3,White
+1,September,2014,September/1/2014,5.1,White
+1,October,2014,October/1/2014,4.9,White
+1,November,2014,November/1/2014,5,White
+1,December,2014,December/1/2014,4.7,White
+1,January,2015,January/1/2015,4.9,White
+1,February,2015,February/1/2015,4.7,White
+1,March,2015,March/1/2015,4.8,White
+1,April,2015,April/1/2015,4.7,White
+1,May,2015,May/1/2015,4.8,White
+1,June,2015,June/1/2015,4.6,White
+1,July,2015,July/1/2015,4.5,White
+1,August,2015,August/1/2015,4.4,White
+1,September,2015,September/1/2015,4.4,White
+1,October,2015,October/1/2015,4.4,White
+1,November,2015,November/1/2015,4.4,White
+1,December,2015,December/1/2015,4.4,White
+1,January,2016,January/1/2016,4.2,White
+1,February,2016,February/1/2016,4.3,White
+1,March,2016,March/1/2016,4.3,White
+1,April,2016,April/1/2016,4.4,White
+1,May,2016,May/1/2016,4.2,White
+1,June,2016,June/1/2016,4.3,White
+1,July,2016,July/1/2016,4.2,White
+1,August,2016,August/1/2016,4.3,White
+1,September,2016,September/1/2016,4.4,White
+1,October,2016,October/1/2016,4.4,White
+1,November,2016,November/1/2016,4.2,White
+1,December,2016,December/1/2016,4.2,White
+1,January,2017,January/1/2017,4.2,White
+1,February,2017,February/1/2017,4,White
+1,March,2017,March/1/2017,3.9,White
+1,April,2017,April/1/2017,3.9,White
+1,May,2017,May/1/2017,3.8,White
+1,June,2017,June/1/2017,3.8,White
+1,July,2017,July/1/2017,3.7,White
+1,August,2017,August/1/2017,3.8,White
+1,September,2017,September/1/2017,3.7,White
+1,October,2017,October/1/2017,3.5,White
+1,November,2017,November/1/2017,3.7,White
+1,December,2017,December/1/2017,3.7,White
+1,January,2018,January/1/2018,3.5,White
+1,February,2018,February/1/2018,3.7,White
+1,March,2018,March/1/2018,3.6,White
+1,April,2018,April/1/2018,3.6,White
+1,May,2018,May/1/2018,3.5,White
+1,June,2018,June/1/2018,3.5,White
+1,July,2018,July/1/2018,3.3,White
+1,August,2018,August/1/2018,3.4,White
+1,September,2018,September/1/2018,3.3,White
+1,October,2018,October/1/2018,3.3,White
+1,November,2018,November/1/2018,3.4,White
+1,December,2018,December/1/2018,3.4,White
+1,January,2019,January/1/2019,3.5,White
+1,February,2019,February/1/2019,3.3,White
+1,March,2019,March/1/2019,3.4,White
+1,April,2019,April/1/2019,3.1,White
+1,May,2019,May/1/2019,3.3,White
+1,June,2019,June/1/2019,3.3,White
+1,July,2019,July/1/2019,3.3,White
+1,August,2019,August/1/2019,3.4,White
+1,September,2019,September/1/2019,3.2,White
+1,October,2019,October/1/2019,3.2,White
+1,November,2019,November/1/2019,3.2,White
+1,December,2019,December/1/2019,3.2,White
+1,January,2020,January/1/2020,3.1,White
+1,February,2020,February/1/2020,3.1,White
+1,March,2020,March/1/2020,4,White
+1,April,2020,April/1/2020,14.2,White
+1,May,2020,May/1/2020,12.4,White
+1,June,2020,June/1/2020,10.1,White
+1,July,2020,July/1/2020,9.2,White
+1,August,2020,August/1/2020,7.3,White
+1,September,2020,September/1/2020,7,White
+1,September,2000,September/1/2000,7.3,Black/AfricanAmerican
+1,October,2000,October/1/2000,7.3,Black/AfricanAmerican
+1,November,2000,November/1/2000,7.3,Black/AfricanAmerican
+1,December,2000,December/1/2000,7.4,Black/AfricanAmerican
+1,January,2001,January/1/2001,8.2,Black/AfricanAmerican
+1,February,2001,February/1/2001,7.7,Black/AfricanAmerican
+1,March,2001,March/1/2001,8.3,Black/AfricanAmerican
+1,April,2001,April/1/2001,8,Black/AfricanAmerican
+1,May,2001,May/1/2001,7.9,Black/AfricanAmerican
+1,June,2001,June/1/2001,8.3,Black/AfricanAmerican
+1,July,2001,July/1/2001,8,Black/AfricanAmerican
+1,August,2001,August/1/2001,9.1,Black/AfricanAmerican
+1,September,2001,September/1/2001,8.9,Black/AfricanAmerican
+1,October,2001,October/1/2001,9.5,Black/AfricanAmerican
+1,November,2001,November/1/2001,9.8,Black/AfricanAmerican
+1,December,2001,December/1/2001,10.1,Black/AfricanAmerican
+1,January,2002,January/1/2002,10,Black/AfricanAmerican
+1,February,2002,February/1/2002,9.9,Black/AfricanAmerican
+1,March,2002,March/1/2002,10.5,Black/AfricanAmerican
+1,April,2002,April/1/2002,10.7,Black/AfricanAmerican
+1,May,2002,May/1/2002,10.2,Black/AfricanAmerican
+1,June,2002,June/1/2002,10.5,Black/AfricanAmerican
+1,July,2002,July/1/2002,9.8,Black/AfricanAmerican
+1,August,2002,August/1/2002,9.8,Black/AfricanAmerican
+1,September,2002,September/1/2002,9.7,Black/AfricanAmerican
+1,October,2002,October/1/2002,9.8,Black/AfricanAmerican
+1,November,2002,November/1/2002,10.7,Black/AfricanAmerican
+1,December,2002,December/1/2002,11.3,Black/AfricanAmerican
+1,January,2003,January/1/2003,10.5,Black/AfricanAmerican
+1,February,2003,February/1/2003,10.7,Black/AfricanAmerican
+1,March,2003,March/1/2003,10.3,Black/AfricanAmerican
+1,April,2003,April/1/2003,10.9,Black/AfricanAmerican
+1,May,2003,May/1/2003,10.9,Black/AfricanAmerican
+1,June,2003,June/1/2003,11.5,Black/AfricanAmerican
+1,July,2003,July/1/2003,10.9,Black/AfricanAmerican
+1,August,2003,August/1/2003,10.9,Black/AfricanAmerican
+1,September,2003,September/1/2003,11.1,Black/AfricanAmerican
+1,October,2003,October/1/2003,11.4,Black/AfricanAmerican
+1,November,2003,November/1/2003,10.2,Black/AfricanAmerican
+1,December,2003,December/1/2003,10.1,Black/AfricanAmerican
+1,January,2004,January/1/2004,10.4,Black/AfricanAmerican
+1,February,2004,February/1/2004,9.7,Black/AfricanAmerican
+1,March,2004,March/1/2004,10.3,Black/AfricanAmerican
+1,April,2004,April/1/2004,9.8,Black/AfricanAmerican
+1,May,2004,May/1/2004,10.1,Black/AfricanAmerican
+1,June,2004,June/1/2004,10.2,Black/AfricanAmerican
+1,July,2004,July/1/2004,11,Black/AfricanAmerican
+1,August,2004,August/1/2004,10.5,Black/AfricanAmerican
+1,September,2004,September/1/2004,10.3,Black/AfricanAmerican
+1,October,2004,October/1/2004,10.8,Black/AfricanAmerican
+1,November,2004,November/1/2004,10.7,Black/AfricanAmerican
+1,December,2004,December/1/2004,10.7,Black/AfricanAmerican
+1,January,2005,January/1/2005,10.6,Black/AfricanAmerican
+1,February,2005,February/1/2005,10.9,Black/AfricanAmerican
+1,March,2005,March/1/2005,10.5,Black/AfricanAmerican
+1,April,2005,April/1/2005,10.3,Black/AfricanAmerican
+1,May,2005,May/1/2005,10.1,Black/AfricanAmerican
+1,June,2005,June/1/2005,10.2,Black/AfricanAmerican
+1,July,2005,July/1/2005,9.2,Black/AfricanAmerican
+1,August,2005,August/1/2005,9.7,Black/AfricanAmerican
+1,September,2005,September/1/2005,9.4,Black/AfricanAmerican
+1,October,2005,October/1/2005,9.1,Black/AfricanAmerican
+1,November,2005,November/1/2005,10.6,Black/AfricanAmerican
+1,December,2005,December/1/2005,9.2,Black/AfricanAmerican
+1,January,2006,January/1/2006,8.9,Black/AfricanAmerican
+1,February,2006,February/1/2006,9.5,Black/AfricanAmerican
+1,March,2006,March/1/2006,9.5,Black/AfricanAmerican
+1,April,2006,April/1/2006,9.4,Black/AfricanAmerican
+1,May,2006,May/1/2006,8.7,Black/AfricanAmerican
+1,June,2006,June/1/2006,8.9,Black/AfricanAmerican
+1,July,2006,July/1/2006,9.5,Black/AfricanAmerican
+1,August,2006,August/1/2006,8.8,Black/AfricanAmerican
+1,September,2006,September/1/2006,9,Black/AfricanAmerican
+1,October,2006,October/1/2006,8.4,Black/AfricanAmerican
+1,November,2006,November/1/2006,8.5,Black/AfricanAmerican
+1,December,2006,December/1/2006,8.3,Black/AfricanAmerican
+1,January,2007,January/1/2007,7.9,Black/AfricanAmerican
+1,February,2007,February/1/2007,8,Black/AfricanAmerican
+1,March,2007,March/1/2007,8.4,Black/AfricanAmerican
+1,April,2007,April/1/2007,8.3,Black/AfricanAmerican
+1,May,2007,May/1/2007,8.3,Black/AfricanAmerican
+1,June,2007,June/1/2007,8.5,Black/AfricanAmerican
+1,July,2007,July/1/2007,8.1,Black/AfricanAmerican
+1,August,2007,August/1/2007,7.6,Black/AfricanAmerican
+1,September,2007,September/1/2007,8,Black/AfricanAmerican
+1,October,2007,October/1/2007,8.5,Black/AfricanAmerican
+1,November,2007,November/1/2007,8.5,Black/AfricanAmerican
+1,December,2007,December/1/2007,9,Black/AfricanAmerican
+1,January,2008,January/1/2008,9.1,Black/AfricanAmerican
+1,February,2008,February/1/2008,8.4,Black/AfricanAmerican
+1,March,2008,March/1/2008,9.2,Black/AfricanAmerican
+1,April,2008,April/1/2008,8.6,Black/AfricanAmerican
+1,May,2008,May/1/2008,9.6,Black/AfricanAmerican
+1,June,2008,June/1/2008,9.4,Black/AfricanAmerican
+1,July,2008,July/1/2008,10,Black/AfricanAmerican
+1,August,2008,August/1/2008,10.6,Black/AfricanAmerican
+1,September,2008,September/1/2008,11.3,Black/AfricanAmerican
+1,October,2008,October/1/2008,11.4,Black/AfricanAmerican
+1,November,2008,November/1/2008,11.5,Black/AfricanAmerican
+1,December,2008,December/1/2008,12.1,Black/AfricanAmerican
+1,January,2009,January/1/2009,12.7,Black/AfricanAmerican
+1,February,2009,February/1/2009,13.7,Black/AfricanAmerican
+1,March,2009,March/1/2009,13.7,Black/AfricanAmerican
+1,April,2009,April/1/2009,15,Black/AfricanAmerican
+1,May,2009,May/1/2009,15,Black/AfricanAmerican
+1,June,2009,June/1/2009,14.8,Black/AfricanAmerican
+1,July,2009,July/1/2009,14.8,Black/AfricanAmerican
+1,August,2009,August/1/2009,14.8,Black/AfricanAmerican
+1,September,2009,September/1/2009,15.3,Black/AfricanAmerican
+1,October,2009,October/1/2009,15.8,Black/AfricanAmerican
+1,November,2009,November/1/2009,15.7,Black/AfricanAmerican
+1,December,2009,December/1/2009,16.1,Black/AfricanAmerican
+1,January,2010,January/1/2010,16.5,Black/AfricanAmerican
+1,February,2010,February/1/2010,16.1,Black/AfricanAmerican
+1,March,2010,March/1/2010,16.8,Black/AfricanAmerican
+1,April,2010,April/1/2010,16.6,Black/AfricanAmerican
+1,May,2010,May/1/2010,15.5,Black/AfricanAmerican
+1,June,2010,June/1/2010,15.2,Black/AfricanAmerican
+1,July,2010,July/1/2010,15.6,Black/AfricanAmerican
+1,August,2010,August/1/2010,15.9,Black/AfricanAmerican
+1,September,2010,September/1/2010,16,Black/AfricanAmerican
+1,October,2010,October/1/2010,15.6,Black/AfricanAmerican
+1,November,2010,November/1/2010,16.2,Black/AfricanAmerican
+1,December,2010,December/1/2010,15.5,Black/AfricanAmerican
+1,January,2011,January/1/2011,15.8,Black/AfricanAmerican
+1,February,2011,February/1/2011,15.5,Black/AfricanAmerican
+1,March,2011,March/1/2011,15.8,Black/AfricanAmerican
+1,April,2011,April/1/2011,16.5,Black/AfricanAmerican
+1,May,2011,May/1/2011,16.3,Black/AfricanAmerican
+1,June,2011,June/1/2011,16.2,Black/AfricanAmerican
+1,July,2011,July/1/2011,15.9,Black/AfricanAmerican
+1,August,2011,August/1/2011,16.4,Black/AfricanAmerican
+1,September,2011,September/1/2011,15.9,Black/AfricanAmerican
+1,October,2011,October/1/2011,14.6,Black/AfricanAmerican
+1,November,2011,November/1/2011,15.6,Black/AfricanAmerican
+1,December,2011,December/1/2011,15.4,Black/AfricanAmerican
+1,January,2012,January/1/2012,13.6,Black/AfricanAmerican
+1,February,2012,February/1/2012,14,Black/AfricanAmerican
+1,March,2012,March/1/2012,14,Black/AfricanAmerican
+1,April,2012,April/1/2012,13.3,Black/AfricanAmerican
+1,May,2012,May/1/2012,13.5,Black/AfricanAmerican
+1,June,2012,June/1/2012,14.5,Black/AfricanAmerican
+1,July,2012,July/1/2012,14.2,Black/AfricanAmerican
+1,August,2012,August/1/2012,13.8,Black/AfricanAmerican
+1,September,2012,September/1/2012,13.6,Black/AfricanAmerican
+1,October,2012,October/1/2012,14.1,Black/AfricanAmerican
+1,November,2012,November/1/2012,13.3,Black/AfricanAmerican
+1,December,2012,December/1/2012,14,Black/AfricanAmerican
+1,January,2013,January/1/2013,13.7,Black/AfricanAmerican
+1,February,2013,February/1/2013,13.8,Black/AfricanAmerican
+1,March,2013,March/1/2013,13,Black/AfricanAmerican
+1,April,2013,April/1/2013,13.3,Black/AfricanAmerican
+1,May,2013,May/1/2013,13.4,Black/AfricanAmerican
+1,June,2013,June/1/2013,14.2,Black/AfricanAmerican
+1,July,2013,July/1/2013,12.6,Black/AfricanAmerican
+1,August,2013,August/1/2013,12.8,Black/AfricanAmerican
+1,September,2013,September/1/2013,13,Black/AfricanAmerican
+1,October,2013,October/1/2013,12.8,Black/AfricanAmerican
+1,November,2013,November/1/2013,12.3,Black/AfricanAmerican
+1,December,2013,December/1/2013,11.9,Black/AfricanAmerican
+1,January,2014,January/1/2014,12.1,Black/AfricanAmerican
+1,February,2014,February/1/2014,11.8,Black/AfricanAmerican
+1,March,2014,March/1/2014,12.1,Black/AfricanAmerican
+1,April,2014,April/1/2014,11.6,Black/AfricanAmerican
+1,May,2014,May/1/2014,11.4,Black/AfricanAmerican
+1,June,2014,June/1/2014,11,Black/AfricanAmerican
+1,July,2014,July/1/2014,11.6,Black/AfricanAmerican
+1,August,2014,August/1/2014,11.4,Black/AfricanAmerican
+1,September,2014,September/1/2014,11,Black/AfricanAmerican
+1,October,2014,October/1/2014,10.6,Black/AfricanAmerican
+1,November,2014,November/1/2014,10.9,Black/AfricanAmerican
+1,December,2014,December/1/2014,10.6,Black/AfricanAmerican
+1,January,2015,January/1/2015,10.3,Black/AfricanAmerican
+1,February,2015,February/1/2015,10.1,Black/AfricanAmerican
+1,March,2015,March/1/2015,9.9,Black/AfricanAmerican
+1,April,2015,April/1/2015,9.7,Black/AfricanAmerican
+1,May,2015,May/1/2015,10.3,Black/AfricanAmerican
+1,June,2015,June/1/2015,9.7,Black/AfricanAmerican
+1,July,2015,July/1/2015,9.1,Black/AfricanAmerican
+1,August,2015,August/1/2015,9.4,Black/AfricanAmerican
+1,September,2015,September/1/2015,9.3,Black/AfricanAmerican
+1,October,2015,October/1/2015,9,Black/AfricanAmerican
+1,November,2015,November/1/2015,9.4,Black/AfricanAmerican
+1,December,2015,December/1/2015,8.5,Black/AfricanAmerican
+1,January,2016,January/1/2016,8.7,Black/AfricanAmerican
+1,February,2016,February/1/2016,8.5,Black/AfricanAmerican
+1,March,2016,March/1/2016,8.9,Black/AfricanAmerican
+1,April,2016,April/1/2016,8.8,Black/AfricanAmerican
+1,May,2016,May/1/2016,8.2,Black/AfricanAmerican
+1,June,2016,June/1/2016,8.8,Black/AfricanAmerican
+1,July,2016,July/1/2016,8.4,Black/AfricanAmerican
+1,August,2016,August/1/2016,8,Black/AfricanAmerican
+1,September,2016,September/1/2016,8.5,Black/AfricanAmerican
+1,October,2016,October/1/2016,8.4,Black/AfricanAmerican
+1,November,2016,November/1/2016,8.1,Black/AfricanAmerican
+1,December,2016,December/1/2016,7.9,Black/AfricanAmerican
+1,January,2017,January/1/2017,7.5,Black/AfricanAmerican
+1,February,2017,February/1/2017,7.9,Black/AfricanAmerican
+1,March,2017,March/1/2017,7.9,Black/AfricanAmerican
+1,April,2017,April/1/2017,7.9,Black/AfricanAmerican
+1,May,2017,May/1/2017,7.7,Black/AfricanAmerican
+1,June,2017,June/1/2017,7.1,Black/AfricanAmerican
+1,July,2017,July/1/2017,7.4,Black/AfricanAmerican
+1,August,2017,August/1/2017,7.7,Black/AfricanAmerican
+1,September,2017,September/1/2017,7.2,Black/AfricanAmerican
+1,October,2017,October/1/2017,7.4,Black/AfricanAmerican
+1,November,2017,November/1/2017,7.4,Black/AfricanAmerican
+1,December,2017,December/1/2017,6.7,Black/AfricanAmerican
+1,January,2018,January/1/2018,7.5,Black/AfricanAmerican
+1,February,2018,February/1/2018,6.7,Black/AfricanAmerican
+1,March,2018,March/1/2018,6.8,Black/AfricanAmerican
+1,April,2018,April/1/2018,6.4,Black/AfricanAmerican
+1,May,2018,May/1/2018,5.9,Black/AfricanAmerican
+1,June,2018,June/1/2018,6.5,Black/AfricanAmerican
+1,July,2018,July/1/2018,6.6,Black/AfricanAmerican
+1,August,2018,August/1/2018,6.3,Black/AfricanAmerican
+1,September,2018,September/1/2018,6.2,Black/AfricanAmerican
+1,October,2018,October/1/2018,6.3,Black/AfricanAmerican
+1,November,2018,November/1/2018,6.1,Black/AfricanAmerican
+1,December,2018,December/1/2018,6.6,Black/AfricanAmerican
+1,January,2019,January/1/2019,6.8,Black/AfricanAmerican
+1,February,2019,February/1/2019,6.9,Black/AfricanAmerican
+1,March,2019,March/1/2019,6.6,Black/AfricanAmerican
+1,April,2019,April/1/2019,6.6,Black/AfricanAmerican
+1,May,2019,May/1/2019,6.2,Black/AfricanAmerican
+1,June,2019,June/1/2019,6,Black/AfricanAmerican
+1,July,2019,July/1/2019,5.9,Black/AfricanAmerican
+1,August,2019,August/1/2019,5.4,Black/AfricanAmerican
+1,September,2019,September/1/2019,5.5,Black/AfricanAmerican
+1,October,2019,October/1/2019,5.5,Black/AfricanAmerican
+1,November,2019,November/1/2019,5.6,Black/AfricanAmerican
+1,December,2019,December/1/2019,5.9,Black/AfricanAmerican
+1,January,2020,January/1/2020,6,Black/AfricanAmerican
+1,February,2020,February/1/2020,5.8,Black/AfricanAmerican
+1,March,2020,March/1/2020,6.7,Black/AfricanAmerican
+1,April,2020,April/1/2020,16.7,Black/AfricanAmerican
+1,May,2020,May/1/2020,16.8,Black/AfricanAmerican
+1,June,2020,June/1/2020,15.4,Black/AfricanAmerican
+1,July,2020,July/1/2020,14.6,Black/AfricanAmerican
+1,August,2020,August/1/2020,13,Black/AfricanAmerican
+1,September,2020,September/1/2020,12.1,Black/AfricanAmerican
+1,September,2000,September/1/2000,0,Asian
+1,October,2000,October/1/2000,0,Asian
+1,November,2000,November/1/2000,0,Asian
+1,December,2000,December/1/2000,0,Asian
+1,January,2001,January/1/2001,0,Asian
+1,February,2001,February/1/2001,0,Asian
+1,March,2001,March/1/2001,0,Asian
+1,April,2001,April/1/2001,0,Asian
+1,May,2001,May/1/2001,0,Asian
+1,June,2001,June/1/2001,0,Asian
+1,July,2001,July/1/2001,0,Asian
+1,August,2001,August/1/2001,0,Asian
+1,September,2001,September/1/2001,0,Asian
+1,October,2001,October/1/2001,0,Asian
+1,November,2001,November/1/2001,0,Asian
+1,December,2001,December/1/2001,0,Asian
+1,January,2002,January/1/2002,0,Asian
+1,February,2002,February/1/2002,0,Asian
+1,March,2002,March/1/2002,0,Asian
+1,April,2002,April/1/2002,0,Asian
+1,May,2002,May/1/2002,0,Asian
+1,June,2002,June/1/2002,0,Asian
+1,July,2002,July/1/2002,0,Asian
+1,August,2002,August/1/2002,0,Asian
+1,September,2002,September/1/2002,0,Asian
+1,October,2002,October/1/2002,0,Asian
+1,November,2002,November/1/2002,0,Asian
+1,December,2002,December/1/2002,0,Asian
+1,January,2003,January/1/2003,5.5,Asian
+1,February,2003,February/1/2003,5.8,Asian
+1,March,2003,March/1/2003,6.5,Asian
+1,April,2003,April/1/2003,6,Asian
+1,May,2003,May/1/2003,5.5,Asian
+1,June,2003,June/1/2003,7.4,Asian
+1,July,2003,July/1/2003,5.9,Asian
+1,August,2003,August/1/2003,6,Asian
+1,September,2003,September/1/2003,6.4,Asian
+1,October,2003,October/1/2003,6.2,Asian
+1,November,2003,November/1/2003,5.2,Asian
+1,December,2003,December/1/2003,5.4,Asian
+1,January,2004,January/1/2004,5,Asian
+1,February,2004,February/1/2004,4.5,Asian
+1,March,2004,March/1/2004,4.3,Asian
+1,April,2004,April/1/2004,4.7,Asian
+1,May,2004,May/1/2004,4.6,Asian
+1,June,2004,June/1/2004,4.6,Asian
+1,July,2004,July/1/2004,3.9,Asian
+1,August,2004,August/1/2004,3.7,Asian
+1,September,2004,September/1/2004,4.5,Asian
+1,October,2004,October/1/2004,4.9,Asian
+1,November,2004,November/1/2004,4.1,Asian
+1,December,2004,December/1/2004,4.2,Asian
+1,January,2005,January/1/2005,4.1,Asian
+1,February,2005,February/1/2005,4.3,Asian
+1,March,2005,March/1/2005,3.9,Asian
+1,April,2005,April/1/2005,4.2,Asian
+1,May,2005,May/1/2005,4.2,Asian
+1,June,2005,June/1/2005,3.6,Asian
+1,July,2005,July/1/2005,4.8,Asian
+1,August,2005,August/1/2005,3.7,Asian
+1,September,2005,September/1/2005,4.3,Asian
+1,October,2005,October/1/2005,3.2,Asian
+1,November,2005,November/1/2005,3.6,Asian
+1,December,2005,December/1/2005,3.8,Asian
+1,January,2006,January/1/2006,3,Asian
+1,February,2006,February/1/2006,3,Asian
+1,March,2006,March/1/2006,3.5,Asian
+1,April,2006,April/1/2006,3.9,Asian
+1,May,2006,May/1/2006,3.3,Asian
+1,June,2006,June/1/2006,3.1,Asian
+1,July,2006,July/1/2006,2.4,Asian
+1,August,2006,August/1/2006,3,Asian
+1,September,2006,September/1/2006,3,Asian
+1,October,2006,October/1/2006,2.8,Asian
+1,November,2006,November/1/2006,3.1,Asian
+1,December,2006,December/1/2006,2.5,Asian
+1,January,2007,January/1/2007,3.1,Asian
+1,February,2007,February/1/2007,2.6,Asian
+1,March,2007,March/1/2007,3,Asian
+1,April,2007,April/1/2007,3.5,Asian
+1,May,2007,May/1/2007,3.2,Asian
+1,June,2007,June/1/2007,2.7,Asian
+1,July,2007,July/1/2007,2.7,Asian
+1,August,2007,August/1/2007,3.5,Asian
+1,September,2007,September/1/2007,3.4,Asian
+1,October,2007,October/1/2007,3.8,Asian
+1,November,2007,November/1/2007,3.6,Asian
+1,December,2007,December/1/2007,3.7,Asian
+1,January,2008,January/1/2008,3.1,Asian
+1,February,2008,February/1/2008,2.9,Asian
+1,March,2008,March/1/2008,3.6,Asian
+1,April,2008,April/1/2008,3.5,Asian
+1,May,2008,May/1/2008,4.1,Asian
+1,June,2008,June/1/2008,4.2,Asian
+1,July,2008,July/1/2008,3.7,Asian
+1,August,2008,August/1/2008,4.5,Asian
+1,September,2008,September/1/2008,4,Asian
+1,October,2008,October/1/2008,3.9,Asian
+1,November,2008,November/1/2008,4.8,Asian
+1,December,2008,December/1/2008,5.1,Asian
+1,January,2009,January/1/2009,6.1,Asian
+1,February,2009,February/1/2009,6.7,Asian
+1,March,2009,March/1/2009,6.5,Asian
+1,April,2009,April/1/2009,6.8,Asian
+1,May,2009,May/1/2009,7,Asian
+1,June,2009,June/1/2009,7.9,Asian
+1,July,2009,July/1/2009,8.1,Asian
+1,August,2009,August/1/2009,7.6,Asian
+1,September,2009,September/1/2009,7.6,Asian
+1,October,2009,October/1/2009,7.6,Asian
+1,November,2009,November/1/2009,7.2,Asian
+1,December,2009,December/1/2009,8.4,Asian
+1,January,2010,January/1/2010,8.3,Asian
+1,February,2010,February/1/2010,8.2,Asian
+1,March,2010,March/1/2010,7.6,Asian
+1,April,2010,April/1/2010,7,Asian
+1,May,2010,May/1/2010,7.8,Asian
+1,June,2010,June/1/2010,7.4,Asian
+1,July,2010,July/1/2010,7.9,Asian
+1,August,2010,August/1/2010,7.3,Asian
+1,September,2010,September/1/2010,6.6,Asian
+1,October,2010,October/1/2010,7.2,Asian
+1,November,2010,November/1/2010,7.5,Asian
+1,December,2010,December/1/2010,7.2,Asian
+1,January,2011,January/1/2011,6.8,Asian
+1,February,2011,February/1/2011,6.7,Asian
+1,March,2011,March/1/2011,7.3,Asian
+1,April,2011,April/1/2011,6.5,Asian
+1,May,2011,May/1/2011,7.2,Asian
+1,June,2011,June/1/2011,6.5,Asian
+1,July,2011,July/1/2011,7.4,Asian
+1,August,2011,August/1/2011,7.2,Asian
+1,September,2011,September/1/2011,8,Asian
+1,October,2011,October/1/2011,7.4,Asian
+1,November,2011,November/1/2011,6.4,Asian
+1,December,2011,December/1/2011,6.8,Asian
+1,January,2012,January/1/2012,6.7,Asian
+1,February,2012,February/1/2012,6.2,Asian
+1,March,2012,March/1/2012,6.4,Asian
+1,April,2012,April/1/2012,5.4,Asian
+1,May,2012,May/1/2012,5.5,Asian
+1,June,2012,June/1/2012,6.1,Asian
+1,July,2012,July/1/2012,5.9,Asian
+1,August,2012,August/1/2012,5.9,Asian
+1,September,2012,September/1/2012,4.9,Asian
+1,October,2012,October/1/2012,4.9,Asian
+1,November,2012,November/1/2012,6.3,Asian
+1,December,2012,December/1/2012,6.6,Asian
+1,January,2013,January/1/2013,6.4,Asian
+1,February,2013,February/1/2013,6,Asian
+1,March,2013,March/1/2013,5.1,Asian
+1,April,2013,April/1/2013,5.3,Asian
+1,May,2013,May/1/2013,4.5,Asian
+1,June,2013,June/1/2013,4.7,Asian
+1,July,2013,July/1/2013,5.3,Asian
+1,August,2013,August/1/2013,5.1,Asian
+1,September,2013,September/1/2013,5.4,Asian
+1,October,2013,October/1/2013,5.4,Asian
+1,November,2013,November/1/2013,5.2,Asian
+1,December,2013,December/1/2013,4.3,Asian
+1,January,2014,January/1/2014,4.7,Asian
+1,February,2014,February/1/2014,5.9,Asian
+1,March,2014,March/1/2014,5.5,Asian
+1,April,2014,April/1/2014,5.9,Asian
+1,May,2014,May/1/2014,5.7,Asian
+1,June,2014,June/1/2014,4.7,Asian
+1,July,2014,July/1/2014,4.2,Asian
+1,August,2014,August/1/2014,4.5,Asian
+1,September,2014,September/1/2014,4.4,Asian
+1,October,2014,October/1/2014,5.1,Asian
+1,November,2014,November/1/2014,4.8,Asian
+1,December,2014,December/1/2014,4.4,Asian
+1,January,2015,January/1/2015,4,Asian
+1,February,2015,February/1/2015,4,Asian
+1,March,2015,March/1/2015,3.2,Asian
+1,April,2015,April/1/2015,4.4,Asian
+1,May,2015,May/1/2015,4.1,Asian
+1,June,2015,June/1/2015,3.9,Asian
+1,July,2015,July/1/2015,3.9,Asian
+1,August,2015,August/1/2015,3.4,Asian
+1,September,2015,September/1/2015,3.5,Asian
+1,October,2015,October/1/2015,3.5,Asian
+1,November,2015,November/1/2015,3.9,Asian
+1,December,2015,December/1/2015,4.1,Asian
+1,January,2016,January/1/2016,3.6,Asian
+1,February,2016,February/1/2016,3.8,Asian
+1,March,2016,March/1/2016,3.9,Asian
+1,April,2016,April/1/2016,3.8,Asian
+1,May,2016,May/1/2016,4.2,Asian
+1,June,2016,June/1/2016,3.5,Asian
+1,July,2016,July/1/2016,3.8,Asian
+1,August,2016,August/1/2016,4.1,Asian
+1,September,2016,September/1/2016,3.8,Asian
+1,October,2016,October/1/2016,3.4,Asian
+1,November,2016,November/1/2016,3.1,Asian
+1,December,2016,December/1/2016,2.7,Asian
+1,January,2017,January/1/2017,3.7,Asian
+1,February,2017,February/1/2017,3.4,Asian
+1,March,2017,March/1/2017,3.3,Asian
+1,April,2017,April/1/2017,3.3,Asian
+1,May,2017,May/1/2017,3.7,Asian
+1,June,2017,June/1/2017,3.6,Asian
+1,July,2017,July/1/2017,3.8,Asian
+1,August,2017,August/1/2017,3.9,Asian
+1,September,2017,September/1/2017,3.6,Asian
+1,October,2017,October/1/2017,3,Asian
+1,November,2017,November/1/2017,3,Asian
+1,December,2017,December/1/2017,2.5,Asian
+1,January,2018,January/1/2018,3,Asian
+1,February,2018,February/1/2018,2.9,Asian
+1,March,2018,March/1/2018,3.1,Asian
+1,April,2018,April/1/2018,2.8,Asian
+1,May,2018,May/1/2018,2.2,Asian
+1,June,2018,June/1/2018,3.2,Asian
+1,July,2018,July/1/2018,3.1,Asian
+1,August,2018,August/1/2018,3,Asian
+1,September,2018,September/1/2018,3.5,Asian
+1,October,2018,October/1/2018,3.1,Asian
+1,November,2018,November/1/2018,2.8,Asian
+1,December,2018,December/1/2018,3.3,Asian
+1,January,2019,January/1/2019,3.1,Asian
+1,February,2019,February/1/2019,3.1,Asian
+1,March,2019,March/1/2019,3.1,Asian
+1,April,2019,April/1/2019,2.2,Asian
+1,May,2019,May/1/2019,2.5,Asian
+1,June,2019,June/1/2019,2.1,Asian
+1,July,2019,July/1/2019,2.8,Asian
+1,August,2019,August/1/2019,2.8,Asian
+1,September,2019,September/1/2019,2.5,Asian
+1,October,2019,October/1/2019,2.8,Asian
+1,November,2019,November/1/2019,2.6,Asian
+1,December,2019,December/1/2019,2.5,Asian
+1,January,2020,January/1/2020,3,Asian
+1,February,2020,February/1/2020,2.5,Asian
+1,March,2020,March/1/2020,4.1,Asian
+1,April,2020,April/1/2020,14.5,Asian
+1,May,2020,May/1/2020,15,Asian
+1,June,2020,June/1/2020,13.8,Asian
+1,July,2020,July/1/2020,12,Asian
+1,August,2020,August/1/2020,10.7,Asian
+1,September,2020,September/1/2020,8.9,Asian
+1,September,2000,September/1/2000,5.8,Hispanic/Latino
+1,October,2000,October/1/2000,5.1,Hispanic/Latino
+1,November,2000,November/1/2000,6,Hispanic/Latino
+1,December,2000,December/1/2000,5.7,Hispanic/Latino
+1,January,2001,January/1/2001,5.8,Hispanic/Latino
+1,February,2001,February/1/2001,6.1,Hispanic/Latino
+1,March,2001,March/1/2001,6.2,Hispanic/Latino
+1,April,2001,April/1/2001,6.4,Hispanic/Latino
+1,May,2001,May/1/2001,6.3,Hispanic/Latino
+1,June,2001,June/1/2001,6.6,Hispanic/Latino
+1,July,2001,July/1/2001,6.2,Hispanic/Latino
+1,August,2001,August/1/2001,6.5,Hispanic/Latino
+1,September,2001,September/1/2001,6.7,Hispanic/Latino
+1,October,2001,October/1/2001,7.1,Hispanic/Latino
+1,November,2001,November/1/2001,7.3,Hispanic/Latino
+1,December,2001,December/1/2001,7.7,Hispanic/Latino
+1,January,2002,January/1/2002,7.8,Hispanic/Latino
+1,February,2002,February/1/2002,7,Hispanic/Latino
+1,March,2002,March/1/2002,7.5,Hispanic/Latino
+1,April,2002,April/1/2002,8,Hispanic/Latino
+1,May,2002,May/1/2002,7.1,Hispanic/Latino
+1,June,2002,June/1/2002,7.4,Hispanic/Latino
+1,July,2002,July/1/2002,7.4,Hispanic/Latino
+1,August,2002,August/1/2002,7.5,Hispanic/Latino
+1,September,2002,September/1/2002,7.4,Hispanic/Latino
+1,October,2002,October/1/2002,7.9,Hispanic/Latino
+1,November,2002,November/1/2002,7.8,Hispanic/Latino
+1,December,2002,December/1/2002,7.9,Hispanic/Latino
+1,January,2003,January/1/2003,7.9,Hispanic/Latino
+1,February,2003,February/1/2003,7.7,Hispanic/Latino
+1,March,2003,March/1/2003,7.8,Hispanic/Latino
+1,April,2003,April/1/2003,7.6,Hispanic/Latino
+1,May,2003,May/1/2003,8,Hispanic/Latino
+1,June,2003,June/1/2003,8.3,Hispanic/Latino
+1,July,2003,July/1/2003,8,Hispanic/Latino
+1,August,2003,August/1/2003,7.7,Hispanic/Latino
+1,September,2003,September/1/2003,7.3,Hispanic/Latino
+1,October,2003,October/1/2003,7.5,Hispanic/Latino
+1,November,2003,November/1/2003,7.4,Hispanic/Latino
+1,December,2003,December/1/2003,6.7,Hispanic/Latino
+1,January,2004,January/1/2004,7.3,Hispanic/Latino
+1,February,2004,February/1/2004,7.4,Hispanic/Latino
+1,March,2004,March/1/2004,7.6,Hispanic/Latino
+1,April,2004,April/1/2004,7.1,Hispanic/Latino
+1,May,2004,May/1/2004,6.9,Hispanic/Latino
+1,June,2004,June/1/2004,6.6,Hispanic/Latino
+1,July,2004,July/1/2004,6.8,Hispanic/Latino
+1,August,2004,August/1/2004,6.8,Hispanic/Latino
+1,September,2004,September/1/2004,6.8,Hispanic/Latino
+1,October,2004,October/1/2004,6.8,Hispanic/Latino
+1,November,2004,November/1/2004,6.7,Hispanic/Latino
+1,December,2004,December/1/2004,6.6,Hispanic/Latino
+1,January,2005,January/1/2005,6,Hispanic/Latino
+1,February,2005,February/1/2005,6.3,Hispanic/Latino
+1,March,2005,March/1/2005,5.8,Hispanic/Latino
+1,April,2005,April/1/2005,6.4,Hispanic/Latino
+1,May,2005,May/1/2005,6,Hispanic/Latino
+1,June,2005,June/1/2005,5.7,Hispanic/Latino
+1,July,2005,July/1/2005,5.5,Hispanic/Latino
+1,August,2005,August/1/2005,5.8,Hispanic/Latino
+1,September,2005,September/1/2005,6.4,Hispanic/Latino
+1,October,2005,October/1/2005,6,Hispanic/Latino
+1,November,2005,November/1/2005,6.1,Hispanic/Latino
+1,December,2005,December/1/2005,6.1,Hispanic/Latino
+1,January,2006,January/1/2006,5.5,Hispanic/Latino
+1,February,2006,February/1/2006,5.4,Hispanic/Latino
+1,March,2006,March/1/2006,5.2,Hispanic/Latino
+1,April,2006,April/1/2006,5.5,Hispanic/Latino
+1,May,2006,May/1/2006,5,Hispanic/Latino
+1,June,2006,June/1/2006,5.2,Hispanic/Latino
+1,July,2006,July/1/2006,5.2,Hispanic/Latino
+1,August,2006,August/1/2006,5.3,Hispanic/Latino
+1,September,2006,September/1/2006,5.5,Hispanic/Latino
+1,October,2006,October/1/2006,4.8,Hispanic/Latino
+1,November,2006,November/1/2006,5.1,Hispanic/Latino
+1,December,2006,December/1/2006,5,Hispanic/Latino
+1,January,2007,January/1/2007,5.5,Hispanic/Latino
+1,February,2007,February/1/2007,5.1,Hispanic/Latino
+1,March,2007,March/1/2007,5,Hispanic/Latino
+1,April,2007,April/1/2007,5.6,Hispanic/Latino
+1,May,2007,May/1/2007,5.8,Hispanic/Latino
+1,June,2007,June/1/2007,5.5,Hispanic/Latino
+1,July,2007,July/1/2007,5.9,Hispanic/Latino
+1,August,2007,August/1/2007,5.5,Hispanic/Latino
+1,September,2007,September/1/2007,5.9,Hispanic/Latino
+1,October,2007,October/1/2007,5.7,Hispanic/Latino
+1,November,2007,November/1/2007,5.9,Hispanic/Latino
+1,December,2007,December/1/2007,6.3,Hispanic/Latino
+1,January,2008,January/1/2008,6.3,Hispanic/Latino
+1,February,2008,February/1/2008,6.2,Hispanic/Latino
+1,March,2008,March/1/2008,6.9,Hispanic/Latino
+1,April,2008,April/1/2008,7.1,Hispanic/Latino
+1,May,2008,May/1/2008,6.9,Hispanic/Latino
+1,June,2008,June/1/2008,7.6,Hispanic/Latino
+1,July,2008,July/1/2008,7.5,Hispanic/Latino
+1,August,2008,August/1/2008,8,Hispanic/Latino
+1,September,2008,September/1/2008,8,Hispanic/Latino
+1,October,2008,October/1/2008,8.8,Hispanic/Latino
+1,November,2008,November/1/2008,8.7,Hispanic/Latino
+1,December,2008,December/1/2008,9.4,Hispanic/Latino
+1,January,2009,January/1/2009,10.1,Hispanic/Latino
+1,February,2009,February/1/2009,11.3,Hispanic/Latino
+1,March,2009,March/1/2009,11.7,Hispanic/Latino
+1,April,2009,April/1/2009,11.4,Hispanic/Latino
+1,May,2009,May/1/2009,12.3,Hispanic/Latino
+1,June,2009,June/1/2009,12.1,Hispanic/Latino
+1,July,2009,July/1/2009,12.5,Hispanic/Latino
+1,August,2009,August/1/2009,13,Hispanic/Latino
+1,September,2009,September/1/2009,12.6,Hispanic/Latino
+1,October,2009,October/1/2009,12.8,Hispanic/Latino
+1,November,2009,November/1/2009,12.4,Hispanic/Latino
+1,December,2009,December/1/2009,12.8,Hispanic/Latino
+1,January,2010,January/1/2010,12.9,Hispanic/Latino
+1,February,2010,February/1/2010,12.7,Hispanic/Latino
+1,March,2010,March/1/2010,12.9,Hispanic/Latino
+1,April,2010,April/1/2010,12.5,Hispanic/Latino
+1,May,2010,May/1/2010,12,Hispanic/Latino
+1,June,2010,June/1/2010,12.3,Hispanic/Latino
+1,July,2010,July/1/2010,12.2,Hispanic/Latino
+1,August,2010,August/1/2010,12,Hispanic/Latino
+1,September,2010,September/1/2010,12.3,Hispanic/Latino
+1,October,2010,October/1/2010,12.3,Hispanic/Latino
+1,November,2010,November/1/2010,12.9,Hispanic/Latino
+1,December,2010,December/1/2010,12.9,Hispanic/Latino
+1,January,2011,January/1/2011,12.3,Hispanic/Latino
+1,February,2011,February/1/2011,11.8,Hispanic/Latino
+1,March,2011,March/1/2011,11.6,Hispanic/Latino
+1,April,2011,April/1/2011,11.9,Hispanic/Latino
+1,May,2011,May/1/2011,11.6,Hispanic/Latino
+1,June,2011,June/1/2011,11.5,Hispanic/Latino
+1,July,2011,July/1/2011,11.2,Hispanic/Latino
+1,August,2011,August/1/2011,11.2,Hispanic/Latino
+1,September,2011,September/1/2011,11.2,Hispanic/Latino
+1,October,2011,October/1/2011,11.3,Hispanic/Latino
+1,November,2011,November/1/2011,11.2,Hispanic/Latino
+1,December,2011,December/1/2011,11.1,Hispanic/Latino
+1,January,2012,January/1/2012,10.7,Hispanic/Latino
+1,February,2012,February/1/2012,10.9,Hispanic/Latino
+1,March,2012,March/1/2012,10.6,Hispanic/Latino
+1,April,2012,April/1/2012,10.3,Hispanic/Latino
+1,May,2012,May/1/2012,10.9,Hispanic/Latino
+1,June,2012,June/1/2012,10.9,Hispanic/Latino
+1,July,2012,July/1/2012,10.2,Hispanic/Latino
+1,August,2012,August/1/2012,10.1,Hispanic/Latino
+1,September,2012,September/1/2012,9.7,Hispanic/Latino
+1,October,2012,October/1/2012,10,Hispanic/Latino
+1,November,2012,November/1/2012,9.9,Hispanic/Latino
+1,December,2012,December/1/2012,9.6,Hispanic/Latino
+1,January,2013,January/1/2013,9.7,Hispanic/Latino
+1,February,2013,February/1/2013,9.7,Hispanic/Latino
+1,March,2013,March/1/2013,9.3,Hispanic/Latino
+1,April,2013,April/1/2013,9,Hispanic/Latino
+1,May,2013,May/1/2013,9,Hispanic/Latino
+1,June,2013,June/1/2013,9.1,Hispanic/Latino
+1,July,2013,July/1/2013,9.4,Hispanic/Latino
+1,August,2013,August/1/2013,9.2,Hispanic/Latino
+1,September,2013,September/1/2013,8.8,Hispanic/Latino
+1,October,2013,October/1/2013,9.1,Hispanic/Latino
+1,November,2013,November/1/2013,8.7,Hispanic/Latino
+1,December,2013,December/1/2013,8.3,Hispanic/Latino
+1,January,2014,January/1/2014,8.3,Hispanic/Latino
+1,February,2014,February/1/2014,8.2,Hispanic/Latino
+1,March,2014,March/1/2014,7.9,Hispanic/Latino
+1,April,2014,April/1/2014,7.2,Hispanic/Latino
+1,May,2014,May/1/2014,7.7,Hispanic/Latino
+1,June,2014,June/1/2014,7.8,Hispanic/Latino
+1,July,2014,July/1/2014,7.7,Hispanic/Latino
+1,August,2014,August/1/2014,7.4,Hispanic/Latino
+1,September,2014,September/1/2014,6.8,Hispanic/Latino
+1,October,2014,October/1/2014,6.8,Hispanic/Latino
+1,November,2014,November/1/2014,6.6,Hispanic/Latino
+1,December,2014,December/1/2014,6.4,Hispanic/Latino
+1,January,2015,January/1/2015,6.7,Hispanic/Latino
+1,February,2015,February/1/2015,6.8,Hispanic/Latino
+1,March,2015,March/1/2015,6.8,Hispanic/Latino
+1,April,2015,April/1/2015,6.8,Hispanic/Latino
+1,May,2015,May/1/2015,6.8,Hispanic/Latino
+1,June,2015,June/1/2015,6.7,Hispanic/Latino
+1,July,2015,July/1/2015,6.9,Hispanic/Latino
+1,August,2015,August/1/2015,6.6,Hispanic/Latino
+1,September,2015,September/1/2015,6.2,Hispanic/Latino
+1,October,2015,October/1/2015,6.3,Hispanic/Latino
+1,November,2015,November/1/2015,6.4,Hispanic/Latino
+1,December,2015,December/1/2015,6.2,Hispanic/Latino
+1,January,2016,January/1/2016,5.8,Hispanic/Latino
+1,February,2016,February/1/2016,5.4,Hispanic/Latino
+1,March,2016,March/1/2016,5.5,Hispanic/Latino
+1,April,2016,April/1/2016,6.1,Hispanic/Latino
+1,May,2016,May/1/2016,5.6,Hispanic/Latino
+1,June,2016,June/1/2016,5.9,Hispanic/Latino
+1,July,2016,July/1/2016,5.5,Hispanic/Latino
+1,August,2016,August/1/2016,5.6,Hispanic/Latino
+1,September,2016,September/1/2016,6.4,Hispanic/Latino
+1,October,2016,October/1/2016,5.8,Hispanic/Latino
+1,November,2016,November/1/2016,5.8,Hispanic/Latino
+1,December,2016,December/1/2016,5.9,Hispanic/Latino
+1,January,2017,January/1/2017,5.8,Hispanic/Latino
+1,February,2017,February/1/2017,5.5,Hispanic/Latino
+1,March,2017,March/1/2017,5,Hispanic/Latino
+1,April,2017,April/1/2017,5.1,Hispanic/Latino
+1,May,2017,May/1/2017,5.2,Hispanic/Latino
+1,June,2017,June/1/2017,4.9,Hispanic/Latino
+1,July,2017,July/1/2017,5.1,Hispanic/Latino
+1,August,2017,August/1/2017,5.2,Hispanic/Latino
+1,September,2017,September/1/2017,5.1,Hispanic/Latino
+1,October,2017,October/1/2017,4.9,Hispanic/Latino
+1,November,2017,November/1/2017,4.8,Hispanic/Latino
+1,December,2017,December/1/2017,5,Hispanic/Latino
+1,January,2018,January/1/2018,5,Hispanic/Latino
+1,February,2018,February/1/2018,4.9,Hispanic/Latino
+1,March,2018,March/1/2018,5,Hispanic/Latino
+1,April,2018,April/1/2018,4.8,Hispanic/Latino
+1,May,2018,May/1/2018,4.9,Hispanic/Latino
+1,June,2018,June/1/2018,4.5,Hispanic/Latino
+1,July,2018,July/1/2018,4.4,Hispanic/Latino
+1,August,2018,August/1/2018,4.7,Hispanic/Latino
+1,September,2018,September/1/2018,4.6,Hispanic/Latino
+1,October,2018,October/1/2018,4.4,Hispanic/Latino
+1,November,2018,November/1/2018,4.5,Hispanic/Latino
+1,December,2018,December/1/2018,4.4,Hispanic/Latino
+1,January,2019,January/1/2019,4.8,Hispanic/Latino
+1,February,2019,February/1/2019,4.3,Hispanic/Latino
+1,March,2019,March/1/2019,4.7,Hispanic/Latino
+1,April,2019,April/1/2019,4.2,Hispanic/Latino
+1,May,2019,May/1/2019,4.2,Hispanic/Latino
+1,June,2019,June/1/2019,4.3,Hispanic/Latino
+1,July,2019,July/1/2019,4.5,Hispanic/Latino
+1,August,2019,August/1/2019,4.2,Hispanic/Latino
+1,September,2019,September/1/2019,3.9,Hispanic/Latino
+1,October,2019,October/1/2019,4.1,Hispanic/Latino
+1,November,2019,November/1/2019,4.2,Hispanic/Latino
+1,December,2019,December/1/2019,4.2,Hispanic/Latino
+1,January,2020,January/1/2020,4.3,Hispanic/Latino
+1,February,2020,February/1/2020,4.4,Hispanic/Latino
+1,March,2020,March/1/2020,6,Hispanic/Latino
+1,April,2020,April/1/2020,18.9,Hispanic/Latino
+1,May,2020,May/1/2020,17.6,Hispanic/Latino
+1,June,2020,June/1/2020,14.5,Hispanic/Latino
+1,July,2020,July/1/2020,12.9,Hispanic/Latino
+1,August,2020,August/1/2020,10.5,Hispanic/Latino
+1,September,2020,September/1/2020,10.3,Hispanic/Latino
