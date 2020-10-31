@@ -6,8 +6,8 @@
   {
   "title": "Unemployment Rates in US in 2020",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/usa_unemployment2020.csv"},
-  "width": 450,
- "height": 350,
+  "width": 350,
+ "height": 250,
   "mark": "bar",
   "encoding": {
     "x": {
@@ -24,8 +24,8 @@
   }
 },
  {
-  "width": 450,
-  "height": 340,
+  "width": 350,
+  "height": 250,
     "title": "Unemployment Rates for different Ethnicity groups in 2020",
   "mark": "area",
   "selection": {
