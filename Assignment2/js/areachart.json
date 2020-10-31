@@ -1,10 +1,12 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {
-    "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRates2000-2020.csv"
-  },
+ "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
  "width": 1150,
  "height": 400,
+ "title": "COVID-19 Cases per Country (13 Oct 2020)",
+ "data": {
+ "url":
+"https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRates2000-2020.csv"
+ },
   
   "transform": [
     {
@@ -12,7 +14,28 @@
     }
   ],
 
-  "mark": {
+
+ "encoding": {
+    "x": {
+      "field": "Date",
+      "type": "temporal",
+      "title": "Year"
+    },
+    "y": {
+      "field": "Unemployment Rates",
+      "type": "quantitative"
+    },
+    "tooltip": [
+ {"field": "Month", "type": "nominal", "title": "Month"},
+  {"field": "Year", "type": "nominal", "title": "Year"},
+ {"field": "Unemployment Rates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
+   ]
+    
+  },
+  
+ "layer": [
+ {
+ "mark": {
     "type": "area",
     "line": {
       "color": "darkred"
@@ -34,21 +57,71 @@
         }
       ]
     }
-  },
-  "encoding": {
-    "x": {
-      "field": "Date",
-      "type": "temporal",
-      "title": "Year"
-    },
-    "y": {
-      "field": "Unemployment Rates",
-      "type": "quantitative"
-    },
-    "tooltip": [
- {"field": "Month", "type": "nominal", "title": "Month"},
-  {"field": "Year", "type": "nominal", "title": "Year"},
- {"field": "Unemployment Rates", "type": "quantitative", "format": ".2f", "title": "Unemployment Rates"}
-    ]
   }
+ },
+ {
+ "mark": {
+ "type": "text",
+ "align": "right",
+ "baseline": "middle",
+ "dx": 40,
+ "text": ["The Dot-Com Bubble"],
+ "fontSize": 12,
+ "fontStyle": "bold"
+ },
+ "encoding": {
+ "opacity": {
+ "condition": {
+ "test": "datum['Month'] == 'September' && datum['Year'] == '2001'",
+ "value": 1
+ },
+ "value": 0
+ }
+ }
+ },
+ 
+
+  {
+ "mark": {
+ "type": "text",
+ "align": "right",
+ "baseline": "middle",
+ "dx": 40,
+ "text": ["The Global Financial Crisis"],
+ "fontSize": 12,
+ "fontStyle": "bold"
+ },
+ "encoding": {
+ "opacity": {
+ "condition": {
+ "test": "datum['Month'] == 'August' && datum['Year'] == '2008'",
+ "value": 1
+ },
+ "value": 0
+ }
+ }
+ },
+
+  {
+ "mark": {
+ "type": "text",
+ "align": "right",
+ "baseline": "middle",
+ "dx": 40,
+ "text": ["The COVID-19 Recession"],
+ "fontSize": 12,
+ "fontStyle": "bold"
+ },
+ "encoding": {
+ "opacity": {
+ "condition": {
+ "test": "datum['Month'] == 'April' && datum['Year'] == '2020'",
+ "value": 1
+ },
+ "value": 0
+ }
+ }
+ }
+
+ ]
 }
