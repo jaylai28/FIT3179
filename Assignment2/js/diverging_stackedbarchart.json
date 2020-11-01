@@ -9,8 +9,8 @@
       "filter": {"field": "Sex", "equal": "Female"}
     }],
     "title": "Female",
-    "width": 500,
- "height": 350,
+    "width": 600,
+ "height": 400,
     "mark": "bar",
     "encoding": {
       "y": {
@@ -34,15 +34,15 @@
     ]
     }
   }, {
-    "width": 20,
+    "width": 30,
     "view": {"stroke": null},
     "mark": {
       "type": "text",
       "align": "center"
     },
 
-    "width":10,
- "height": 350,
+    "width":30,
+ "height": 400,
     "encoding": {
       "y": {"field": "Age", "type": "ordinal", "axis": null, "sort": "descending"},
       "text": {"field": "Age", "type": "nominal"}
@@ -52,8 +52,8 @@
       "filter": {"field": "Sex", "equal": "Male"}
     }],
     "title": "Male",
-    "width": 500,
- "height": 350,
+    "width": 600,
+ "height": 400,
     "mark": "bar",
     "encoding": {
       "y": {
