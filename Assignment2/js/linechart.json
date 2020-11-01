@@ -4,12 +4,17 @@
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/usa_unemployment2020.csv"},
   "width": 300,
  "height": 150,
-  "mark": "bar",
+"mark": {
+    "type": "line",
+    "point": true
+  },
   "encoding": {
     "x": {
       "timeUnit": "month", "field": "Date", "title": "Month"
     },
     "y": {"aggregate": "mean", "field": "Total", "title": "Unemployment Rates"},
+        "color": {"value":"red"},
+
 
      "tooltip": [
  {"field": "Month", "type": "nominal", "title": "Month"},
