@@ -64,9 +64,10 @@
  "type": "text",
  "align": "right",
  "baseline": "middle",
- "dx": 40,
+ "dx":65,
+  "dy": -35,
  "text": ["The Dot-Com Bubble"],
- "fontSize": 12,
+ "fontSize": 11,
  "fontStyle": "bold"
  },
  "encoding": {
@@ -86,9 +87,10 @@
  "type": "text",
  "align": "right",
  "baseline": "middle",
- "dx": 40,
+ "dx": 18,
+   "dy": -35,
  "text": ["The Global Financial Crisis"],
- "fontSize": 12,
+ "fontSize": 11,
  "fontStyle": "bold"
  },
  "encoding": {
@@ -108,8 +110,9 @@
  "align": "right",
  "baseline": "middle",
  "dx": 40,
+   "dy": -10,
  "text": ["The COVID-19 Recession"],
- "fontSize": 12,
+ "fontSize": 11,
  "fontStyle": "bold"
  },
  "encoding": {
