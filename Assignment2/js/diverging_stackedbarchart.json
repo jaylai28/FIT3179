@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "An unemployment rates pyramid for the US in 2020.",
   "data": { "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRatesByAge.csv"},
 
   "spacing": 0,
@@ -34,7 +33,6 @@
     ]
     }
   }, {
-    "width": 30,
     "view": {"stroke": null},
     "mark": {
       "type": "text",
