@@ -15,6 +15,55 @@
           "domain": false
       }
   },
+   "params": [
+     {
+ "name": "unemployment_above",
+ "value": 0,
+ "bind": {
+ "input": "range",
+ "min": 0,
+ "max": 30,
+ "step": 1,
+ "name": "Unemployment Rate: "
+ }
+ },
+ {
+
+ "name": "month_selection",
+ "bind": {
+ "input": "select",
+ "options": [
+ null,
+"January",
+"February",
+"March",
+"April",
+"May",
+"June",
+"July",
+"August",
+"September"
+ ],
+ "labels":[
+ "Show All",
+"January",
+"February",
+"March",
+"April",
+"May",
+"June",
+"July",
+"August",
+"September"
+ ],
+ "name": "Month Selection: "
+ }
+ }
+ ],
+ "transform": [
+   {"filter": "datum.UnemploymentRates > unemployment_above"},
+ {"filter": "month_selection == null || datum.Month == month_selection"}
+ ],
   "mark": "rect",
   "encoding": {
       "y": {
@@ -47,4 +96,3 @@
  ]
   }
 }
-
