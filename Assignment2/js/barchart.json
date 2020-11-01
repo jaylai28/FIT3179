@@ -3,7 +3,7 @@
   "title": "Unemployment Rates in US in 2020",
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/usa_unemployment2020.csv"},
   "width": 300,
- "height": 200,
+ "height": 150,
   "mark": "bar",
   "encoding": {
     "x": {
