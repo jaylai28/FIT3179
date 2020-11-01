@@ -3,7 +3,7 @@
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentByIndustries.csv"
   },
  "width": 150,
- "height": 150,
+ "height": 200,
  "title": "Unemployment Rate for different industries",
   "params": [
   ],
