@@ -47,7 +47,14 @@
     },
   "encoding": {
     "x": {
-     "timeUnit": "monthyear", "field": "Date", "title": "Date"
+     "timeUnit": "yearmonth", "field": "Date", "title": "Date",
+     "axis": {
+        "tickCount": 5,
+        "labelAlign": "left",
+        "labelExpr": "[timeFormat(datum.value, '%b'), timeFormat(datum.value, '%m') == '01' ? timeFormat(datum.value, '%Y') : '']",
+        "tickSize": 5
+       
+      }
     },
     "y": {
       "field": "Unemployment Rates",
@@ -98,7 +105,7 @@
     },
   "encoding": {
     "x": {
-     "timeUnit": "monthyear", "field": "Date", "title": "Date"
+     "timeUnit": "yearmonth", "field": "Date", "title": "Date"
     },
     "y": {
       "field": "Unemployment Rates",
