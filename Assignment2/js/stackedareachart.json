@@ -3,7 +3,7 @@
   "data": {"url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRatesByEthnicity.csv"},
 
   "width": 250,
-  "height": 200,
+  "height": 150,
     "title": "Unemployment Rates for different Ethnicity groups in 2020",
   "mark": "area",
   "selection": {
