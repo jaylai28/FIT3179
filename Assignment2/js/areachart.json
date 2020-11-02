@@ -1,6 +1,6 @@
 {
  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
- "width": 1300,
+ "width": 1250,
  "height": 400,
  "padding": {"left": -80, "top": 5, "right": 5, "bottom": 5},
  "title": "COVID-19 Cases per Country (13 Oct 2020)",
