@@ -3,7 +3,7 @@
   "data": {
       "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/state_unemployment2020.csv"
   },
-  "width": 1150,
+  "width": 1175,
  "height": 500,
   "title": "Unemployment Rate in every state in US in 2020",
   "config": {
