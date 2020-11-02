@@ -3,6 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/wlai0013/FIT3179/master/Assignment2/data/UnemploymentRates2000-2020.csv"
   },
+    "padding": {"left": 5, "top": 5, "right": 5, "bottom": 5},
   
   "transform": [
     {
@@ -122,7 +123,8 @@
    {
   "width": 380,
  "height": 200,
-  "title": "The COVID-19 Recession 2020",
+
+  "title": {"text": "The COVID-19 Recession 2020", "dy": -7},
   "transform": [
     {
       "filter": "datum.Type=='Total'"
